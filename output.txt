@@ -1,0 +1,2 @@
+The result of subtraction on 4 and 2 is below.
+2
