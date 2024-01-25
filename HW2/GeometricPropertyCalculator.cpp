@@ -7,7 +7,9 @@ using namespace std;
 
 int main()
 {
-    fstream input("input.txt");
+    
+    fstream input("input.txt", ios::app);
+    
     if(!input.is_open())
     {
         cout << "Error 404: File Not Found";
