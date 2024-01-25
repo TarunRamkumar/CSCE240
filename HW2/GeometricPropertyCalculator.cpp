@@ -8,14 +8,14 @@ using namespace std;
 int main()
 {
     
-    fstream input("input.txt", ios::app);
+    fstream input("input.txt");
     
     if(!input.is_open())
     {
         cout << "Error 404: File Not Found";
         return 0;
     }
-    fstream output("output.txt");
+    fstream output("output.txt", ios::app);
     if(!output.is_open())
     {
         cout << "The file could not be opened and thus nothing was outputted. Please try again.";
@@ -37,7 +37,7 @@ int main()
         else
             calc = "PERIMITER";
         string line;
-        char buff;
+        
         while(getline(input, line))
         {
             string shape;
@@ -83,9 +83,8 @@ int main()
 
 string rect(double width, double height,int action)
 {
-    if(width == NULL || height == NULL)
-        return "Not enough information to calculate";
-    else if(action == 1 )
+    
+    if(action == 1 )
         return to_string(round(width*height*1000)/1000);
     else
         return to_string(2*width + 2*height);
@@ -95,9 +94,8 @@ string rect(double width, double height,int action)
 
 string circ(double radius, int action)
 {
-    if(radius == NULL)
-        return "Not enough information to calculate";
-    else if(action == 1 )
+    
+    if(action == 1 )
         return to_string(round(M_PI * radius * radius*1000)/1000);
     else
         return to_string(round(2*M_PI*radius*1000)/1000);
@@ -108,9 +106,8 @@ string circ(double radius, int action)
 
 string tri(double a, double b, double c, int action)
 {
-    if(a == NULL || b == NULL || c == NULL)
-        return "Not enough information to calculate";
-    else if(action == 1 )
+    
+    if(action == 1 )
     {
         double s = (a+b+c)/2;
         return to_string(sqrt(s*(s-a)*(s-b)*(s-c)));
