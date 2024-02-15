@@ -18,10 +18,10 @@
 using namespace std;
 
 //User files
-#include "D:\Code\GitHub\CSCE240\HW3\Headers\circle.h"
-#include "D:\Code\GitHub\CSCE240\HW3\Headers\rectangle.h"
-#include "D:\Code\GitHub\CSCE240\HW3\Headers\shape.h"
-#include "D:\Code\GitHub\CSCE240\HW3\Headers\triangle.h"
+#include "Headers/circle.h"
+#include "Headers/rectangle.h"
+#include "Headers/shape.h"
+#include "Headers/triangle.h"
  
 
 std::vector<string> readFile(fstream &input)
