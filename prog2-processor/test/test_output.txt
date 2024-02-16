@@ -10,7 +10,7 @@ Commands:
             takes a string regex
 
         -i, --item = returns the requested item
-            takes a string regex
+            takes a string regex. Can either request the item ("Item 4") or search with the description ("Business")
         arguments: 
 
     table of contents: prints out the table of contents for the given file. Used to find the valid search parameters

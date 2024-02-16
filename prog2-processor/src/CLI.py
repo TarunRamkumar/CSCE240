@@ -33,6 +33,7 @@ args = mainParser.parse_args()
 google = FileParser.FileParser("..\data\Google10k-4Q-2024.txt")
 generalMotors = FileParser.FileParser("..\data\GeneralMotors10k-4Q-2024.txt")
 
+google.searchParts("hi")
 #processes through the arguments and gives the corresponding output
 if not (args.company==1 or args.company==2):
     print("Error: Invalid company detected. Retry the command, ensuring you either input 1 or 2 for the company")
