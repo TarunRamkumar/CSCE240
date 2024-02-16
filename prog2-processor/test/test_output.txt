@@ -1,0 +1,57 @@
+Commands:
+    search: Searches through the file using the given regex pattern
+        format: sc -c -p or i ( [p] and [i] are mutually exclusive)
+        sp = searchCommand
+        -c, --company = company to choose from. 
+            1 for Google
+            2 for General Motors
+
+        -p, --part = search through parts
+            takes a string regex
+
+        -i, --item = returns the requested item
+            takes a string regex
+        arguments: 
+
+    table of contents: prints out the table of contents for the given file. Used to find the valid search parameters
+        format: toc -c
+            -c, --company = company to choose from
+                1 for Google
+                2 for General Motors
+
+    all content: prints out all the content in a given file
+        format: ac -c
+            -c, --company = company to choose from
+                1 for Google
+                2 for General Motors
+
+__________________________________________________________________________________________________________________________________
+Expected Outputs: 
+
+toc -1 //returns the dictionary with the items grouped into parts
+{'Part 0': ['Page', 'Note About Forward-Looking Statements'], 'PART I': ['Item 1.: Business', 'Item 1A.: Risk Factors', 'Item 1B.: Unresolved Staff Comments', 'Item 1C.: Cybersecurity', 'Item 2.: Properties', 'Item 3.: Legal Proceedings', 'Item 4.: Mine Safety Disclosures'], 'PART II': ['Item 5.: Market for Registrant’s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities', 'Item 6.: [Reserved]', 'Item 7.: Management’s Discussion and Analysis of Financial Condition and Results of Operations', 'Item 7A.: Quantitative and Qualitative Disclosures About Market Risk', 'Item 8.: Financial Statements and Supplementary Data', 'Item 9.: Changes in and Disagreements With Accountants on Accounting and Financial Disclosure', 'Item 9A.: Controls and Procedures', 'Item 9B.: Other Information', 'Item 9C.: Disclosure Regarding Foreign Jurisdictions that Prevent Inspections'], 'PART III': ['Item 10.: Directors, Executive Officers, and Corporate Governance', 'Item 11.: Executive Compensation', 'Item 12.: Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters', 'Item 13.: Certain Relationships and Related Transactions, and Director Independence', 'Item 14.: Principal Accountant Fees and Services'], 'PART IV': ['Item 15.: Exhibits, Financial Statement Schedules', 'Item 16.: Form 10-K Summary', 'Signatures', '2.']}
+
+sp -c 1 -p "Part III":
+ITEM 10.
+DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE
+The information required by this item will be included under the caption “Directors, Executive Officers, and Corporate Governance” in our Proxy Statement for the 2024 Annual Meeting of Stockholders to be filed with the SEC within 120 days of the fiscal year ended
+December 31, 2023
+(2024 Proxy Statement) and is incorporated herein by reference. The information required by this item regarding delinquent filers pursuant to Item 405 of Regulation S-K will be included under the caption “Delinquent Section 16(a) Reports” in the 2024 Proxy Statement and is incorporated herein by reference.
+ITEM 11.
+EXECUTIVE COMPENSATION
+The information required by this item will be included under the captions “Director Compensation,” “Executive Compensation” and “Directors, Executive Officers, and Corporate Governance—Corporate Governance and Board Matters—Compensation Committee Interlocks and Insider Participation” in the 2024 Proxy Statement and is incorporated herein by reference, except as to information disclosed therein pursuant to Item 402(v) of Regulation S-K relating to pay versus performance.
+ITEM 12.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+The information required by this item will be included under the captions “Common Stock Ownership of Certain Beneficial Owners and Management” and “Equity Compensation Plan Information” in the 2024 Proxy Statement and is incorporated herein by reference.
+ITEM 13.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+The information required by this item will be included under the captions “Certain Relationships and Related Transactions” and “Directors, Executive Officers, and Corporate Governance—Corporate Governance and Board Matters—Director Independence” in the 2024 Proxy Statement and is incorporated herein by reference.
+ITEM 14.
+PRINCIPAL ACCOUNTANT FEES AND SERVICES
+The information required by this item will be included under the caption “Independent Registered Public Accounting Firm” in the 2024 Proxy Statement and is incorporated herein by reference.
+90.
+Table of Contents
+Alphabet Inc.
+
+sp -c 2 -i "Item 4"
+
