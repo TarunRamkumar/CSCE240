@@ -8,7 +8,7 @@ ___________________________________________
 (Mark One)
 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
 For the fiscal year ended
-December 31
+December 31
 , 2023
 OR
 TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
@@ -32,11 +32,11 @@ CA
 650
 253-0000
 (Registrant's telephone number, including area code)
-Securities registered pursuant to Section 12(b) of the Act:
+Securities registered pursuant to Section 12(b) of the Act:
 Title of each class
 Trading Symbol(s)
 Name of each exchange on which registered
-Class A Common Stock, $0.001 par value
+Class A Common Stock, $0.001 par value
 GOOGL
 Nasdaq Stock Market LLC
 (Nasdaq Global Select Market)
@@ -44,16 +44,16 @@ Class C Capital Stock, $0.001 par value
 GOOG
 Nasdaq Stock Market LLC
 (Nasdaq Global Select Market)
-Securities registered pursuant to Section 12(g) of the Act:
+Securities registered pursuant to Section 12(g) of the Act:
 Title of each class
 None
 ___________________________________________
 Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
 Yes
 No
-Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.    Yes
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.    Yes
 No
-Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
 Yes
 No
 Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
@@ -69,49 +69,49 @@ If an emerging growth company, indicate by check mark if the registrant has elec
 Indicate by check mark whether the registrant has filed a report on and attestation to its management's assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C.7262(b)) by the registered public accounting firm that prepared or issued its audit report.
 If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements.
 Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant's executive officers during the relevant recovery period pursuant to §240.10D-1(b).
-Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes
 No
 As of
-June 30, 2023
+June 30, 2023
 , the aggregate market value of shares held by non-affiliates of the registrant (based upon the closing sale prices of such shares on the Nasdaq Global Select Market on
-June 30, 2023
+June 30, 2023
 ) was approximately
 1,331.2
 billion
-. For purposes of calculating the aggregate market value of shares held by non-affiliates, we have assumed that all outstanding shares are held by non-affiliates, except for shares held by each of our executive officers, directors, and 5% or greater stockholders. In the case of 5% or greater stockholders, we have not deemed such stockholders to be affiliates unless there are facts and circumstances which would indicate that such stockholders exercise any control over our company, or unless they hold 10% or more of our outstanding common stock. These assumptions should not be deemed to constitute an admission that all executive officers, directors, and 5% or greater stockholders are, in fact, affiliates of our company, or that there are not other persons who may be deemed to be affiliates of our company. Further information concerning shareholdings of our officers, directors, and principal stockholders is included or incorporated by reference in Part III, Item 12 of this Annual Report on Form 10-K.
+. For purposes of calculating the aggregate market value of shares held by non-affiliates, we have assumed that all outstanding shares are held by non-affiliates, except for shares held by each of our executive officers, directors, and 5% or greater stockholders. In the case of 5% or greater stockholders, we have not deemed such stockholders to be affiliates unless there are facts and circumstances which would indicate that such stockholders exercise any control over our company, or unless they hold 10% or more of our outstanding common stock. These assumptions should not be deemed to constitute an admission that all executive officers, directors, and 5% or greater stockholders are, in fact, affiliates of our company, or that there are not other persons who may be deemed to be affiliates of our company. Further information concerning shareholdings of our officers, directors, and principal stockholders is included or incorporated by reference in Part III, Item 12 of this Annual Report on Form 10-K.
 As of
-January 23, 2024
+January 23, 2024
 , there wer
 5,893
-million shares of Alphabet’s Class A stock outstanding,
+million shares of Alphabet’s Class A stock outstanding,
 869
-million shares of Alphabet’s Class B stock outstanding, and
+million shares of Alphabet’s Class B stock outstanding, and
 5,671
-million shares of the Alphabet’s Class C stock outstanding.
+million shares of the Alphabet’s Class C stock outstanding.
 ___________________________________________
 DOCUMENTS INCORPORATED BY REFERENCE
-Portions of the registrant’s Proxy Statement for the 2024 Annual Meeting of Stockholders are incorporated herein by reference in Part III of this Annual Report on Form 10-K to the extent stated herein. Such proxy statement will be filed with the Securities and Exchange Commission within 120 days of the registrant’s fiscal year ended December 31, 2023.
+Portions of the registrant’s Proxy Statement for the 2024 Annual Meeting of Stockholders are incorporated herein by reference in Part III of this Annual Report on Form 10-K to the extent stated herein. Such proxy statement will be filed with the Securities and Exchange Commission within 120 days of the registrant’s fiscal year ended December 31, 2023.
 Table of Contents
 Alphabet Inc.
 Alphabet Inc.
 Form 10-K
-For the Fiscal Year Ended December 31, 2023
+For the Fiscal Year Ended December 31, 2023
 TABLE OF CONTENTS
 Page
 Note About Forward-Looking Statements
-PART I
-Item 1.
+PART I
+Item 1.
 Business
-Item 1A.
+Item 1A.
 Risk Factors
 11
-Item 1B.
+Item 1B.
 Unresolved Staff Comments
 24
-Item 1C.
+Item 1C.
 Cybersecurity
 24
-Item 2.
+Item 2.
 Properties
 25
 Item 3.
@@ -121,25 +121,25 @@ Item 4.
 Mine Safety Disclosures
 25
 PART II
-Item 5.
+Item 5.
 Market for Registrant’s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities
 25
-Item 6.
+Item 6.
 [Reserved]
 28
-Item 7.
+Item 7.
 Management’s Discussion and Analysis of Financial Condition and Results of Operations
 29
-Item 7A.
+Item 7A.
 Quantitative and Qualitative Disclosures About Market Risk
 45
-Item 8.
+Item 8.
 Financial Statements and Supplementary Data
 47
-Item 9.
+Item 9.
 Changes in and Disagreements With Accountants on Accounting and Financial Disclosure
 88
-Item 9A.
+Item 9A.
 Controls and Procedures
 88
 Item 9B.
@@ -148,24 +148,24 @@ Other Information
 Item 9C.
 Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
 89
-PART III
-Item 10.
+PART III
+Item 10.
 Directors, Executive Officers, and Corporate Governance
 90
-Item 11.
+Item 11.
 Executive Compensation
 90
-Item 12.
+Item 12.
 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
 90
-Item 13.
+Item 13.
 Certain Relationships and Related Transactions, and Director Independence
 90
-Item 14.
+Item 14.
 Principal Accountant Fees and Services
 90
-PART IV
-Item 15.
+PART IV
+Item 15.
 Exhibits, Financial Statement Schedules
 91
 Item 16.
@@ -555,7 +555,7 @@ In addition, we believe that our corporate culture fosters innovation, creativit
 ITEM 1B.
 UNRESOLVED STAFF COMMENTS
 Not applicable.
-ITEM 1C.     CYBERSECURITY
+ITEM 1C.     CYBERSECURITY
 We maintain a comprehensive process for identifying, assessing, and managing material risks from cybersecurity threats as part of our broader risk management system and processes. We obtain input, as appropriate, for our cybersecurity risk management program on the security industry and threat trends from multiple external experts and internal threat intelligence teams. Teams of dedicated privacy, safety, and security professionals oversee cybersecurity risk management and mitigation, incident prevention, detection, and remediation. Leadership for these teams are professionals with deep cybersecurity expertise across multiple industries, including our Vice President of Privacy, Safety, and Security Engineering. Our executive leadership team, along with input from the above teams, are responsible for our overall enterprise risk management system and processes and regularly consider cybersecurity risks in the context of other material risks to the company.
 As part of our cybersecurity risk management system, our incident management teams track and log privacy and security incidents across Alphabet, our vendors, and other third-party service providers to remediate and resolve any such incidents. Significant incidents are reviewed regularly by a cross-functional working group to determine whether further escalation is appropriate. Any incident assessed as potentially being or potentially becoming material is immediately escalated for further assessment, and then reported to designated members of our senior management. We consult with outside counsel as appropriate, including on materiality analysis and disclosure matters, and our
 24.
@@ -579,8 +579,8 @@ MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS, AND ISSUER
 As of October 2, 2015, Alphabet Inc. became the successor issuer of Google Inc. pursuant to Rule 12g-3(a) under the Exchange Act. Our Class A stock has been listed on the Nasdaq Global Select Market under the symbol “GOOG” since August 19, 2004, and under the symbol "GOOGL" since April 3, 2014. Prior to August 19, 2004, there was no public market for our stock. Our Class B stock is neither listed nor traded. Our Class C stock has been listed on the Nasdaq Global Select Market under the symbol “GOOG” since April 3, 2014.
 Holders of Record
 As of
-December 31, 2023
-, there were approximately 7,305 and 1,757 stockholders of record of our Class A stock and Class C stock, respectively. Because many of our shares of Class A stock and Class C stock are held by brokers and other institutions on behalf of stockholders, we are unable to estimate the total number of stockholders represented by these record holders. As of December 31, 2023, there were approximately 59 stockholders of record of our Class B stock.
+December 31, 2023
+, there were approximately 7,305 and 1,757 stockholders of record of our Class A stock and Class C stock, respectively. Because many of our shares of Class A stock and Class C stock are held by brokers and other institutions on behalf of stockholders, we are unable to estimate the total number of stockholders represented by these record holders. As of December 31, 2023, there were approximately 59 stockholders of record of our Class B stock.
 Dividend Policy
 We have never declared or paid any cash dividend on our common or capital stock. The primary use of capital continues to be to invest for the long-term growth of the business. We regularly evaluate our cash and capital structure, including the size, pace, and form of capital return to stockholders.
 25.
@@ -588,7 +588,7 @@ Table of Contents
 Alphabet Inc.
 Issuer Purchases of Equity Securities
 The following table presents information with respect to Alphabet's repurchases of Class A and Class C stock during the quarter ended
-December 31, 2023
+December 31, 2023
 Period
 Total Number of Class A Shares Purchased
 (in thousands)
@@ -640,23 +640,23 @@ Average price paid per share includes costs associated with the repurchases.
 Table of Contents
 Alphabet Inc.
 Stock Performance Graphs
-The graph below matches Alphabet Inc. Class A's cumulative five-year total stockholder return on common stock with the cumulative total returns of the S&P 500 index, the NASDAQ Composite index, and the RDG Internet Composite index. The graph tracks the performance of a $100 investment in our common stock and in each index (with the reinvestment of all dividends) from December 31, 2018, to December 31, 2023. The returns shown are based on historical results and are not intended to suggest future performance.
+The graph below matches Alphabet Inc. Class A's cumulative five-year total stockholder return on common stock with the cumulative total returns of the S&P 500 index, the NASDAQ Composite index, and the RDG Internet Composite index. The graph tracks the performance of a $100 investment in our common stock and in each index (with the reinvestment of all dividends) from December 31, 2018, to December 31, 2023. The returns shown are based on historical results and are not intended to suggest future performance.
 COMPARISON OF CUMULATIVE 5-YEAR TOTAL RETURN*
 ALPHABET INC. CLASS A COMMON STOCK
 Among Alphabet Inc., the S&P 500 Index, the
 NASDAQ Composite Index, and the RDG Internet Composite Index
-*$100 invested on December 31, 2018, in stock or index, including reinvestment of dividends.
+*$100 invested on December 31, 2018, in stock or index, including reinvestment of dividends.
 Copyright
 2024 S&P, a division of The McGraw-Hill Companies Inc. All rights reserved.
 27.
 Table of Contents
 Alphabet Inc.
-The graph below matches Alphabet Inc. Class C's cumulative five-year total stockholder return on capital stock with the cumulative total returns of the S&P 500 index, the NASDAQ Composite index, and the RDG Internet Composite index. The graph tracks the performance of a $100 investment in our Class C capital stock and in each index (with the reinvestment of all dividends) from December 31, 2018, to December 31, 2023. The returns shown are based on historical results and are not intended to suggest future performance.
+The graph below matches Alphabet Inc. Class C's cumulative five-year total stockholder return on capital stock with the cumulative total returns of the S&P 500 index, the NASDAQ Composite index, and the RDG Internet Composite index. The graph tracks the performance of a $100 investment in our Class C capital stock and in each index (with the reinvestment of all dividends) from December 31, 2018, to December 31, 2023. The returns shown are based on historical results and are not intended to suggest future performance.
 COMPARISON OF CUMULATIVE 5-YEAR TOTAL RETURN*
 ALPHABET INC. CLASS C CAPITAL STOCK
 Among Alphabet Inc., the S&P 500 Index, the
 NASDAQ Composite Index, and the RDG Internet Composite Index
-*$100 invested on December 31, 2018, in stock or in index, including reinvestment of dividends.
+*$100 invested on December 31, 2018, in stock or in index, including reinvestment of dividends.
 Copyright
 2024 S&P, a division of The McGraw-Hill Companies Inc. All rights reserved.
 ITEM 6.
@@ -838,17 +838,17 @@ year over year.
 Cost of revenues was $133.3 billion, an increase of 6% year over year, primarily driven by increases in content acquisition costs, compensation expenses, and TAC. The increase in compensation expenses included charges related to employee severance associated with the reduction in our workforce. Additionally, cost of revenues benefited from a reduction in depreciation due to the change in estimated useful lives of our servers and network equipment.
 Operating expenses were $89.8 billion, an increase of 10% year over year, primarily driven by an increase in compensation expenses and charges related to our office space optimization efforts. The increase in compensation expenses was largely the result of charges related to employee severance associated with the reduction in our workforce and an increase in SBC expense. Operating expenses benefited from the change in the estimated useful lives of our servers and certain network equipment.
 Other Information:
-In January 2023, we announced a reduction of our workforce, and as a result we recorded employee severance and related charges of $2.1 billion for the year ended December 31, 2023. In addition, we are taking actions to optimize our global office space. As a result, exit charges recorded during the year ended December 31, 2023, were $1.8 billion. In addition to these exit charges, for the year ended December 31, 2023, we incurred $269 million in accelerated rent and accelerated depreciation. For additional information, see Note 8 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+In January 2023, we announced a reduction of our workforce, and as a result we recorded employee severance and related charges of $2.1 billion for the year ended December 31, 2023. In addition, we are taking actions to optimize our global office space. As a result, exit charges recorded during the year ended December 31, 2023, were $1.8 billion. In addition to these exit charges, for the year ended December 31, 2023, we incurred $269 million in accelerated rent and accelerated depreciation. For additional information, see Note 8 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
 In January 2023, we completed an assessment of the useful lives of our servers and network equipment, resulting in a change in the estimated useful life of our servers and certain network equipment to six years. The effect of this change was a reduction in depreciation expense of $3.9 billion for the year ended December 31, 2023, recognized primarily in cost of revenues and R&D expenses. For additional information, see Note 1 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
 34.
 Table of Contents
 Alphabet Inc.
 On July 21, 2023, the IRS announced a rule change allowing taxpayers to temporarily apply the regulations in effect prior to 2022 related to U.S. federal foreign tax credits. This announcement applies to foreign taxes paid or accrued in the fiscal years 2022 and 2023. A cumulative one-time adjustment applicable to the prior period for this tax rule change was recorded in 2023 and is reflected in our effective tax rate of 13.9% for the year ended December 31, 2023.
-Repurchases of Class A and Class C shares were $62.2 billion for the year ended December 31, 2023. For additional information, see Note 11 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Repurchases of Class A and Class C shares were $62.2 billion for the year ended December 31, 2023. For additional information, see Note 11 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
 Operating cash flow was $101.7 billion for the year ended December 31, 2023.
 Capital expenditures, which primarily reflected investments in technical infrastructure, were $32.3 billion for the year ended December 31, 2023.
 As of
-December 31, 2023, we had
+December 31, 2023, we had
 182,502 employees.
 Financial Results
 Revenues
@@ -934,7 +934,7 @@ For additional information, see Note 2 of the Notes to Consolidated Financial St
 Table of Contents
 Alphabet Inc.
 Use of Non-GAAP Constant Currency Information
-International revenues, which represent a significant portion of our revenues, are generally transacted in multiple currencies and therefore are affected by fluctuations in foreign currency exchange rates.
+International revenues, which represent a significant portion of our revenues, are generally transacted in multiple currencies and therefore are affected by fluctuations in foreign currency exchange rates.
 The effect of currency exchange rates on our business is an important factor in understanding period-to-period comparisons. We use non-GAAP constant currency revenues ("constant currency revenues") and non-GAAP percentage change in constant currency revenues ("percentage change in constant currency revenues") for financial and operational decision-making and as a means to evaluate period-to-period comparisons. We believe the presentation of results on a constant currency basis in addition to U.S. Generally Accepted Accounting Principles (GAAP) results helps improve the ability to understand our performance, because it excludes the effects of foreign currency volatility that are not indicative of our core operating results.
 Constant currency information compares results between periods as if exchange rates had remained constant period over period. We define constant currency revenues as revenues excluding the effect of foreign currency exchange rate movements ("FX Effect") as well as hedging activities, which are recognized at the consolidated level. We use constant currency revenues to determine the constant currency revenue percentage change on a year-on-year basis. Constant currency revenues are calculated by translating current period revenues using prior year comparable period exchange rates, as well as excluding any hedging effects realized in the current period.
 Constant currency revenue percentage change is calculated by determining the change in current period revenues over prior year comparable period revenues where current period foreign currency revenues are translated using prior year comparable period exchange rates and hedging effects are excluded from revenues of both periods.
@@ -1063,7 +1063,7 @@ General and administrative expenses
 15,724
 16,425
 General and administrative expenses as a percentage of revenues
-General and administrative expenses increased $701 million from 2022 to 2023, primarily driven by an increase in compensation expenses of $416 million, which was largely the result of $264 million in employee severance charges associated with the reduction in our workforce in addition to a combination of other factors, none of which were individually significant.
+General and administrative expenses increased $701 million from 2022 to 2023, primarily driven by an increase in compensation expenses of $416 million, which was largely the result of $264 million in employee severance charges associated with the reduction in our workforce in addition to a combination of other factors, none of which were individually significant.
 Segment Profitability
 The following table presents segment operating income (loss) (in millions).
 Year Ended December 31,
@@ -1136,7 +1136,7 @@ OI&E, net increased $4.9 billion from 2022 to 2023. The increase was primarily d
 For additional information, see Note 7 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
 Provision for Income Taxes
 The following table presents provision for income taxes (in millions, except for effective tax rate):
-Year Ended December 31,
+Year Ended December 31,
 2022
 2023
 Income before provision for income taxes
@@ -1154,7 +1154,7 @@ The OECD is coordinating negotiations among more than 140 countries with the goa
 Financial Condition
 Cash, Cash Equivalents, and Marketable Securities
 As of
-December 31, 2023
+December 31, 2023
 , we had $110.9 billion in cash, cash equivalents, and short-term marketable securities. Ca
 sh equivalents and marketable securities a
 re comprised of time deposits, money market funds, highly liquid government bonds, corporate debt securities, mortgage-backed and asset-backed securities, and marketable equity securities.
@@ -1164,7 +1164,7 @@ Our principal sources of liquidity are cash, cash equivalents, and marketable se
 Table of Contents
 Alphabet Inc.
 The following table presents our cash flows (in millions):
-Year Ended December 31,
+Year Ended December 31,
 2022
 2023
 Net cash provided by operating activities
@@ -1198,17 +1198,17 @@ Construction in progress consists primarily of technical infrastructure and offi
 41.
 Table of Contents
 Alphabet Inc.
-During the years ended December 31, 2022 and 2023, we spent $31.5 billion and $32.3 billion on capital expenditures, respectively. We expect to increase, relative to 2023, our investment in our technical infrastructure, including servers, network equipment, and data centers, to support the growth of our business and our long-term initiatives, in particular in support of AI products and services. Depreciation of our property and equipment commences when the deployment of such assets are completed and are ready for our intended use. Land is not depreciated. For the years ended December 31, 2022 and 2023, our depreciation on property and equipment were $13.5 billion and $11.9 billion, respectively.
+During the years ended December 31, 2022 and 2023, we spent $31.5 billion and $32.3 billion on capital expenditures, respectively. We expect to increase, relative to 2023, our investment in our technical infrastructure, including servers, network equipment, and data centers, to support the growth of our business and our long-term initiatives, in particular in support of AI products and services. Depreciation of our property and equipment commences when the deployment of such assets are completed and are ready for our intended use. Land is not depreciated. For the years ended December 31, 2022 and 2023, our depreciation on property and equipment were $13.5 billion and $11.9 billion, respectively.
 Leases
-For the years ended December 31, 2022 and 2023, we recognized total operating lease assets of $4.4 billion and $2.9 billion, respectively. As of December 31, 2023, the amount of total future lease payments under operating leases, which had a weighted average remaining lease term of eight years, was $17.7 billion, of which $3.2 billion is short-term. As of December 31, 2023, we have entered into leases that have not yet commenced with future short-term and long-term lease payments of $657 million and $3.3 billion, that are not yet recorded on our Consolidated Balance Sheets. These leases will commence between 2024 and 2026 with non-cancelable lease terms of one to 25 years.
-For the years ended December 31, 2022 and 2023, our operating lease expenses (including variable lease costs) were $3.7 billion and $4.5 billion, respectively. Finance lease costs were not material for the years ended December 31, 2022 and 2023. For additional information, see Note 4 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+For the years ended December 31, 2022 and 2023, we recognized total operating lease assets of $4.4 billion and $2.9 billion, respectively. As of December 31, 2023, the amount of total future lease payments under operating leases, which had a weighted average remaining lease term of eight years, was $17.7 billion, of which $3.2 billion is short-term. As of December 31, 2023, we have entered into leases that have not yet commenced with future short-term and long-term lease payments of $657 million and $3.3 billion, that are not yet recorded on our Consolidated Balance Sheets. These leases will commence between 2024 and 2026 with non-cancelable lease terms of one to 25 years.
+For the years ended December 31, 2022 and 2023, our operating lease expenses (including variable lease costs) were $3.7 billion and $4.5 billion, respectively. Finance lease costs were not material for the years ended December 31, 2022 and 2023. For additional information, see Note 4 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
 Financing
-We have a short-term debt financing program of up to $10.0 billion through the issuance of commercial paper. Net proceeds from this program are used for general corporate purposes. As of December 31, 2023, we had no commercial paper outstanding.
-As of December 31, 2023, we had $10.0 billion of revolving credit facilities,
+We have a short-term debt financing program of up to $10.0 billion through the issuance of commercial paper. Net proceeds from this program are used for general corporate purposes. As of December 31, 2023, we had no commercial paper outstanding.
+As of December 31, 2023, we had $10.0 billion of revolving credit facilities,
 $4.0 billion expiring in April 2024 and $6.0 billion expiring in April 2028. The interest rates for all credit facilities are determined based on a formula using certain market rates, as well as our progress toward the achievement of certain sustainability goals
 . No amounts
 have been borrowed under the credit facilities.
-As of December 31, 2023, we had senior unsecured notes outstanding with a total carrying value of $12.9 billion with short-term and long-term future interest payments of $214 million and $3.6 billion, respectively. For additional information, see Note 6 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+As of December 31, 2023, we had senior unsecured notes outstanding with a total carrying value of $12.9 billion with short-term and long-term future interest payments of $214 million and $3.6 billion, respectively. For additional information, see Note 6 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
 We primarily utilize contract manufacturers for the assembly of our servers used in our technical infrastructure and devices we sell. We have agreements where we may purchase components directly from suppliers and then supply these components to contract manufacturers for use in the assembly of the servers and devices. Certain of these arrangements result in a portion of the cash received from and paid to the contract manufacturers to be presented as financing activities in the Consolidated Statements of Cash Flows included in Item 8 of this Annual Report on Form 10-K.
 Share Repurchase Program
 During 2023 we repurchased and subsequently retired 528 million shares for $62.2 billion.
@@ -1237,28 +1237,28 @@ Total share repurchases
 528
 62,184
 (1)
-Shares repurchased include unsettled repurchases as of December 31, 2023.
+Shares repurchased include unsettled repurchases as of December 31, 2023.
 For additional information, see Note 11 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
 42.
 Table of Contents
 Alphabet Inc.
 European Commission Fines
-In 2017, 2018 and 2019, the EC announced decisions that certain actions taken by Google infringed European competition law and imposed fines of €2.4 billion ($2.7 billion as of June 27, 2017), €4.3 billion ($5.1 billion as of June 30, 2018), and €1.5 billion ($1.7 billion as of March 20, 2019), respectively. On September 14, 2022, the General Court reduced the 2018 fine from €4.3 billion to €4.1 billion. We subsequently filed an appeal to the European Court of Justice.
+In 2017, 2018 and 2019, the EC announced decisions that certain actions taken by Google infringed European competition law and imposed fines of €2.4 billion ($2.7 billion as of June 27, 2017), €4.3 billion ($5.1 billion as of June 30, 2018), and €1.5 billion ($1.7 billion as of March 20, 2019), respectively. On September 14, 2022, the General Court reduced the 2018 fine from €4.3 billion to €4.1 billion. We subsequently filed an appeal to the European Court of Justice.
 While each EC decision is under appeal, we included the fines in accrued expenses and other current liabilities on our Consolidated Balance Sheets as we provided bank guarantees (in lieu of a cash payment) for the fines. For additional information, see Note 10 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
 Taxes
 As of
-December 31, 2023
+December 31, 2023
 , we had income taxes payabl
 e of $4.2 billion, of which $2.1 billion was short-term,
 related to a one-time transition tax payable incurred as a result of the U.S. Tax Cuts and Jobs Act ("Tax Act").
 As permitted by the Tax Act, we will pay the transition tax in annual interest-free installments through 2025. We also have long-term taxes payable of $6.3 billion primarily related to uncertain tax positions as of
-December 31, 2023
+December 31, 2023
 Purchase Commitments and Other Contractual Obligations
-As of December 31, 2023, we had material purchase commitments and other contractual obligations of
+As of December 31, 2023, we had material purchase commitments and other contractual obligations of
 $45.9 billion
 , of which
 $31.6 billion
-was short-term. These amounts primarily consist of purchase orders for certain technical infrastructure as well as the non-cancelable portion or the minimum cancellation fee in certain agreements related to commitments to purchase licenses, including content licenses, inventory and network capacity. For those agreements with variable terms, we do not estimate the non-cancelable obligation beyond any minimum quantities and/or pricing as of December 31, 2023. In certain instances, the amount of our contractual obligations may change based on the expected timing of order fulfillment from our suppliers. For more information related to our content licenses, see Note 10 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+was short-term. These amounts primarily consist of purchase orders for certain technical infrastructure as well as the non-cancelable portion or the minimum cancellation fee in certain agreements related to commitments to purchase licenses, including content licenses, inventory and network capacity. For those agreements with variable terms, we do not estimate the non-cancelable obligation beyond any minimum quantities and/or pricing as of December 31, 2023. In certain instances, the amount of our contractual obligations may change based on the expected timing of order fulfillment from our suppliers. For more information related to our content licenses, see Note 10 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
 In addition, we regularly enter into multi-year, non-cancellable agreements to purchase renewable energy and energy attributes, such as renewable energy certificates. These agreements do not include a minimum dollar commitment. The amounts to be paid under these agreements are based on the actual volumes to be generated and are not readily determinable.
 Critical Accounting Estimates
 We prepare our consolidated financial statements in accordance with GAAP. In doing so, we have to make estimates and assumptions. Our critical accounting estimates are those estimates that involve a significant level of uncertainty at the time the estimate was made, and changes in them have had or are reasonably likely to have a material effect on our financial condition or results of operations. Accordingly, actual results could differ materially from our estimates. We base our estimates on past experience and other assumptions that we believe are reasonable under the circumstances, and we evaluate these estimates on an ongoing basis. We have reviewed our critical accounting estimates with the Audit and Compliance Committee of our Board of Directors.
@@ -1286,34 +1286,34 @@ In January 2023, we completed an assessment of the useful lives of our servers a
 Table of Contents
 Alphabet Inc.
 ITEM 7A.
-QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
 We are exposed to financial market risks, including changes in foreign currency exchange rates, interest rates, and equity investment risks.
 Foreign Currency Exchange Risk
-We transact business globally in multiple currencies. International revenues, as well as costs and expenses denominated in foreign currencies, expose us to the risk of fluctuations in foreign currency exchange rates against the U.S. dollar. As discussed below, we enter into derivative instruments to hedge foreign currency risk. Principal currencies hedged included the Australian dollar, British pound, Canadian dollar, Euro, and Japanese yen. For the purpose of analyzing foreign currency exchange risk, we considered the historical trends in foreign currency exchange rates and determined that it was reasonably possible that adverse changes in exchange rates of 10% could be experienced.
+We transact business globally in multiple currencies. International revenues, as well as costs and expenses denominated in foreign currencies, expose us to the risk of fluctuations in foreign currency exchange rates against the U.S. dollar. As discussed below, we enter into derivative instruments to hedge foreign currency risk. Principal currencies hedged included the Australian dollar, British pound, Canadian dollar, Euro, and Japanese yen. For the purpose of analyzing foreign currency exchange risk, we considered the historical trends in foreign currency exchange rates and determined that it was reasonably possible that adverse changes in exchange rates of 10% could be experienced.
 We use foreign currency forward and option contracts to offset the foreign exchange risk on assets and liabilities denominated in currencies other than the functional currency of the subsidiary. These forward and option contracts reduce, but do not entirely eliminate, the effect of foreign currency exchange rate movements on our assets and liabilities. The foreign currency gains and losses on these assets and liabilities are recorded in OI&E, which are offset by the gains and losses on the forward and option contracts.
 If an adverse 10% foreign currency exchange rate change was applied to total monetary assets, liabilities, and commitments denominated in currencies other than the functional currencies at the balance sheet date, it would have resulted in an adverse effect on income before income taxes of approxima
 tely $136 million
 and $503 million as of
-December 31, 2022
+December 31, 2022
 and 2023, respectively, after consideration of the effect of foreign exchange contracts in place for the years ended
-December 31, 2022
+December 31, 2022
 and 2023.
-We use foreign currency forward and option contracts, including collars (an option strategy comprised of a combination of purchased and written options) to protect forecasted U.S. dollar-equivalent earnings from changes in foreign currency exchange rates. When the U.S. dollar strengthens, gains from foreign currency forward and option contacts reduce the foreign currency losses related to our earnings. When the U.S. dollar weakens, losses from foreign currency forward and option contracts offset the foreign currency gains related to our earnings. These hedging contracts reduce, but do not entirely eliminate, the effect of foreign currency exchange rate movements. We designate these contracts as cash flow hedges for accounting purposes. We reflect the gains or losses of foreign currency spot rate changes as a component of accumulated other comprehensive income (AOCI) and subsequently reclassify them into revenues to offset the hedged exposures as they occur.
-f the U.S. dollar weakened by 10% as of December 31, 2022 and 2023, the amount recorded in AOCI related to our cash flow hedges before tax effect would have been approximately
+We use foreign currency forward and option contracts, including collars (an option strategy comprised of a combination of purchased and written options) to protect forecasted U.S. dollar-equivalent earnings from changes in foreign currency exchange rates. When the U.S. dollar strengthens, gains from foreign currency forward and option contacts reduce the foreign currency losses related to our earnings. When the U.S. dollar weakens, losses from foreign currency forward and option contracts offset the foreign currency gains related to our earnings. These hedging contracts reduce, but do not entirely eliminate, the effect of foreign currency exchange rate movements. We designate these contracts as cash flow hedges for accounting purposes. We reflect the gains or losses of foreign currency spot rate changes as a component of accumulated other comprehensive income (AOCI) and subsequently reclassify them into revenues to offset the hedged exposures as they occur.
+f the U.S. dollar weakened by 10% as of December 31, 2022 and 2023, the amount recorded in AOCI related to our cash flow hedges before tax effect would have been approximately
 $1.3 billion and
 $1.5 billion
-lower as of December 31, 2022 and 2023, respectively. The change in the value recorded in AOCI would be expected to offset a corresponding foreign currency change in forecasted hedged revenues when recognized.
+lower as of December 31, 2022 and 2023, respectively. The change in the value recorded in AOCI would be expected to offset a corresponding foreign currency change in forecasted hedged revenues when recognized.
 We use foreign exchange forward contracts designated as net investment hedges to hedge the foreign currency risks related to investment in foreign subsidiaries. These forward contracts serve to offset the foreign currency translation risk from our foreign operations.
 If the U.S. dollar weakened by 10%, the amount recorded in cumulative translation adjustment (CTA) within AOCI related to our net investment hedges before tax effect would have been approximately $903 million and
 $946 million
-lower as of December 31, 2022 and 2023, respectively. The change in value recorded in CTA would be expected to offset a corresponding foreign currency translation gain or loss from our investment in foreign subsidiaries.
+lower as of December 31, 2022 and 2023, respectively. The change in value recorded in CTA would be expected to offset a corresponding foreign currency translation gain or loss from our investment in foreign subsidiaries.
 Interest Rate Risk
 Our Corporate Treasury investment strategy is to achieve a return that w
 ill allow us to preserve capital and maintain liquidity. We invest primarily in debt securities, including government bonds, corporate debt securities, mortgage-backed and asset-backed securities, money market and other funds, time deposits, and interest rate derivatives. By policy, we limit the amount of credit exposure to any one issuer. Our investments in both fixed rate and floating rate interest earning securities carry a degree of interest rate risk. Fixed rate securities may have their fair market value adversely affected due to a rise in interest rates, while floating rate securities may produce less income than predicted if interest rates fall. Unrealized gains or losses on our marketable debt securities are primarily due to interest rate fluctuations as compared to interest rates at the time of purchase. For certain fixed and variable rate debt securities, we have elected the fair value option for which changes in fair value are recorded in OI&E. We measure securities for which we have not elected the fair value option at fair value with gains and losses recorded in AOCI until the securities are sold, less any expected credit losses.
 45.
 Table of Contents
 Alphabet Inc.
-We use value-at-risk (VaR) analysis to determine the potential effect of fluctuations in interest rates on the value of our marketable debt security portfolio. The VaR is the expected loss in fair value, for a given confidence interval, for our investment portfolio due to adverse movements in interest rates. We use a variance/covariance VaR model with 95% confidence interval. The estimated one-day loss in fair value of marketable debt securities as of December 31, 2022 and 2023 are shown below (in millions):
+We use value-at-risk (VaR) analysis to determine the potential effect of fluctuations in interest rates on the value of our marketable debt security portfolio. The VaR is the expected loss in fair value, for a given confidence interval, for our investment portfolio due to adverse movements in interest rates. We use a variance/covariance VaR model with 95% confidence interval. The estimated one-day loss in fair value of marketable debt securities as of December 31, 2022 and 2023 are shown below (in millions):
 As of December 31,
 12-Month Average
 As of December 31,
@@ -1326,13 +1326,13 @@ Risk category - interest rate
 296
 198
 271
-Actual future gains and losses associated with our marketable debt security portfolio may differ materially from the sensitivity analyses performed as of December 31, 2022 and 2023 due to the inherent limitations associated with predicting the timing and amount of changes in interest rates and our actual exposures and positions. VaR analysis is not intended to represent actual losses but is used as a risk estimation.
+Actual future gains and losses associated with our marketable debt security portfolio may differ materially from the sensitivity analyses performed as of December 31, 2022 and 2023 due to the inherent limitations associated with predicting the timing and amount of changes in interest rates and our actual exposures and positions. VaR analysis is not intended to represent actual losses but is used as a risk estimation.
 Equity Investment Risk
 Our marketable and non-marketable equity securities are subject to a wide variety of market-related risks that could substantially reduce or increase the fair value of our holdings.
 Our marketable equity securities are publicly traded stocks or funds and our non-marketable equity securities are investments in privately held companies, some of which are in the startup or development stages.
-We record marketable equity securities not accounted for under the equity method at fair value based on readily determinable market values, of which publicly traded stocks and mutual funds are subject to market price volatility, and represent $5.2 billion and $6.0 billion of our investments as of December 31, 2022 and 2023, respectively. A hypothetical adverse price change of 10% on our December 31, 2023 balance would decrease the fair value of marketable equity securities by $597 million. From time to time, we may enter into derivatives to hedge the market price risk on certain of our marketable equity securities.
-Our non-marketable equity securities not accounted for under the equity method are adjusted to fair value for observable transactions for identical or similar investments of the same issuer or impairment (referred to as the measurement alternative). The fair value measured at the time of the observable transaction is not necessarily an indication of the current fair value as of the balance sheet date. These investments, especially those that are in the early stages, are inherently risky because the technologies or products these companies have under development are typically in the early phases and may never materialize, and they may experience a decline in financial condition, which could result in a loss of a substantial part of our investment in these companies. Valuations of our equity investments in private companies are inherently more complex due to the lack of readily available market data and observable transactions at lower valuations could result in significant losses. In addition, global economic conditions could result in additional volatility. The success of our investment in any private company is also typically dependent on the likelihood of our ability to realize appreciation in the value of investments through liquidity events such as public offerings, acquisitions, private sales or other market events. Changes in the valuation of non-marketable equity securities may not directly correlate with changes in valuation of marketable equity securities. As of December 31, 2022 and 2023, the carrying value of our non-marketable equity securities, which were accounted for under the measurement alternative, was $28.5 billion and $28.8 billion, respectively.
-The carrying values of our equity method investments, which totaled approximately $1.7 billion as of December 31, 2022 and 2023, generally do not fluctuate based on market price changes. However, these investments could be impaired if the carrying value exceeds the fair value and is not expected to recover.
+We record marketable equity securities not accounted for under the equity method at fair value based on readily determinable market values, of which publicly traded stocks and mutual funds are subject to market price volatility, and represent $5.2 billion and $6.0 billion of our investments as of December 31, 2022 and 2023, respectively. A hypothetical adverse price change of 10% on our December 31, 2023 balance would decrease the fair value of marketable equity securities by $597 million. From time to time, we may enter into derivatives to hedge the market price risk on certain of our marketable equity securities.
+Our non-marketable equity securities not accounted for under the equity method are adjusted to fair value for observable transactions for identical or similar investments of the same issuer or impairment (referred to as the measurement alternative). The fair value measured at the time of the observable transaction is not necessarily an indication of the current fair value as of the balance sheet date. These investments, especially those that are in the early stages, are inherently risky because the technologies or products these companies have under development are typically in the early phases and may never materialize, and they may experience a decline in financial condition, which could result in a loss of a substantial part of our investment in these companies. Valuations of our equity investments in private companies are inherently more complex due to the lack of readily available market data and observable transactions at lower valuations could result in significant losses. In addition, global economic conditions could result in additional volatility. The success of our investment in any private company is also typically dependent on the likelihood of our ability to realize appreciation in the value of investments through liquidity events such as public offerings, acquisitions, private sales or other market events. Changes in the valuation of non-marketable equity securities may not directly correlate with changes in valuation of marketable equity securities. As of December 31, 2022 and 2023, the carrying value of our non-marketable equity securities, which were accounted for under the measurement alternative, was $28.5 billion and $28.8 billion, respectively.
+The carrying values of our equity method investments, which totaled approximately $1.7 billion as of December 31, 2022 and 2023, generally do not fluctuate based on market price changes. However, these investments could be impaired if the carrying value exceeds the fair value and is not expected to recover.
 For additional information about our equity investments, see Note 1 and Note 3 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
 46.
 Table of Contents
@@ -1365,10 +1365,10 @@ Alphabet Inc.
 REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
 To the Stockholders and the Board of Directors of Alphabet Inc.
 Opinion on the Financial Statements
-We have audited the accompanying consolidated balance sheets of Alphabet Inc. (the Company) as of December 31, 2022 and 2023, the related consolidated statements of income, comprehensive income, stockholders' equity and cash flows for each of the three years in the period ended December 31, 2023, and the related notes and financial statement schedule listed in the Index at Item 15 (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2022 and 2023, and the results of its operations and its cash flows for each of the three years in the period ended
-December 31, 2023
+We have audited the accompanying consolidated balance sheets of Alphabet Inc. (the Company) as of December 31, 2022 and 2023, the related consolidated statements of income, comprehensive income, stockholders' equity and cash flows for each of the three years in the period ended December 31, 2023, and the related notes and financial statement schedule listed in the Index at Item 15 (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2022 and 2023, and the results of its operations and its cash flows for each of the three years in the period ended
+December 31, 2023
 , in conformity with U.S. generally accepted accounting principles.
-We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of December 31, 2023, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework), and our report dated January 30, 2024 expressed an unqualified opinion thereon.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of December 31, 2023, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework), and our report dated January 30, 2024 expressed an unqualified opinion thereon.
 Basis for Opinion
 These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
 We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
@@ -1404,7 +1404,7 @@ Definition and Limitations of Internal Control Over Financial Reporting
 A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
 Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
 /s/
-Ernst & Young LLP
+Ernst & Young LLP
 San Jose, California
 January 30, 2024
 50.
@@ -1507,7 +1507,7 @@ par value per share,
 shares authorized;
 no
 shares issued and outstanding
-Class A, Class B, and Class C stock and additional paid-in capital, $
+Class A, Class B, and Class C stock and additional paid-in capital, $
 0.001
 par value per share:
 300,000
@@ -1519,7 +1519,7 @@ shares authorized (Class A
 60,000
 );
 12,849
-(Class A
+(Class A
 5,964
 , Class B
 883
@@ -1527,7 +1527,7 @@ shares authorized (Class A
 6,002
 ) and
 12,460
-(Class A
+(Class A
 5,899
 , Class B
 870
@@ -1619,7 +1619,7 @@ Alphabet Inc.
 Alphabet Inc.
 CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
 (in millions)
-Year Ended December 31,
+Year Ended December 31,
 2021
 2022
 2023
@@ -1682,8 +1682,8 @@ Alphabet Inc.
 Alphabet Inc.
 CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
 (in millions)
-Class A, Class B, Class C Stock and
-Additional Paid-In Capital
+Class A, Class B, Class C Stock and
+Additional Paid-In Capital
 Accumulated
 Other
 Comprehensive
@@ -1791,7 +1791,7 @@ Alphabet Inc.
 Alphabet Inc.
 CONSOLIDATED STATEMENTS OF CASH FLOWS
 (in millions)
-Year Ended December 31,
+Year Ended December 31,
 2021
 2022
 2023
@@ -2020,8 +2020,8 @@ Additionally, SBC includes other stock-based awards, such as performance stock u
 Advertising and Promotional Expenses
 We expense advertising and promotional costs in the period in which they are incurred.
 For the years ended
-December 31, 2021
-, 2022, and 2023, advertising and promotional expenses totaled approximately $
+December 31, 2021
+, 2022, and 2023, advertising and promotional expenses totaled approximately $
 7.9
 billion, $
 9.2
@@ -2215,20 +2215,20 @@ Total revenues
 (1)
 Regions represent Europe, the Middle East, and Africa (EMEA); Asia-Pacific (APAC); and Canada and Latin America ("Other Americas").
 Revenue Backlog
-As of December 31, 2023, we had $
+As of December 31, 2023, we had $
 74.1
 billion of remaining performance obligations (“revenue backlog”), primarily related to Google Cloud. Our revenue backlog represents commitments in customer contracts for future services that have not yet been recognized as revenue. The estimated revenue backlog and timing of revenue recognition for these commitments is largely driven by our ability to deliver in accordance with relevant contract terms and when our customers utilize services. We expect to recognize approximately half of the revenue backlog as revenues over the next
 24
 months with the remaining to be recognized thereafter. Revenue backlog includes related deferred revenue currently recorded as well as amounts that will be invoiced in future periods, and excludes contracts with an original expected term of one year or less and cancellable contracts.
 Deferred Revenues
 We record deferred revenues when cash payments are received or due in advance of our performance, including amounts which are refundable. Deferred revenues primarily relate to Google Cloud and Google subscriptions, platforms, and devices.
-Total deferred revenue as of December 31, 2022 was $
+Total deferred revenue as of December 31, 2022 was $
 4.5
 billion, of which
 2.4
 billion
 was recognized as revenues for the year ended
-December 31, 2023
+December 31, 2023
 Note 3.
 Financial Instruments
 Fair Value Measurements
@@ -2328,7 +2328,7 @@ Represents gross unrealized gains and losses for debt securities recorded to AOC
 (2)
 The long-term portion of marketable equity securities (subject to long-term lock-up restrictions) of $
 803
-million as of December 31, 2022 is included within other non-current assets.
+million as of December 31, 2022 is included within other non-current assets.
 64.
 Table of Contents
 Alphabet Inc.
@@ -2422,7 +2422,7 @@ Represents gross unrealized gains and losses for debt securities recorded to AOC
 (2)
 The long-term portion of marketable equity securities (subject to long-term lock-up restrictions) of $
 1.4
-billion as of December 31, 2023 is included within other non-current assets.
+billion as of December 31, 2023 is included within other non-current assets.
 Investments Measured at Fair Value on a Nonrecurring Basis
 Our non-marketable equity securities are investments in privately held companies without readily determinable market values. The carrying value of our non-marketable equity securities is adjusted to fair value upon observable transactions for identical or similar investments of the same issuer or impairment. Non-marketable equity securities that have been remeasured during the period based on observable transactions are classified within Level 2 or Level 3 in the fair value hierarchy because we estimate the value based on valuation methods, including option pricing models, market comparable approach, and common stock equivalent method, which may include a combination of the observable transaction price at the transaction date and other unobservable inputs including volatility, expected time to exit, risk free rate, and the rights, and obligations of the securities we hold. These inputs significantly vary based on investment type. The fair value of non-marketable equity securities that have been remeasured due to impairment are classified within Level 3.
 As of December 31, 2023, the carrying value of our non-marketable equity securities was $
@@ -2448,16 +2448,16 @@ Total
 82,275
 The following tables present fair values and gross unrealized losses recorded to AOCI, aggregated by investment category and the length of time that individual securities have been in a continuous loss position (in millions):
 As of December 31, 2022
-Less than 12 Months
+Less than 12 Months
 12 Months or Greater
 Total
-Fair Value
+Fair Value
 Unrealized
 Loss
-Fair Value
+Fair Value
 Unrealized
 Loss
-Fair Value
+Fair Value
 Unrealized
 Loss
 Government bonds
@@ -2489,16 +2489,16 @@ Total
 75,519
 4,779
 As of December 31, 2023
-Less than 12 Months
+Less than 12 Months
 12 Months or Greater
 Total
-Fair Value
+Fair Value
 Unrealized
 Loss
-Fair Value
+Fair Value
 Unrealized
 Loss
-Fair Value
+Fair Value
 Unrealized
 Loss
 Government bonds
@@ -2596,11 +2596,11 @@ Non-marketable equity securities cumulative net gain (loss) is comprised of $
 16.8
 billion gains and $
 4.5
-billion losses (including impairments) as of December 31, 2022 and $
+billion losses (including impairments) as of December 31, 2022 and $
 18.1
 billion gains and $
 6.9
-billion losses (including impairments) as of December 31, 2023.
+billion losses (including impairments) as of December 31, 2023.
 Gains and Losses on Marketable and Non-marketable Equity Securities
 Gains and losses (including impairments), net, for marketable and non-marketable equity securities included in OI&E are summarized below (in millions):
 Year Ended December 31,
@@ -2631,13 +2631,13 @@ billion, $
 3.3
 billion, and $
 1.8
-billion of upward adjustments as of December 31, 2021, 2022, and 2023, respectively, and $
+billion of upward adjustments as of December 31, 2021, 2022, and 2023, respectively, and $
 122
 million, $
 3.0
 billion, and $
 2.9
-billion of downward adjustments (including impairments) as of December 31, 2021, 2022, and 2023, respectively.
+billion of downward adjustments (including impairments) as of December 31, 2021, 2022, and 2023, respectively.
 In the table above, realized net gain (loss) on equity securities sold during the period reflects the difference between the sale proceeds and the carrying value of the equity securities at the beginning of the period or the purchase date, if later.
 Cumulative net gains (losses) on equity securities sold during the period, which is summarized in the following table (in millions), represents the total net gains (losses) recognized after the initial purchase date of the equity security sold during the period. While these net gains (losses) may have been reflected in periods prior to the period of sale, we believe they are important supplemental information as they reflect the economic net gains (losses) on the securities sold during the period. Cumulative net gains (losses) are calculated as the difference between the sale price and the initial purchase price for the equity security sold during the period.
 Equity Securities Sold During the Year Ended December 31,
@@ -2654,12 +2654,12 @@ Cumulative net gains (losses)
 469
 Equity Securities Accounted for Under the Equity Method
 As of
-December 31, 2022
+December 31, 2022
 and 2023, equity securities accounted for under the equity method had a carrying value of approximately $
 1.5
 billion and $
 1.7
-billion, respectively. Our share of gains and losses, including impairments, are included as a component of OI&E, in the Consolidated Statements of Income. See Note 7 for further details on OI&E.
+billion, respectively. Our share of gains and losses, including impairments, are included as a component of OI&E, in the Consolidated Statements of Income. See Note 7 for further details on OI&E.
 67.
 Table of Contents
 Alphabet Inc.
@@ -2672,7 +2672,7 @@ We designate foreign currency forward and option contracts (including collars) a
 months or less.
 Cash flow hedge amounts included in the assessment of hedge effectiveness are deferred in AOCI and subsequently reclassified to revenue when the hedged item is recognized in earnings. We exclude forward points and time value from our assessment of hedge effectiveness and amortize them on a straight-line basis over the life of the hedging instrument in revenues. The difference between fair value changes of the excluded component and the amount amortized to revenues is recorded in AOCI.
 As of
-December 31, 2023
+December 31, 2023
 , the net accumulated gain on our foreign currency cash flow hedges before tax effect was $
 47
 million, which is expected to be reclassified from AOCI into revenues within the next 12 months.
@@ -2936,14 +2936,14 @@ New operating lease assets obtained in exchange for operating lease liabilities
 Table of Contents
 Alphabet Inc.
 As of
-December 31, 2023
+December 31, 2023
 , our operating leases had a weighted average remaining lease term of
 8.1
 years and a weighted average discount rate of
 3.1
 %.
 Future lease payments under operating leases as of
-December 31, 2023
+December 31, 2023
 were as follows (in millions):
 2024
 3,179
@@ -2964,7 +2964,7 @@ Less imputed interest
 Total lease liability balance
 15,251
 As of
-December 31, 2023
+December 31, 2023
 , we have entered into leases that have not yet commenced with short-term and long-term future lease payments of $
 657
 million and $
@@ -2978,7 +2978,7 @@ Note 5.
 Variable Interest Entities
 Consolidated Variable Interest Entities
 We consolidate VIEs in which we hold a variable interest and are the primary beneficiary. The results of operations and financial position of these VIEs are included in our consolidated financial statements.
-For certain consolidated VIEs, their assets are not available to us and their creditors do not have recourse to us. As of December 31, 2022 and 2023, assets that can only be used to settle obligations of these VIEs were $
+For certain consolidated VIEs, their assets are not available to us and their creditors do not have recourse to us. As of December 31, 2022 and 2023, assets that can only be used to settle obligations of these VIEs were $
 4.1
 billion and $
 4.9
@@ -2991,7 +2991,7 @@ Total noncontrolling interests (NCI) in our consolidated subsidiaries were $
 3.8
 billion and $
 3.4
-billion as of December 31, 2022 and 2023, respectively, of which $
+billion as of December 31, 2022 and 2023, respectively, of which $
 1.1
 billion is redeemable noncontrolling interest (RNCI) for both periods. NCI and RNCI are included within additional paid-in capital. Net loss attributable to noncontrolling interests was not material for an
 y period presented and is included within the "other" component of OI&E.
@@ -3003,11 +3003,11 @@ The maximum exposure of these unconsolidated VIEs is generally based on the curr
 2.8
 billion and $
 2.7
-billion, respectively, as of December 31, 2022 and $
+billion, respectively, as of December 31, 2022 and $
 5.7
 billion and $
 4.0
-billion, respectively, as of December 31, 2023. The difference between the maximum exposure and the carrying value relates primarily to future funding commitments.
+billion, respectively, as of December 31, 2023. The difference between the maximum exposure and the carrying value relates primarily to future funding commitments.
 Note 6.
 Debt
 Short-Term Debt
@@ -3015,7 +3015,7 @@ We have a debt financing program of up to $
 10.0
 billion through the issuance of commercial paper. Net proceeds from this program are used for general corporate purposes. We had
 no
-commercial paper outstanding as of December 31, 2022 and 2023.
+commercial paper outstanding as of December 31, 2022 and 2023.
 Our short-term debt balance also includes the current portion of certain long-term debt.
 72.
 Table of Contents
@@ -3068,8 +3068,8 @@ The total estimated fair value of the outstanding notes was approximately $
 9.9
 billion and $
 10.3
-billion as of December 31, 2022 and December 31, 2023, respectively. The fair value was determined based on observable market prices of identical instruments in less active markets and is categorized accordingly as Level 2 in the fair value hierarchy.
-As of December 31, 2023, the aggregate future principal payments for long-term debt, including finance lease liabilities, for each of the next five years and thereafter were as follows (in millions):
+billion as of December 31, 2022 and December 31, 2023, respectively. The fair value was determined based on observable market prices of identical instruments in less active markets and is categorized accordingly as Level 2 in the fair value hierarchy.
+As of December 31, 2023, the aggregate future principal payments for long-term debt, including finance lease liabilities, for each of the next five years and thereafter were as follows (in millions):
 2024
 1,299
 2025
@@ -3085,7 +3085,7 @@ Thereafter
 Total
 14,862
 Credit Facility
-As of December 31, 2023, we had $
+As of December 31, 2023, we had $
 10.0
 billion of revolving credit facilities, of which
 4.0
@@ -3093,7 +3093,7 @@ billion expires in April 2024 and $
 6.0
 billion expires in April 2028. The interest rates for all credit facilities are determined based on a formula using certain market rates, as well as our progress toward the achievement of certain sustainability goals.
 No
-amounts were outstanding under the credit facilities as of December 31, 2022 and 2023.
+amounts were outstanding under the credit facilities as of December 31, 2022 and 2023.
 Note 7.
 Supplemental Financial Statement Information
 Accounts Receivable
@@ -3102,7 +3102,7 @@ The allowance for credit losses on accounts receivable was
 million
 and $
 771
-million as of December 31, 2022 and 2023, respectively.
+million as of December 31, 2022 and 2023, respectively.
 73.
 Table of Contents
 Alphabet Inc.
@@ -3292,7 +3292,7 @@ Table of Contents
 Alphabet Inc.
 Other Income (Expense), Net
 Components of OI&E were as follows (in millions):
-Year Ended December 31,
+Year Ended December 31,
 2021
 2022
 2023
@@ -3340,15 +3340,15 @@ million, $
 128
 million, and $
 181
-million for the years ended December 31, 2021, 2022, and 2023, respectively.
+million for the years ended December 31, 2021, 2022, and 2023, respectively.
 Note 8.
 Workforce Reduction and Other Initiatives
 We have a company-wide effort underway to re-engineer our cost base. As part of this program, in January 2023, we announced a reduction of our workforce. As a result, total employee severance and related charges recorded during the year ended December 31, 2023 were $
 2.1
 billion. Substantially all of the employees affected were no longer included in our headcount as of December 31, 2023.
-In addition, we are taking actions to optimize our global office space. As a result, exit charges recorded during the year ended December 31, 2023, were $
+In addition, we are taking actions to optimize our global office space. As a result, exit charges recorded during the year ended December 31, 2023, were $
 1.8
-billion as reflected in the table below. In addition to these exit charges, for the year ended December 31, 2023, we incurred $
+billion as reflected in the table below. In addition to these exit charges, for the year ended December 31, 2023, we incurred $
 269
 million in accelerated rent and accelerated depreciation, which are not included in the table below.
 Severance and office space exit charges are included within our consolidated statements of income as follows (in millions):
@@ -3381,7 +3381,7 @@ Total charges
 Severance includes amounts to be settled in cash, accounted for as one-time involuntary employee termination benefits,
 and SBC.
 For segment reporting, the substantial majority of these charges are included within Alphabet-level activities in our segment results.
-For the year ended December 31, 2023, changes in liabilities resulting from the severance charges and related accruals were as follows (in millions):
+For the year ended December 31, 2023, changes in liabilities resulting from the severance charges and related accruals were as follows (in millions):
 Severance and Related
 Balance as of December 31, 2022
 Charges
@@ -3404,7 +3404,7 @@ Alphabet Inc.
 Note 9.
 Goodwill
 Changes in the carrying amount of goodwill for the years ended
-December 31, 2022
+December 31, 2022
 and 2023 were as follows (in millions):
 Google Services
 Google Cloud
@@ -3451,7 +3451,7 @@ ending in the first quarter of 2030.
 Indemnifications
 In the normal course of business, including to facilitate transactions in our services and products and corporate activities, we indemnify certain parties, including advertisers, Google Network partners, distribution partners, customers of Google Cloud offerings, lessors, and service providers with respect to certain matters. We have agreed to defend and/or hold certain parties harmless against losses arising from a breach of representations or covenants, or out of intellectual property infringement or other claims made against certain parties. Several of these agreements limit the time within which an indemnification claim can be made and the amount of the claim. In addition, we have entered into indemnification agreements with our officers and directors, and our bylaws contain similar indemnification obligations to our agents.
 It is not possible to make a reasonable estimate of the maximum potential amount under these indemnification agreements due to the unique facts and circumstances involved in each particular agreement. Additionally, the payments we have made under such agreements have not had a material adverse effect on our results of operations, cash flows, or financial position. However, to the extent that valid indemnification claims arise in the future, future payments by us could be significant and could have a material adverse effect on our results of operations or cash flows in a particular period.
-As of December 31, 2023, we did not have any material indemnification claims that were probable or reasonably possible.
+As of December 31, 2023, we did not have any material indemnification claims that were probable or reasonably possible.
 Legal Matters
 We record a liability when we believe that it is probable that a loss has been incurred, and the amount can be reasonably estimated. If we determine that a loss is reasonably possible and the loss or range of loss can be estimated, we disclose the reasonably possible loss. We evaluate developments in our legal matters that could affect the amount of liability that has been previously accrued, and the matters and related reasonably possible losses disclosed, and make adjustments as appropriate.
 Certain outstanding matters seek speculative, substantial or indeterminate monetary amounts, substantial changes to our business practices and products, or structural remedies. Significant judgment is required to determine both the likelihood of there being a loss and the estimated amount of a loss related to such matters, and we may be unable to estimate the reasonably possible loss or range of losses. The outcomes of outstanding legal matters are inherently unpredictable and subject to significant uncertainties, and could, either individually or in aggregate, have a material adverse effect.
@@ -3465,14 +3465,14 @@ On June 27, 2017, the EC announced its decision that certain actions taken by Go
 2.4
 billion ($
 2.7
-billion as of June 27, 2017) fine. On September 11, 2017, we appealed the EC decision to the General Court, and on September 27, 2017, we implemented product changes to bring shopping ads into compliance with the EC's decision. We recognized a charge of $
+billion as of June 27, 2017) fine. On September 11, 2017, we appealed the EC decision to the General Court, and on September 27, 2017, we implemented product changes to bring shopping ads into compliance with the EC's decision. We recognized a charge of $
 2.7
 billion for the fine in the second quarter of 2017. On November 10, 2021, the General Court rejected our appeal, and we subsequently filed an appeal with the European Court of Justice on January 20, 2022.
 On July 18, 2018, the EC announced its decision that certain provisions in Google’s Android-related distribution agreements infringed European competition law. The EC decision imposed a €
 4.3
 billion ($
 5.1
-billion as of June 30, 2018) fine and directed the termination of the conduct at issue. On October 9, 2018, we appealed the EC decision, and on October 29, 2018, we implemented changes to certain of our Android distribution practices. On September 14, 2022, the General Court reduced the fine from €
+billion as of June 30, 2018) fine and directed the termination of the conduct at issue. On October 9, 2018, we appealed the EC decision, and on October 29, 2018, we implemented changes to certain of our Android distribution practices. On September 14, 2022, the General Court reduced the fine from €
 4.3
 billion to €
 4.1
@@ -3485,7 +3485,7 @@ On March 20, 2019, the EC announced its decision that certain contractual provis
 1.5
 billion ($
 1.7
-billion as of March 20, 2019) and directed actions related to AdSense for Search partners' agreements, which we implemented prior to the decision. On June 4, 2019, we appealed the EC decision. We recognized a charge of $
+billion as of March 20, 2019) and directed actions related to AdSense for Search partners' agreements, which we implemented prior to the decision. On June 4, 2019, we appealed the EC decision. We recognized a charge of $
 1.7
 billion for the fine in the first quarter of 2019.
 From time to time we are subject to formal and informal inquiries and investigations on various competition matters by regulatory authorities in the U.S., Europe, and other jurisdictions globally. Examples, for which given their nature we cannot estimate a possible loss, include:
@@ -3518,16 +3518,16 @@ Stockholders' Equity
 Class A and Class B Common Stock and Class C Capital Stock
 Our Board of Directors has authorized
 three
-classes of stock, Class A and Class B common stock, and Class C capital stock. The rights of the holders of each class of our common and capital stock are identical, except with respect to voting. Each share of Class A common stock is entitled to
+classes of stock, Class A and Class B common stock, and Class C capital stock. The rights of the holders of each class of our common and capital stock are identical, except with respect to voting. Each share of Class A common stock is entitled to
 one
 vote per share. Each share of Class B common stock is entitled to
 10
 votes per share. Class C capital stock has
 no
-voting rights, except as required by applicable law. Shares of Class B common stock may be converted at any time at the option of the stockholder and automatically convert upon sale or transfer to Class A common stock.
+voting rights, except as required by applicable law. Shares of Class B common stock may be converted at any time at the option of the stockholder and automatically convert upon sale or transfer to Class A common stock.
 Share Repurchases
 In the
-years ended December 31, 2021, 2022, and 2023
+years ended December 31, 2021, 2022, and 2023
 , we repurchased
 50.3
 billion, $
@@ -3537,7 +3537,7 @@ billion, and $
 billion, respectively, of Alphabet's Class A and Class C shares.
 In April 2023, the Board of Directors of Alphabet authorized the company to repurchase up to an additional $
 70.0
-billion of its Class A and Class C shares. As of December 31, 2023, $
+billion of its Class A and Class C shares. As of December 31, 2023, $
 36.3
 billion remains available for Class A and Class C share repurchases.
 The following table presents Class A and Class C shares repurchased and subsequently retired (in millions):
@@ -3564,18 +3564,18 @@ Total share repurchases
 528
 62,184
 (1)
-Shares repurchased include unsettled repurchases as of December 31, 2023.
+Shares repurchased include unsettled repurchases as of December 31, 2023.
 Class A and Class C shares are repurchased in a manner deemed in the best interest of the company and its stockholders, taking into account the economic cost and prevailing market conditions, including the relative trading prices and volumes of the Class A and Class C shares. Repurchases are executed from time to time, subject to general business and market conditions and other investment opportunities, through open market purchases or privately negotiated transactions, including through Rule 10b5-1 plans. The repurchase program does not have an expiration date.
 Note 12.
 Net Income Per Share
-We compute net income per share of Class A, Class B, and Class C stock using the two-class method. Basic net income per share is computed using the weighted-average number of shares outstanding during the period. Diluted net income per share is computed using the weighted-average number of shares and the effect of potentially dilutive securities outstanding during the period. Potentially dilutive securities consist of RSUs and other contingently issuable shares. The dilutive effect of outstanding RSUs and other contingently issuable shares is reflected in diluted earnings per share by application of the treasury stock method. The computation of the diluted net income per share of Class A stock assumes the conversion of Class B stock, while the diluted net income per share of Class B stock does not assume the conversion of those shares.
-The rights, including the liquidation and dividend rights, of the holders of our Class A, Class B, and Class C stock are identical, except with respect to voting. Furthermore, there are a number of safeguards built into our certificate of incorporation, as well as Delaware law, which preclude our Board of Directors from declaring or paying unequal per share dividends on our Class A, Class B, and Class C stock. Specifically, Delaware law provides that amendments to our certificate of incorporation which would have the effect of adversely altering the rights, powers, or preferences of a given class of stock must be approved by the class of stock adversely affected by the proposed amendment. In addition, our certificate of incorporation provides that before any such amendment may be put to a stockholder vote, it must be approved by the unanimous consent of our Board of Directors. As a result, the undistributed earnings for each year are allocated based on the contractual participation rights of the Class A, Class B, and Class C stock as if the earnings for the year had been distributed. As the liquidation and dividend rights are identical, the undistributed earnings are allocated on a proportionate basis.
-In the years ended December 31, 2021, 2022, and 2023, the net income per share amounts are the same for Class A, Class B, and Class C stock because the holders of each class are entitled to equal per share dividends or distributions in liquidation in accordance with the Amended and Restated Certificate of Incorporation of Alphabet Inc.
+We compute net income per share of Class A, Class B, and Class C stock using the two-class method. Basic net income per share is computed using the weighted-average number of shares outstanding during the period. Diluted net income per share is computed using the weighted-average number of shares and the effect of potentially dilutive securities outstanding during the period. Potentially dilutive securities consist of RSUs and other contingently issuable shares. The dilutive effect of outstanding RSUs and other contingently issuable shares is reflected in diluted earnings per share by application of the treasury stock method. The computation of the diluted net income per share of Class A stock assumes the conversion of Class B stock, while the diluted net income per share of Class B stock does not assume the conversion of those shares.
+The rights, including the liquidation and dividend rights, of the holders of our Class A, Class B, and Class C stock are identical, except with respect to voting. Furthermore, there are a number of safeguards built into our certificate of incorporation, as well as Delaware law, which preclude our Board of Directors from declaring or paying unequal per share dividends on our Class A, Class B, and Class C stock. Specifically, Delaware law provides that amendments to our certificate of incorporation which would have the effect of adversely altering the rights, powers, or preferences of a given class of stock must be approved by the class of stock adversely affected by the proposed amendment. In addition, our certificate of incorporation provides that before any such amendment may be put to a stockholder vote, it must be approved by the unanimous consent of our Board of Directors. As a result, the undistributed earnings for each year are allocated based on the contractual participation rights of the Class A, Class B, and Class C stock as if the earnings for the year had been distributed. As the liquidation and dividend rights are identical, the undistributed earnings are allocated on a proportionate basis.
+In the years ended December 31, 2021, 2022, and 2023, the net income per share amounts are the same for Class A, Class B, and Class C stock because the holders of each class are entitled to equal per share dividends or distributions in liquidation in accordance with the Amended and Restated Certificate of Incorporation of Alphabet Inc.
 80.
 Table of Contents
 Alphabet Inc.
-The following table sets forth the computation of basic and diluted net income per share of Class A, Class B, and Class C stock (in millions, except per share amounts):
-Year Ended December 31,
+The following table sets forth the computation of basic and diluted net income per share of Class A, Class B, and Class C stock (in millions, except per share amounts):
+Year Ended December 31,
 2021
 Class A
 Class B
@@ -3601,7 +3601,7 @@ Allocation of undistributed earnings for basic computation
 34,200
 5,174
 36,659
-Reallocation of undistributed earnings as a result of conversion of Class B to Class A shares
+Reallocation of undistributed earnings as a result of conversion of Class B to Class A shares
 5,174
 Reallocation of undistributed earnings
 581
@@ -3618,7 +3618,7 @@ Number of shares used in basic computation
 6,438
 Weighted-average effect of dilutive securities
 Add:
-Conversion of Class B to Class A shares outstanding
+Conversion of Class B to Class A shares outstanding
 909
 Restricted stock units and other contingently issuable shares
 200
@@ -3630,7 +3630,7 @@ Diluted net income per share
 5.61
 5.61
 5.61
-Year Ended December 31,
+Year Ended December 31,
 2022
 Class A
 Class B
@@ -3656,7 +3656,7 @@ Allocation of undistributed earnings for basic computation
 27,518
 4,072
 28,382
-Reallocation of undistributed earnings as a result of conversion of Class B to Class A shares
+Reallocation of undistributed earnings as a result of conversion of Class B to Class A shares
 4,072
 Reallocation of undistributed earnings
 230
@@ -3673,7 +3673,7 @@ Number of shares used in basic computation
 6,182
 Weighted-average effect of dilutive securities
 Add:
-Conversion of Class B to Class A shares outstanding
+Conversion of Class B to Class A shares outstanding
 887
 Restricted stock units and other contingently issuable shares
 96
@@ -3688,7 +3688,7 @@ Diluted net income per share
 81.
 Table of Contents
 Alphabet Inc.
-Year Ended December 31,
+Year Ended December 31,
 2023
 Class A
 Class B
@@ -3714,7 +3714,7 @@ Allocation of undistributed earnings for basic computation
 34,601
 5,124
 34,070
-Reallocation of undistributed earnings as a result of conversion of Class B to Class A shares
+Reallocation of undistributed earnings as a result of conversion of Class B to Class A shares
 5,124
 Reallocation of undistributed earnings
 287
@@ -3731,7 +3731,7 @@ Number of shares used in basic computation
 5,831
 Weighted-average effect of dilutive securities
 Add:
-Conversion of Class B to Class A shares outstanding
+Conversion of Class B to Class A shares outstanding
 877
 Restricted stock units and other contingently issuable shares
 92
@@ -3749,11 +3749,11 @@ Stock Plans
 Our stock plans include the Alphabet Amended and Restated 2021 Stock Plan ("Alphabet 2021 Stock Plan") and Other Bets stock-based plans. Under our stock plans, RSUs and other types of awards may be granted. Under the Alphabet 2021 Stock Plan, an RSU award is an agreement to issue shares of our Class C stock at the time the award vests. RSUs generally vest over
 four years
 contingent upon employment on the vesting date.
-As of December 31, 2023, there were
+As of December 31, 2023, there were
 723
 million shares of Class C stock reserved for future issuance under the Alphabet 2021 Stock Plan.
 Stock-Based Compensation
-For the years ended December 31, 2021, 2022, and 2023, total SBC expense was $
+For the years ended December 31, 2021, 2022, and 2023, total SBC expense was $
 15.7
 billion, $
 19.5
@@ -3766,17 +3766,17 @@ billion, $
 billion, and $
 21.7
 billion, respectively.
-During the year ended December 31, 2023, total SBC expense includes $
+During the year ended December 31, 2023, total SBC expense includes $
 432
 million associated with workforce reduction costs. See Note 8 for further details.
-For the years ended December 31, 2021, 2022, and 2023, we recognized tax benefits on total SBC expense, which are reflected in the provision for income taxes in the Consolidated Statements of Income, of $
+For the years ended December 31, 2021, 2022, and 2023, we recognized tax benefits on total SBC expense, which are reflected in the provision for income taxes in the Consolidated Statements of Income, of $
 3.1
 billion, $
 3.9
 billion, and $
 4.5
 billion, respectively.
-For the years ended December 31, 2021, 2022, and 2023, tax benefit realized related to awards vested or exercised during the period was $
+For the years ended December 31, 2021, 2022, and 2023, tax benefit realized related to awards vested or exercised during the period was $
 5.9
 billion, $
 4.7
@@ -3788,10 +3788,10 @@ Stock-Based Award Activities
 Table of Contents
 Alphabet Inc.
 The following table summarizes the activities for unvested Alphabet RSUs for the year ended
-December 31, 2023
+December 31, 2023
 (in millions, except per share amounts):
-Unvested Restricted Stock Units
-Number of
+Unvested Restricted Stock Units
+Number of
 Shares
 Weighted-
 Average
@@ -3825,7 +3825,7 @@ billion, $
 billion, and $
 26.6
 billion, respectively.
-As of December 31, 2023, there was $
+As of December 31, 2023, there was $
 33.5
 billion of unrecognized compensation cost related to unvested RSUs. This amount is expected to be recognized over a weighted-average period of
 2.5
@@ -3833,7 +3833,7 @@ years.
 Note 14.
 Income Taxes
 Income from continuing operations before income taxes consisted of the following (in millions):
-Year Ended December 31,
+Year Ended December 31,
 2021
 2022
 2023
@@ -3850,7 +3850,7 @@ Total
 71,328
 85,717
 Provision for income taxes consisted of the following (in millions):
-Year Ended December 31,
+Year Ended December 31,
 2021
 2022
 2023
@@ -3888,7 +3888,7 @@ Provision for income taxes
 Table of Contents
 Alphabet Inc.
 The reconciliation of federal statutory income tax rate to our effective income tax rate was as follows:
-Year Ended December 31,
+Year Ended December 31,
 2021
 2022
 2023
@@ -3937,7 +3937,7 @@ In 2023, the IRS issued a rule change allowing taxpayers to temporarily apply th
 Deferred Income Taxes
 Deferred income taxes reflect the net effects of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes.
 Significant components of our deferred tax assets and liabilities were as follows (in millions):
-As of December 31,
+As of December 31,
 2022
 2023
 Deferred tax assets:
@@ -3993,7 +3993,7 @@ Net deferred tax assets (liabilities)
 11,684
 (1)
 As required by the 2017 Tax Cuts and Jobs Act, effective January 1, 2022, our research and development expenditures were capitalized and amortized which resulted in substantially higher cash taxes starting in 2022 with an equal amount of deferred tax benefit.
-As of December 31, 2023, our federal, state, and foreign net operating loss carryforwards for income tax purposes were approximately $
+As of December 31, 2023, our federal, state, and foreign net operating loss carryforwards for income tax purposes were approximately $
 7.1
 billion, $
 18.6
@@ -4005,21 +4005,21 @@ Table of Contents
 Alphabet Inc.
 operating loss carryforwards will begin to expire in 2024, foreign net operating loss carryforwards will begin to expire in 2025 and the state net operating loss carryforwards will begin to expire in 2029. It is more likely than not that the majority of the net operating loss carryforwards will not be realized; therefore, we have recorded a valuation allowance against them. The net operating loss carryforwards are subject to various annual limitations under the tax laws of the different jurisdictions.
 As of
-December 31, 2023
+December 31, 2023
 , our Federal and California research and development credit carryforwards for income tax purposes were approximately $
 600
 million and $
 6.3
 billion, respectively. If not utilized, the Federal R&D credit will begin to expire in 2037 and the California R&D credit can be carried over indefinitely. We believe the majority of the federal tax credit and state tax credit is not likely to be realized.
 As of
-December 31, 2023
+December 31, 2023
 , our investment tax credit carryforwards for state income tax purposes were approximately $
 1.0
 billion and will begin to expire in 2029. We use the flow-through method of accounting for investment tax credits. We believe this tax credit is not likely to be realized.
-As of December 31, 2023, we maintained a valuation allowance with respect to California deferred tax assets, certain federal net operating losses, certain state net operating losses and tax credits, net deferred tax assets relating to Other Bet companies, and certain foreign net operating losses that we believe are not likely to be realized. We continue to reassess the remaining valuation allowance quarterly, and if future evidence allows for a partial or full release of the valuation allowance, a tax benefit will be recorded accordingly.
+As of December 31, 2023, we maintained a valuation allowance with respect to California deferred tax assets, certain federal net operating losses, certain state net operating losses and tax credits, net deferred tax assets relating to Other Bet companies, and certain foreign net operating losses that we believe are not likely to be realized. We continue to reassess the remaining valuation allowance quarterly, and if future evidence allows for a partial or full release of the valuation allowance, a tax benefit will be recorded accordingly.
 Uncertain Tax Positions
 The following table summarizes the activity related to our gross unrecognized tax benefits (in millions):
-Year Ended December 31,
+Year Ended December 31,
 2021
 2022
 2023
@@ -4054,7 +4054,7 @@ billion, $
 billion, and $
 9.4
 billion as of
-December 31, 2021
+December 31, 2021
 , 2022, and 2023, respectively, of which $
 3.7
 billion, $
@@ -4063,7 +4063,7 @@ billion, and $
 7.4
 billion, if recognized, would affect our effective tax rate, respectively.
 As of
-December 31, 2022
+December 31, 2022
 and 2023, we accrued $
 346
 million and $
@@ -4166,17 +4166,17 @@ ITEM 9A.
 CONTROLS AND PROCEDURES
 Evaluation of Disclosure Controls and Procedures
 Our management, with the participation of our chief executive officer and chief financial officer, evaluated the effectiveness of our disclosure controls and procedures pursuant to Rule 13a-15 under the Exchange Act, as of the end of the period covered by this Annual Report on Form 10-K.
-Based on this evaluation, our chief executive officer and chief financial officer concluded that, as of
-December 31, 2023
+Based on this evaluation, our chief executive officer and chief financial officer concluded that, as of
+December 31, 2023
 , our disclosure controls and procedures are designed at a reasonable assurance level and are effective to provide reasonable assurance that information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to our management, including our chief executive officer and chief financial officer, as appropriate, to allow timely decisions regarding required disclosure.
 Changes in Internal Control over Financial Reporting
-There have been no changes in our internal control over financial reporting that occurred during the quarter ended December 31, 2023 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+There have been no changes in our internal control over financial reporting that occurred during the quarter ended December 31, 2023 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
 Management’s Report on Internal Control over Financial Reporting
 Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as defined in Rule 13a-15(f) of the Exchange Act. Our management conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in
 Internal Control—Integrated Framework
-issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework). Based on this evaluation, management concluded that our internal control over financial reporting was effective as of December 31, 2023. Management reviewed the results of its assessment with our Audit and Compliance Committee. The effectiveness of our internal control over financial reporting as of
-December 31, 2023
-has been audited by Ernst & Young LLP, an independent registered public accounting firm, as stated in its report which is included in Item 8 of this Annual Report on Form 10-K.
+issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework). Based on this evaluation, management concluded that our internal control over financial reporting was effective as of December 31, 2023. Management reviewed the results of its assessment with our Audit and Compliance Committee. The effectiveness of our internal control over financial reporting as of
+December 31, 2023
+has been audited by Ernst & Young LLP, an independent registered public accounting firm, as stated in its report which is included in Item 8 of this Annual Report on Form 10-K.
 Limitations on Effectiveness of Controls and Procedures
 In designing and evaluating the disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that management is required to apply its judgment in evaluating the benefits of possible controls and procedures relative to their costs.
 88.
@@ -4202,7 +4202,7 @@ former member of the Board of Directors
 terminated
 her trading plan on
 October 30, 2023
-, effective with her resignation from the Board of Directors. The trading plan previously permitted the sale of
+, effective with her resignation from the Board of Directors. The trading plan previously permitted the sale of
 12,580
 shares of Class C Capital Stock and would have been effective until June 2, 2024.
 Ruth M. Porat
@@ -4218,7 +4218,7 @@ no “non-Rule 10b5-1 trading arrangements” (as defined in Item 408 of Regulat
 during the fiscal quarter ended December 31, 2023 by our directors and Section 16 officers. Each of the Rule 10b5-1 trading arrangements are in accordance with our Policy Against Insider Trading and actual sale transactions made pursuant to such trading arrangements will be disclosed publicly in Section 16 filings with the SEC in accordance with applicable securities laws, rules and regulations.
 Required Disclosure Pursuant to Section 13(r) of the Exchange Act
 As previously disclosed, Google LLC, a subsidiary of Alphabet, filed notifications with the Russian Federal Security Service pursuant to Russian encryption control requirements, which must be complied with prior to the import of covered items. The information provided pursuant to Section 13(r) of the Exchange Act in Part II, Item 5 of our Quarterly Report on Form 10-Q for the quarter ended September 30, 2023 is incorporated herein by reference.
-ITEM 9C.     DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+ITEM 9C.     DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
 Not applicable.
 89.
 Table of Contents
@@ -4227,13 +4227,13 @@ PART III
 ITEM 10.
 DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE
 The information required by this item will be included under the caption “Directors, Executive Officers, and Corporate Governance” in our Proxy Statement for the 2024 Annual Meeting of Stockholders to be filed with the SEC within 120 days of the fiscal year ended
-December 31, 2023
+December 31, 2023
 (2024 Proxy Statement) and is incorporated herein by reference. The information required by this item regarding delinquent filers pursuant to Item 405 of Regulation S-K will be included under the caption “Delinquent Section 16(a) Reports” in the 2024 Proxy Statement and is incorporated herein by reference.
 ITEM 11.
 EXECUTIVE COMPENSATION
 The information required by this item will be included under the captions “Director Compensation,” “Executive Compensation” and “Directors, Executive Officers, and Corporate Governance—Corporate Governance and Board Matters—Compensation Committee Interlocks and Insider Participation” in the 2024 Proxy Statement and is incorporated herein by reference, except as to information disclosed therein pursuant to Item 402(v) of Regulation S-K relating to pay versus performance.
 ITEM 12.
-SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
 The information required by this item will be included under the captions “Common Stock Ownership of Certain Beneficial Owners and Management” and “Equity Compensation Plan Information” in the 2024 Proxy Statement and is incorporated herein by reference.
 ITEM 13.
 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
@@ -4266,24 +4266,24 @@ Notes to Consolidated Financial Statements
 56
 2. Financial Statement Schedules
 Schedule II: Valuation and Qualifying Accounts
-The table below details the activity of the allowance for credit losses and sales credits for the years ended December 31, 2021, 2022, and 2023 (in millions):
+The table below details the activity of the allowance for credit losses and sales credits for the years ended December 31, 2021, 2022, and 2023 (in millions):
 Balance at
-Beginning of Year
+Beginning of Year
 Additions
 Usage
 Balance at
-End of Year
-Year ended December 31, 2021
+End of Year
+Year ended December 31, 2021
 1,344
 2,092
 2,047
 1,389
-Year ended December 31, 2022
+Year ended December 31, 2022
 1,389
 2,125
 2,301
 1,213
-Year ended December 31, 2023
+Year ended December 31, 2023
 1,213
 3,115
 2,737
@@ -4308,7 +4308,7 @@ Current Report on Form 8-K (File No. 001-37580)
 June 3, 2022
 3.02
 Amended and Restated Bylaws of the Registrant, dated October 19, 2022
-Current Report on Form 8-K (File No. 001-37580)
+Current Report on Form 8-K (File No. 001-37580)
 October 25, 2022
 4.01
 Specimen Class A Common Stock certificate
@@ -4364,7 +4364,7 @@ February 12, 2016
 4.11
 First Supplemental Indenture, dated April 27, 2016, between the Registrant and The Bank of New York Mellon Trust Company, N.A., as trustee
 Current Report on Form 8-K
-(File No. 001-37580)
+(File No. 001-37580)
 April 27, 2016
 4.12
 Form of the Registrant’s 3.375% Notes due 2024 (included in Exhibit 4.11)
@@ -4523,11 +4523,11 @@ None.
 Table of Contents
 Alphabet Inc.
 SIGNATURES
-Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this Annual Report on Form 10-K to be signed on its behalf by the undersigned, thereunto duly authorized.
-Date: January 30, 2024
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this Annual Report on Form 10-K to be signed on its behalf by the undersigned, thereunto duly authorized.
+Date: January 30, 2024
 ALPHABET INC.
 By:
-/    S
+/    S
 UNDAR
 ICHAI
 Sundar Pichai
@@ -4548,14 +4548,14 @@ ICHAI
 Chief Executive Officer and Director (Principal Executive Officer)
 January 30, 2024
 Sundar Pichai
-/    R
+/    R
 UTH
 M. P
 ORAT
 President and Chief Investment Officer; Chief Financial Officer (Principal Financial Officer)
 January 30, 2024
 Ruth M. Porat
-/    A
+/    A
 MIE
 HUENER
 O'T
@@ -4563,58 +4563,58 @@ OOLE
 Vice President, Corporate Controller and Principal Accounting Officer
 January 30, 2024
 Amie Thuener O'Toole
-/    F
+/    F
 RANCES
 H. A
 RNOLD
 Director
 January 30, 2024
 Frances H. Arnold
-/    S
+/    S
 ERGEY
 RIN
 Co-Founder and Director
 January 30, 2024
 Sergey Brin
-/   R. M
+/   R. M
 ARTIN
 HAVEZ
 Director
 January 30, 2024
 R. Martin Chávez
-/    L. J
+/    L. J
 OHN
 OERR
 Director
 January 30, 2024
 L. John Doerr
-/    R
+/    R
 OGER
 W. F
 ERGUSON
 Director
 January 30, 2024
 Roger W. Ferguson Jr.
-/    J
+/    J
 OHN
 L. H
 ENNESSY
 Director, Chair
 January 30, 2024
 John L. Hennessy
-/    L
+/    L
 ARRY
 AGE
 Co-Founder and Director
 January 30, 2024
 Larry Page
-/    K. R
+/    K. R
 AM
 HRIRAM
 Director
 January 30, 2024
 K. Ram Shriram
-/    R
+/    R
 OBIN
 L. W
 ASHINGTON
