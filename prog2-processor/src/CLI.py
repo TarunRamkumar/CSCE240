@@ -20,7 +20,7 @@ group.add_argument("-i","--item", type=str, help="Subsection of part to print")
 
 #table of contents command
 tocCommand = subparsers.add_parser("toc", help="Prints out the table of contents of the file")
-searchCommand.add_argument("-c", "--company", type=int, help="Company to display toc for. '1' for Google and '2' for GM", required=True)
+tocCommand.add_argument("-c", "--company", type=int, help="Company to display toc for. '1' for Google and '2' for GM", required=True)
 
 #prints out the entire file
 allCommand = subparsers.add_parser("ac", help="Prints out the entire file")
@@ -30,8 +30,8 @@ allCommand.add_argument("-c", "--company", type=int, help="Company to display to
 args = mainParser.parse_args()
 
 #creates two file parsers, one for each company
-google = FileParser.FileParser("prog2-processor\data\Google10k-4Q-2024.txt")
-generalMotors = FileParser.FileParser("prog2-processor\data\GeneralMotors10k-4Q-2024.txt")
+google = FileParser.FileParser("..\\data\\Google10k-4Q-2024.txt")
+generalMotors = FileParser.FileParser("..\\data\\GeneralMotors10k-4Q-2024.txt")
 
 #processes through the arguments and gives the corresponding output
 if args.company != 1 or 2:
