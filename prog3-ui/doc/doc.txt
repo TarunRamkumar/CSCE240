@@ -1,0 +1,4 @@
+Supported buzzwords:
+    - table of contents, toc (case insensitive)
+    - any item subheading
+    - 

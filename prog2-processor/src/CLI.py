@@ -30,8 +30,8 @@ allCommand.add_argument("-c", "--company", type=int, help="Company to display to
 args = mainParser.parse_args()
 
 #creates two file parsers, one for each company
-google = FileParser.FileParser("prog2-processor\data\Google10k-4Q-2024.txt")
-generalMotors = FileParser.FileParser("prog2-processor\data\GeneralMotors10k-4Q-2024.txt")
+google = FileParser.FileParser("..\\data\\Google10k-4Q-2024.txt")
+generalMotors = FileParser.FileParser("..\\data\\GeneralMotors10k-4Q-2024.txt")
 
 google.searchParts("hi")
 #processes through the arguments and gives the corresponding output

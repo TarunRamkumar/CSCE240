@@ -97,14 +97,14 @@ class FileParser:
                     nextItem = "None"
                 else:
                     nextItem = toc.pop(toc.index(string)+1)
-                    
+                
                 with open(self.fileName, "r", encoding="utf-8") as file:
                     started = False
                     started2 = False
                     for line in file:
-                        if started2 == False and item == line.strip():
+                        if started2 == False and item in line.strip():
                             started2 = True
-                        elif started2 and item == line.strip():
+                        elif started2 and item.lower() == line.strip().lower():
                             started = True
                         elif started and line.strip().lower() == nextItem.lower():
                             return result
