@@ -1,0 +1,100 @@
+Example outputs:
+
+Input: item 4 (gets Google's item 4)
+Output: 
+MINE SAFETY DISCLOSURES
+Not applicable.
+____________________________________________________________________________________________________________________
+Input: Show me GM's item 5
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+Market Information
+Shares of our common stock are publicly traded on the New York Stock Exchange under the symbol "GM".
+Holders
+At January 17, 2023, we had 1.4 billion issued and outstanding shares of common stock held by 472 holders of record.
+23
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+Dividends
+In September 2022, our Board of Directors reinstated a quarterly dividend of $0.09 per share of our common stock. We anticipate that we will continue to declare and pay dividends on our common stock quarterly. However, the declaration of any dividend on our common stock is a matter to be acted upon by our Board of Directors in its sole discretion and will depend on various factors, including our financial condition, operating results, available cash, and current and anticipated cash needs, as described further in the "Liquidity and Capital Resources" section of the MD&A.
+Stock Performance Graph
+The following graph compares the performance of our common stock to the Standard & Poor's 500 Stock Index and the Dow Jones Automobile & Parts Titans 30 Index for the last five years. It assumes $100 was invested o
+n December 31, 2017,
+with dividends being reinvested.
+The following table summarizes stock performance graph data points in dollars:
+Years ended December 31,
+2017
+2018
+2019
+2020
+2021
+2022
+General Motors Company
+100
+85
+97
+113
+159
+91
+S&P 500 Stock Index
+100
+96
+126
+149
+192
+157
+Dow Jones Automobile & Parts Titans 30 Index
+100
+79
+89
+135
+169
+115
+24
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+Purchases of Equity Securities
+The following table summarizes our purchases of common stock in the three months ended December 31, 2022:
+Total Number of Shares Purchased(a)(b)
+Weighted Average Price Paid per Share(c)
+Total Number of Shares Purchased Under Announced Programs(b)
+Approximate Dollar Value of Shares That May Yet be Purchased Under Announced Programs
+October 1, 2022 through October 31, 2022
+313,425
+32.09
+$3.5 billion
+November 1, 2022 through November 30, 2022
+8,540,718
+39.71
+8,540,718
+$3.2 billion
+December 1, 2022 through December 31, 2022
+17,604,218
+37.57
+17,591,600
+$2.5 billion
+Total
+26,458,361
+38.20
+26,132,318
+__________
+(a)    Shares purchased include shares delivered by employees or directors to us for the payment of taxes resulting from issuance of common stock upon the vesting of Restricted Stock Units (RSUs) and Performance Stock Units (PSUs) relating to compensation plans. In June 2020, our shareholders approved the 2020 Long-Term Incentive Plan (LTIP), which authorizes awards of stock options, stock appreciation rights, RSUs, PSUs or other stock-based awards to selected employees, consultants, advisors and non-employee Directors of the Company. Refer to Note 22 to our consolidated financial statements for additional details on employee stock incentive plans.
+(b)    In January 2017, we announced that our Board of Directors had authorized the purchase of up to $5.0 billion of our common stock with no expiration date. In August 2022, the Board of Directors increased the capacity to $5.0 billion from the $3.3 billion that remained as of June 30, 2022, with no expiration date.
+(c)    The weighted-average price paid per share excludes broker commissions.
+*  *  *  *  *  *  *
+____________________________________________________________________________________________________________________
+
+Input: Tell me about Google's Risk Factors. (The exact same result is returned if one searches for Item 1a)
+Output:
+RISK FACTORS
+Our operations and financial results are subject to various risks and uncertainties, including but not limited to those described below, which could harm our business, reputation, financial condition, and operating results, and affect the trading price of our Class A and Class C stock.
+Risks Specific to our Company
+We generate a significant portion of our revenues from advertising. Reduced spending by advertisers, a loss of partners, or new and existing technologies that block ads online and/or affect our ability to customize ads could harm our business.
+We generated more than 75% of total revenues from online advertising in 2023. Many of our advertisers, companies that distribute our products and services, digital publishers, and content providers can terminate their contracts with us at any time. These partners may not continue to do business with us if we do not create more value (such as increased numbers of users or customers, new sales leads, increased brand awareness, or more effective monetization) than their available alternatives. Changes to our advertising policies and data privacy practices, such as our initiatives to phase out third-party cookies, as well as changes to other companies’ advertising and/or data privacy practices have in the past, and may in the future, affect the advertising that we are able to provide. In addition, technologies have been developed that make customized ads more difficult, or that block the display of ads altogether, and some providers of online services have integrated these technologies that could potentially impair the availability and functionality of third-party digital advertising. Failing to provide superior value or deliver advertisements effectively and competitively could harm our business, reputation, financial condition, and operating results.
+In addition, expenditures by advertisers tend to correlate with overall economic conditions. Adverse macroeconomic conditions have affected, and may in the future affect, the demand for advertising, resulting in fluctuations in the amounts our advertisers spend on advertising, which could harm our financial condition and operating results.
+We face intense competition. If we do not continue to innovate and provide products and services that are useful to users, customers, and other partners, we may not remain competitive, which could harm our business, financial condition, and operating results.
+Our business environment is rapidly evolving and intensely competitive. Our businesses face changing technologies, shifting user needs, and frequent introductions of rival products and services. To compete successfully, we must accurately anticipate technology developments and deliver innovative, relevant and useful products, services, and technologies in a timely manner. As our businesses evolve, the competitive pressure to innovate will encompass a wider range of products and services. We must continue to invest significant resources in technical infrastructure and R&D, including through acquisitions, in order to enhance our technology, products, and services.
+We have many competitors in different industries. Our current and potential domestic and international competitors range from large and established companies to emerging start-ups. Some competitors have longer operating histories and well-established relationships in various sectors. They can use their experience and resources in ways that could affect our competitive position, including by making acquisitions and entering into other strategic arrangements; continuing to invest heavily in technical infrastructure, R&D, and in talent; initiating intellectual property and competition claims (whether or not meritorious); and continuing to compete for users, advertisers, customers, and content providers. Further, discrepancies in enforcement of existing laws may enable our lesser known competitors to aggressively interpret those laws without commensurate scrutiny, thereby affording them competitive advantages. Our competitors may also be able to innovate and provide products and services faster than we can or may foresee the need for products and services before we do.
+We are expanding our investment in AI across the entire company. This includes generative AI and continuing to integrate AI capabilities into our products and services. AI technology and services are highly competitive, rapidly evolving, and require significant investment, including development and operational costs, to meet the changing needs and expectations of our existing users and attract new users. Our ability to deploy certain AI technologies critical for our products and services and for our business strategy may depend on the availability and pricing of third-party equipment and technical infrastructure. Additionally, other companies may develop AI products and technologies that are similar or superior to our technologies or more cost-effective to deploy. Other companies may also have (or in the future may obtain) patents or other proprietary rights that would prevent, limit, or interfere with our ability to make, use, or sell our own AI products and services.
+Our financial condition and operating results may also suffer if our products and services are not responsive to the evolving needs and desires of our users, advertisers, publishers, customers, and content providers. As new and existing technologies continue to develop, competitors and new entrants may be able to offer experiences that are, or
+11.
+etc...

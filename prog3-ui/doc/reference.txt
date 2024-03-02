@@ -1,0 +1,18 @@
+Welcome to the file UI reference sheet!
+
+Notes:
+   - Default company is Google. Must specify either gm or general motors to search the gm file, otherwise will default to the google file
+   - If the query is not found, it will return an error message with the original input within. 
+   - If multiple items or types are found, it will run with the last specified item.
+   - If multiple commands are specified, it will run based on the order of precedence (All, parts, table of contents, items)
+   - Type q or quit to quit. 
+
+Supported buzzwords:
+    1. table of contents, toc (case insensitive)
+       - Prints the table of contents for the specified company 
+    2. any item or subheading
+      - Any item or subheading found in the table of contents can be searched by. 
+    3. any part
+      - If the part exists in the file, it will be returned. Can use either roman numerals or numbers when specifying part, will automatically be converted. 
+    4. "all" or "everything"
+      - Returns the entire file of the specified company.  
