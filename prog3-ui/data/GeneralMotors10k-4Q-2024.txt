@@ -8,7 +8,7 @@ December 31
 , 2022
 OR
 TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
-For the transition period from              to
+For the transition period from              to
 Commission file number
 001-34960
 GENERAL MOTORS COMPANY
@@ -29,20 +29,20 @@ Michigan
 313
 667-1500
 (Registrant’s telephone number, including area code)
-Securities registered pursuant to Section 12(b) of the Act:
+Securities registered pursuant to Section 12(b) of the Act:
 Title of each class
 Trading Symbol(s)
 Name of each exchange on which registered
 Common Stock, $0.01 par value
 GM
 New York Stock Exchange
-Securities registered pursuant to Section 12 (g) of the Act: None
+Securities registered pursuant to Section 12 (g) of the Act: None
 Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
 Yes
 No
-Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.  Yes
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.  Yes
 No
-Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
 Yes
 No
 Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
@@ -56,12 +56,12 @@ Smaller reporting company
 Emerging growth company
 If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
 Indicate by check mark whether the registrant has filed a report on and attestation to its management's assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C.7262(b)) by the registered public accounting firm that prepared or issued its audit report.
-Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes
 No
 The aggregate market value of the voting stock held by non-affiliates of the registrant (assuming only for purposes of this computation that directors and executive officers may be affiliates) was approximately $
 46.2
-billion as of June 30, 2022.
-As of January 17, 2023 there were
+billion as of June 30, 2022.
+As of January 17, 2023 there were
 1,394,637,226
 shares of common stock outstanding.
 DOCUMENTS INCORPORATED BY REFERENCE
@@ -227,7 +227,7 @@ Signatures
 Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
 PART I
-Item 1. Business
+Item 1. Business
 General Motors Company (sometimes referred to as we, our, us, ourselves, the Company, General Motors, or GM) was incorporated as a Delaware corporation in 2009. We design, build and sell trucks, crossovers, cars and automobile parts and provide software-enabled services and subscriptions worldwide. Our automotive operations meet the demands of our customers through our automotive segments: GM North America (GMNA) and GM International (GMI) with vehicles developed, manufactured and/or marketed under the Buick, Cadillac, Chevrolet and GMC brands. We also have equity ownership stakes in entities that meet the demands of customers in other countries, primarily in China, with vehicles developed, manufactured and/or marketed under the Baojun, Buick, Cadillac, Chevrolet and Wuling brands. Cruise is our global segment responsible for the development and commercialization of autonomous vehicle technology. We provide automotive financing services through our General Motors Financial Company, Inc. (GM Financial) segment. Refer to Part II, Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations (MD&A) and Note 23 to our consolidated financial statements for financial information about our segments. Except for per share amounts or as otherwise specified, amounts presented within tables are stated in millions. Certain columns and rows may not add due to rounding. Forward-looking statements in this Business section are not guarantees of future performance and may involve risks and uncertainties that could cause actual results to differ materially from those projected. Refer to Item 1A. Risk Factors and the "Forward-Looking Statements" section of Part II, Item 7. MD&A for a discussion of these risks and uncertainties.
 Our vision for the future is a world with zero crashes, zero emissions and zero congestion, which guides our growth-focused strategy to invest in electric vehicles (EVs) and autonomous vehicles (AVs), software-enabled services and subscriptions and new business opportunities, while strengthening our market position in profitable internal combustion engine (ICE) vehicles, such as trucks and sport utility vehicles (SUVs).
 We have an opportunity to grow our vehicle and financing revenue by continuing to capitalize on the strength of our established vehicle franchises and customer base and scaling our EV production through this decade. We also have the potential of growing our revenue through our software-enabled services and subscriptions, including OnStar, our advanced driver-assistance systems (ADAS), including Super Cruise, and future offerings, such as our next-generation ADAS, Ultra Cruise, and Ultifi, our end-to-end software platform. Additionally, we are incubating several new businesses with a start-up mindset that we believe will enable us to attract new customers and generate revenues in new areas.
@@ -290,7 +290,7 @@ Total vehicle sales data represents: (1) retail sales (i.e., sales to consumers 
 Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
 The following table summarizes industry and GM total vehicle sales and our related competitive position by geographic region (vehicles in thousands):
-Years Ended December 31,
+Years Ended December 31,
 2022
 2021
 2020
@@ -481,10 +481,10 @@ Total China
 2,901
 11.6
 __________
-(a)    Includes sales by the Automotive China Joint Ventures (Automotive China JVs): SAIC General Motors Sales Co., Ltd. (SGMS) and SAIC GM Wuling Automobile Co., Ltd. (SGMW).
-(b)    Cuba, Iran, North Korea, Sudan and Syria are subject to broad economic sanctions
+(a)    Includes sales by the Automotive China Joint Ventures (Automotive China JVs): SAIC General Motors Sales Co., Ltd. (SGMS) and SAIC GM Wuling Automobile Co., Ltd. (SGMW).
+(b)    Cuba, Iran, North Korea, Sudan and Syria are subject to broad economic sanctions
 Accordingly, these countries are excluded from industry sales data and corresponding calculation of market share.
-(c)    As of March 2022, GM is no longer importing vehicles or parts to Russia, Belarus and other sanctioned provinces in Ukraine.
+(c)    As of March 2022, GM is no longer importing vehicles or parts to Russia, Belarus and other sanctioned provinces in Ukraine.
 Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
 As discussed above, total vehicle sales and market share data provided in the table above includes fleet vehicles. We sell vehicles directly or through our dealer network to fleet customers, including daily rental car companies, commercial fleet customers, leasing companies and governments. Certain fleet transactions, particularly sales to daily rental car companies, are generally less profitable than retail sales to end customers. The following table summarizes estimated fleet sales and those sales as a percentage of total vehicle sales (vehicles in thousands):
@@ -661,8 +661,8 @@ Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
 significant amount of information about us, including financial and other information for investors. We encourage investors to visit our website, as we frequently update and post new information about our company on our website and it is possible that this information could be deemed to be material information. Our website and information included in or linked to our website are not part of this 2022 Form 10-K.
 Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (Exchange Act), are available free of charge through our website as soon as reasonably practicable after they are electronically filed with or furnished to the Securities and Exchange Commission (SEC). The SEC maintains a website that contains reports, proxy and information statements, and other information regarding our filings at https://www.sec.gov.
-*  *  *  *  *  *  *
-Item 1A. Risk Factors
+*  *  *  *  *  *  *
+Item 1A. Risk Factors
 We have listed below the most material risk factors applicable to us. These risk factors are not necessarily in the order of importance or probability of occurrence:
 Risks related to our competition and strategy
 If we do not deliver new products, services, technologies and customer experiences in response to increased competition and changing consumer preferences in the automotive industry, our business could suffer.
@@ -774,29 +774,29 @@ There are additional risks due to the complexity and magnitude of our investment
 Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
 Factors that affect future funding requirements for our U.S. defined benefit plans generally affect the required funding for non-U.S. plans. Certain plans outside the U.S. do not have assets and therefore the obligation is funded as benefits are paid. If local legal authorities increase the minimum funding requirements for our non-U.S. plans, we could be required to contribute more funds, which could negatively affect our liquidity and financial condition.
-*  *  *  *  *  *  *
-Item 1B. Unresolved Staff Comments
+*  *  *  *  *  *  *
+Item 1B. Unresolved Staff Comments
 None.
-*  *  *  *  *  *  *
-Item 2. Properties
+*  *  *  *  *  *  *
+Item 2. Properties
 At December 31, 2022, we had over 100 locations in the U.S. (excluding our automotive financing operations and dealerships), which are primarily for manufacturing, assembly, distribution, warehousing, engineering and testing. We, our subsidiaries or associated companies in which we own an equity interest, own most of these properties and/or lease a portion of these properties. Leased properties are primarily composed of warehouses and administration, engineering and sales offices.
 We have manufacturing, assembly, distribution, office or warehousing operations in 29 countries, including equity interests in associated companies, which perform manufacturing, assembly or distribution operations. The major facilities outside the U.S., which are principally vehicle manufacturing and assembly operations, are located in Brazil, Canada, China, Mexico and South Korea.
 GM Financial owns or leases facilities for administration and regional credit centers. GM Financial has 35 facilities, of which 22 are located in the U.S. The major facilities outside the U.S. are located in Brazil, Canada, China and Mexico.
-*  *  *  *  *  *  *
-Item 3. Legal Proceedings
+*  *  *  *  *  *  *
+Item 3. Legal Proceedings
 SEC regulations require us to disclose certain information about environmental proceedings if a governmental authority is a party to such proceedings and such proceedings involve potential monetary sanctions that we reasonably believe will exceed a stated threshold. Pursuant to the SEC regulations, the Company will use a threshold of $1 million for purposes of determining whether disclosure of any such proceedings is required.
 The discussion under Note 16 to our consolidated financial statements is incorporated by reference into this Part I, Item 3.
-*  *  *  *  *  *  *
-Item 4. Mine Safety Disclosures
+*  *  *  *  *  *  *
+Item 4. Mine Safety Disclosures
 Not applicable.
-*  *  *  *  *  *  *
+*  *  *  *  *  *  *
 PART II
-Item 5.
+Item 5.
 Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
 Market Information
 Shares of our common stock are publicly traded on the New York Stock Exchange under the symbol "GM".
 Holders
-At January 17, 2023, we had 1.4 billion issued and outstanding shares of common stock held by 472 holders of record.
+At January 17, 2023, we had 1.4 billion issued and outstanding shares of common stock held by 472 holders of record.
 23
 Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
@@ -863,16 +863,16 @@ Total
 38.20
 26,132,318
 __________
-(a)    Shares purchased include shares delivered by employees or directors to us for the payment of taxes resulting from issuance of common stock upon the vesting of Restricted Stock Units (RSUs) and Performance Stock Units (PSUs) relating to compensation plans. In June 2020, our shareholders approved the 2020 Long-Term Incentive Plan (LTIP), which authorizes awards of stock options, stock appreciation rights, RSUs, PSUs or other stock-based awards to selected employees, consultants, advisors and non-employee Directors of the Company. Refer to Note 22 to our consolidated financial statements for additional details on employee stock incentive plans.
-(b)    In January 2017, we announced that our Board of Directors had authorized the purchase of up to $5.0 billion of our common stock with no expiration date. In August 2022, the Board of Directors increased the capacity to $5.0 billion from the $3.3 billion that remained as of June 30, 2022, with no expiration date.
-(c)    The weighted-average price paid per share excludes broker commissions.
-*  *  *  *  *  *  *
-Item 6.
+(a)    Shares purchased include shares delivered by employees or directors to us for the payment of taxes resulting from issuance of common stock upon the vesting of Restricted Stock Units (RSUs) and Performance Stock Units (PSUs) relating to compensation plans. In June 2020, our shareholders approved the 2020 Long-Term Incentive Plan (LTIP), which authorizes awards of stock options, stock appreciation rights, RSUs, PSUs or other stock-based awards to selected employees, consultants, advisors and non-employee Directors of the Company. Refer to Note 22 to our consolidated financial statements for additional details on employee stock incentive plans.
+(b)    In January 2017, we announced that our Board of Directors had authorized the purchase of up to $5.0 billion of our common stock with no expiration date. In August 2022, the Board of Directors increased the capacity to $5.0 billion from the $3.3 billion that remained as of June 30, 2022, with no expiration date.
+(c)    The weighted-average price paid per share excludes broker commissions.
+*  *  *  *  *  *  *
+Item 6.
 [Reserved]
-*  *  *  *  *  *  *
-Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+*  *  *  *  *  *  *
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
 This MD&A should be read in conjunction with the accompanying audited consolidated financial statements and notes. Forward-looking statements in this MD&A are not guarantees of future performance and may involve risks and uncertainties that could cause actual results to differ materially from those projected. Refer to the "Forward-Looking Statements" section of this MD&A and Part I, Item 1A. Risk Factors for a discussion of these risks and uncertainties. The discussion of our financial condition and results of operations for the year ended December 31, 2020 included in Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations in our
-Annual Report on Form 10-K for the year ended December 31, 2021
+Annual Report on Form 10-K for the year ended December 31, 2021
 is incorporated by reference into this MD&A.
 Non-GAAP Measures
 Our non-GAAP measures include: earnings before interest and taxes (EBIT)-adjusted, presented net of noncontrolling interests; earnings before income taxes (EBT)-adjusted for our GM Financial segment; earnings per share (EPS)-diluted-adjusted; effective tax rate-adjusted (ETR-adjusted); return on invested capital-adjusted (ROIC-adjusted) and adjusted automotive free cash flow. Our calculation of these non-GAAP measures may not be comparable to similarly titled measures of other companies due to potential differences between companies in the method of calculation. As a result, the use of these non-GAAP measures has limitations and should not be considered superior to, in isolation from, or as a substitute for, related U.S. GAAP measures.
@@ -1015,11 +1015,11 @@ EPS-diluted-adjusted
 7,065
 4.90
 ________
-(a)    Refer to the reconciliation of Net income attributable to stockholders under U.S. GAAP to EBIT-adjusted within this section of the MD&A for adjustment details.
-(b)    The tax effect of each adjustment is determined based on the tax laws and valuation allowance status of the jurisdiction to which the adjustment relates.
+(a)    Refer to the reconciliation of Net income attributable to stockholders under U.S. GAAP to EBIT-adjusted within this section of the MD&A for adjustment details.
+(b)    The tax effect of each adjustment is determined based on the tax laws and valuation allowance status of the jurisdiction to which the adjustment relates.
 (c)
 In the year ended December 31, 2022, the adjustment consists of tax benefit related to the release of a valuation allowance against deferred tax assets considered realizable as a result of Cruise tax reconsolidation. In the year ended December 31, 2021, the adjustments consist of tax benefits related to a deduction for an investment in a subsidiary and resolution of uncertainty relating to an indirect tax refund claim in Brazil, partially offset by tax expense related to the establishment of a valuation allowance against Cruise deferred tax assets. In the year ended December 31, 2020, the adjustment consists of tax expense related to the establishment of a valuation allowance against deferred tax assets in Australia and New Zealand. This adjustment was excluded because significant impacts of valuation allowances are not considered part of our core operations.
-(d)    This adjustment consists of a deemed dividend related to the redemption of Cruise preferred shares from SoftBank Vision Fund (AIV M2) L.P. (SoftBank) in the year ended December 31, 2022.
+(d)    This adjustment consists of a deemed dividend related to the redemption of Cruise preferred shares from SoftBank Vision Fund (AIV M2) L.P. (SoftBank) in the year ended December 31, 2022.
 The following table reconciles our effective tax rate under U.S. GAAP to ETR-adjusted:
 Years Ended December 31,
 2022
@@ -1066,10 +1066,10 @@ ETR-adjusted
 1,608
 18.4
 ________
-(a)    Refer to the reconciliation of Net income attributable to stockholders under U.S. GAAP to EBIT-adjusted within this section of the MD&A for adjustment details.
+(a)    Refer to the reconciliation of Net income attributable to stockholders under U.S. GAAP to EBIT-adjusted within this section of the MD&A for adjustment details.
 Net income attributable to noncontrolling interests for these adjustments is included in the years ended December 31, 2022 and 2021.
 The tax effect of each adjustment is determined based on the tax laws and valuation allowance status of the jurisdiction to which the adjustment relates.
-(b)    Refer to the reconciliation of diluted earnings per common share under U.S. GAAP to EPS-diluted-adjusted within this section of the MD&A for adjustment details.
+(b)    Refer to the reconciliation of diluted earnings per common share under U.S. GAAP to EPS-diluted-adjusted within this section of the MD&A for adjustment details.
 We define return on equity (ROE) as Net income attributable to stockholders for the trailing four quarters divided by average equity for the same period. Management uses average equity to provide comparable amounts in the calculation of ROE. The following table summarizes the calculation of ROE (dollars in billions):
 Years Ended December 31,
 2022
@@ -1088,7 +1088,7 @@ ROE
 17.7
 14.9
 ________
-(a)    Includes equity of noncontrolling interests where the corresponding earnings (loss) are included in Net income attributable to stockholders.
+(a)    Includes equity of noncontrolling interests where the corresponding earnings (loss) are included in Net income attributable to stockholders.
 28
 Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
@@ -1126,8 +1126,8 @@ ROIC-adjusted
 21.3
 15.0
 ________
-(a)    Refer to the reconciliation of Net income attributable to stockholders under U.S. GAAP to EBIT-adjusted within this section of the MD&A.
-(b)    Includes equity of noncontrolling interests where the corresponding earnings (loss) are included in EBIT-adjusted.
+(a)    Refer to the reconciliation of Net income attributable to stockholders under U.S. GAAP to EBIT-adjusted within this section of the MD&A.
+(b)    Includes equity of noncontrolling interests where the corresponding earnings (loss) are included in EBIT-adjusted.
 Overview
 Our vision for the future is a world with zero crashes, zero emissions and zero congestion, which guides our growth-focused strategy to invest in EVs and AVs, software-enabled services and subscriptions and new business opportunities, while strengthening our market position in profitable ICE vehicles, such as trucks and SUVs. We will execute our strategy with a diverse team and a steadfast commitment to good citizenship through sustainable operations and a leading health and safety culture.
 The automotive industry and GM continue to experience supply chain and logistics disruptions from multiple suppliers that have impacted, and may continue to impact, our planned production schedules. Despite these challenges, in the second half of 2022, we experienced improved parts availability that enabled us to increase production and improve dealer inventory levels for certain vehicles.
@@ -1161,18 +1161,18 @@ Our total vehicle sales in the U.S., our largest market in North America, were 2
 We expect to sustain relatively strong EBIT-adjusted margins in 2023 on the continued strength of vehicle pricing and healthy U.S. industry light vehicle demand, partially offset by elevated costs associated with commodities, raw materials and logistics. Our outlook is dependent on the pricing environment, continuing improvement of supply chain availability and overall economic conditions. As a result of supply chain disruptions in 2022, we experienced interruptions to our planned production schedules and prioritized production of our most popular and in-demand products, including our full-size trucks, full-size SUVs and EVs.
 In 2023, our collective bargaining agreements with the UAW in the United States and Unifor in Canada, as well as collective bargaining agreements in Mexico, will expire, which will require negotiation of new agreements. Refer to Part I, Item 1A. Risk Factors for a discussion of the risks related to any significant disruption at one of our manufacturing facilities.
 GMI
-Industry sales in China were 23.5 million units in the year ended December 31, 2022, representing a decrease of 9.2% compared to the corresponding period in 2021. Our total vehicle sales in China were 2.3 million units resulting in a market share of 9.8% in the year ended December 31, 2022, representing a decrease of 1.4 percentage points compared to the corresponding period in 2021. The ongoing supply chain disruptions, macro-economic impact of COVID-19 and geopolitical tensions continue to place pressure on China's automotive industry and our vehicle sales in China. Our Automotive China JVs
+Industry sales in China were 23.5 million units in the year ended December 31, 2022, representing a decrease of 9.2% compared to the corresponding period in 2021. Our total vehicle sales in China were 2.3 million units resulting in a market share of 9.8% in the year ended December 31, 2022, representing a decrease of 1.4 percentage points compared to the corresponding period in 2021. The ongoing supply chain disruptions, macro-economic impact of COVID-19 and geopolitical tensions continue to place pressure on China's automotive industry and our vehicle sales in China. Our Automotive China JVs
 30
 Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
-generated equity income of $0.7 billion in the year ended December 31, 2022. Although price competition, higher costs associated with commodities and raw materials, and a more challenging regulatory environment related to emissions, fuel consumption and NEV requirements will place pressure on our operations in China, we will continue to build upon our strong brands, network, and partnerships in China as well as drive improvements in vehicle mix and cost.
-Outside of China, industry sales were 23.7 million units in the year ended December 31, 2022, representing an increase of 2.5% compared to the corresponding period in 2021. Our total vehicle sales outside of China were 1.0 million units for a market share of 4.0% in the year ended December 31, 2022, representing an increase of 0.4 percentage points compared to the corresponding period in 2021.
+generated equity income of $0.7 billion in the year ended December 31, 2022. Although price competition, higher costs associated with commodities and raw materials, and a more challenging regulatory environment related to emissions, fuel consumption and NEV requirements will place pressure on our operations in China, we will continue to build upon our strong brands, network, and partnerships in China as well as drive improvements in vehicle mix and cost.
+Outside of China, industry sales were 23.7 million units in the year ended December 31, 2022, representing an increase of 2.5% compared to the corresponding period in 2021. Our total vehicle sales outside of China were 1.0 million units for a market share of 4.0% in the year ended December 31, 2022, representing an increase of 0.4 percentage points compared to the corresponding period in 2021.
 We historically operated a small import business in Russia and sold GM-badged vehicles into Russia through GM’s alliance partner in Uzbekistan. GM’s direct and indirect profitability in Russia was insignificant. With Russia’s invasion of Ukraine, western sanctions on Russia have and may continue to progressively increase. In addition, reputational, legal and other concerns impacted our ability to continue to operate in Russia. In February 2022, we suspended our exports into Russia and instructed our Russian sales company to cease selling vehicles within Russia. In April 2022, we took additional actions to extend the suspension of our Russian business, including the cessation of commercial operations. In November 2022, we shut down our Russia business and recorded a $0.7 billion charge to write off our net investment and release accumulated translation losses into earnings. The predominately non-cash charge associated with our exit is considered special for EBIT-adjusted, adjusted automotive free cash flow and EPS-diluted-adjusted purposes. Currently, we do not believe any loss contingencies arising from our exit are probable and we are unable to estimate any reasonably possible losses that may result from claims that may be asserted against us by third parties, including retail customers or government authorities in Russia.
 We continue to monitor the situation and its macroeconomic impacts on our financial position and results of operations. Although we have limited supply chain exposure to Russia and Ukraine, we are working closely with our supply base to mitigate any potential risks.
 Cruise
 Gated by safety and regulation, Cruise continues to make significant progress towards commercialization of a network of on-demand AVs in the United States and globally. In 2021, Cruise received a driverless test permit from the California Public Utilities Commission (CPUC) to provide unpaid rides to the public in driverless vehicles and received approval of its Autonomous Vehicle Deployment Permit from the California Department of Motor Vehicles to commercially deploy driverless AVs. In June 2022, Cruise received the first ever Driverless Deployment Permit granted by the CPUC, which allows them to charge a fare for the driverless rides they are providing to members of the public in certain parts of San Francisco. Additionally, in September 2022, Cruise acquired regulatory permits to operate driverless ride hail services in Phoenix, Arizona and began pursuing ride hail operations in Austin, Texas. GM and Cruise are also awaiting a decision on an exemption petition that was filed with NHTSA seeking regulatory approval for the deployment of the Cruise Origin. Refer to the "Liquidity and Capital Resources" section of this MD&A for information about GM's additional investment in Cruise.
 Automotive Financing - GM Financial Summary and Outlook
-We believe that offering a comprehensive suite of financing products will generate incremental sales of our vehicles, drive incremental GM Financial earnings and help support our sales throughout various economic cycles. GM Financial's leasing program is exposed to residual values, which are heavily dependent on used vehicle prices. Used vehicle prices were generally higher than contractual residual values in 2022, primarily due to low new vehicle inventory. In 2023, we expect used vehicle prices to continue moderating through the year as market prices on used vehicles fall below contractual residual values. The increase in used vehicle prices resulted in gains on terminations of leased vehicles of $1.2 billion in GM Financial interest, operating and other expenses for the year ended December 31, 2022, and $2.0 billion in the corresponding period in 2021. The following table summarizes the estimated residual value based on GM Financial's most recent estimates and the number of units included in GM Financial Equipment on operating leases, net by vehicle type (units in thousands):
+We believe that offering a comprehensive suite of financing products will generate incremental sales of our vehicles, drive incremental GM Financial earnings and help support our sales throughout various economic cycles. GM Financial's leasing program is exposed to residual values, which are heavily dependent on used vehicle prices. Used vehicle prices were generally higher than contractual residual values in 2022, primarily due to low new vehicle inventory. In 2023, we expect used vehicle prices to continue moderating through the year as market prices on used vehicles fall below contractual residual values. The increase in used vehicle prices resulted in gains on terminations of leased vehicles of $1.2 billion in GM Financial interest, operating and other expenses for the year ended December 31, 2022, and $2.0 billion in the corresponding period in 2021. The following table summarizes the estimated residual value based on GM Financial's most recent estimates and the number of units included in GM Financial Equipment on operating leases, net by vehicle type (units in thousands):
 December 31, 2022
 December 31, 2021
 Residual Value
@@ -1557,8 +1557,8 @@ EBIT (loss)-adjusted(b)
 (694)
 (58.0)
 ________
-(a)    Primarily reclassified to Interest income and other non-operating income, net in our consolidated income statements in each of the years ended December 31, 2022, 2021 and 2020.
-(b)    Excludes $1.1 billion in compensation expense in the year ended December 31, 2022 resulting from modification of the Cruise stock incentive awards.
+(a)    Primarily reclassified to Interest income and other non-operating income, net in our consolidated income statements in each of the years ended December 31, 2022, 2021 and 2020.
+(b)    Excludes $1.1 billion in compensation expense in the year ended December 31, 2022 resulting from modification of the Cruise stock incentive awards.
 Cruise EBIT (Loss)-Adjusted
 In the year ended December 31, 2022, EBIT (loss)-adjusted increased primarily due to an increase in development costs as we progress towards the commercialization of a network of on-demand rideshare and delivery AVs in the U.S. and globally.
 GM Financial
@@ -1627,14 +1627,14 @@ We manage our liquidity primarily at our treasury centers as well as at certain 
 Our cash equivalents and marketable debt securities balances are primarily denominated in U.S. Dollars and include investments in U.S. government and agency obligations, foreign government securities, time deposits, corporate debt securities and mortgage and asset-backed securities. Our investment guidelines, which we may change from time to time, prescribe certain minimum credit worthiness thresholds and limit our exposures to any particular sector, asset class, issuance or security type. The majority of our current investments in debt securities are with A/A2 or better rated issuers.
 We use credit facilities as a mechanism to provide additional flexibility in managing our global liquidity. Our Automotive borrowing capacity under credit facilities totaled $15.5 billion at December 31, 2022 and 2021, which consisted primarily of two credit facilities. Total Automotive borrowing capacity under our credit facilities does not include our 364-day, $2.0 billion facility allocated for exclusive use of GM Financial. We did not have any borrowings against our primary facilities, but had letters of credit outstanding under our sub-facility of $0.4 billion and $0.3 billion at December 31, 2022 and 2021.
 In April 2022, we renewed our 364-day, $2.0 billion revolving credit facility allocated for the exclusive use of GM Financial, which now matures on April 4, 2023. If available capacity permits, GM Financial continues to have access to our automotive credit facilities. GM Financial did not have borrowings outstanding against any of these facilities at December 31, 2022 and 2021. We had intercompany loans from GM Financial of $0.2 billion at December 31, 2022 and 2021, which primarily consisted of commercial loans to dealers we consolidate. We did not have intercompany loans to GM Financial at December 31, 2022 and 2021. Refer to Note 5 to our consolidated financial statements for additional information.
-In August 2022, we issued $2.25 billion in aggregate principal amount of senior unsecured notes under our new Sustainable Finance Framework with a weighted average interest rate of 5.51% and maturity dates in 2029 and 2032. We intend to allocate an amount equal to the net proceeds from these senior unsecured notes to finance or refinance, in whole or in part, new or existing green projects, assets or activities undertaken or owned by the Company that meet one or more eligibility criteria outlined in our Sustainable Finance Framework.
+In August 2022, we issued $2.25 billion in aggregate principal amount of senior unsecured notes under our new Sustainable Finance Framework with a weighted average interest rate of 5.51% and maturity dates in 2029 and 2032. We intend to allocate an amount equal to the net proceeds from these senior unsecured notes to finance or refinance, in whole or in part, new or existing green projects, assets or activities undertaken or owned by the Company that meet one or more eligibility criteria outlined in our Sustainable Finance Framework.
 37
 Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
 Several of our loan facilities, including our revolving credit facilities, require compliance with certain financial and operational covenants as well as regular reporting to lenders. We have reviewed our covenants in effect as of December 31, 2022 and determined we are in compliance and expect to remain in compliance in the future.
-In March 2022, under the Share Purchase Agreement, we acquired SoftBank's equity ownership stake in Cruise for $2.1 billion and, separately, we made an additional $1.35 billion investment in Cruise in place of SoftBank. During the year ended December 31, 2022, we made additional investments in Cruise of $1.1 billion.
-In September 2022, we exercised our 39.7 million warrants in Stellantis. Upon exercise, the warrants converted into 69.1 million common shares of Stellantis, which we immediately sold back to Stellantis. Total net pre-tax proceeds, including dividends received, in connection with this transaction were approximately $1.1 billion.
-GM Financial's Board of Directors declared and paid dividends of $1.7 billion, $3.5 billion, and $0.8 billion on its common stock in 2022, 2021, and 2020. Future dividends from GM Financial will depend on several factors including business and economic conditions, its financial condition, earnings, liquidity requirements and leverage ratio.
+In March 2022, under the Share Purchase Agreement, we acquired SoftBank's equity ownership stake in Cruise for $2.1 billion and, separately, we made an additional $1.35 billion investment in Cruise in place of SoftBank. During the year ended December 31, 2022, we made additional investments in Cruise of $1.1 billion.
+In September 2022, we exercised our 39.7 million warrants in Stellantis. Upon exercise, the warrants converted into 69.1 million common shares of Stellantis, which we immediately sold back to Stellantis. Total net pre-tax proceeds, including dividends received, in connection with this transaction were approximately $1.1 billion.
+GM Financial's Board of Directors declared and paid dividends of $1.7 billion, $3.5 billion, and $0.8 billion on its common stock in 2022, 2021, and 2020. Future dividends from GM Financial will depend on several factors including business and economic conditions, its financial condition, earnings, liquidity requirements and leverage ratio.
 The following table summarizes our Automotive available liquidity (dollars in billions):
 December 31, 2022
 December 31, 2021
@@ -1790,12 +1790,12 @@ __________
 (a)
 Includes $2.8 billion and $0.6 billion for dividends paid and payments to purchase common stock in the years ended December 31, 2022 and December 31, 2020, and $0.5 billion for repayments of senior unsecured notes for the years ended December 31, 2021 and 2020.
 Adjusted Automotive Free Cash Flow
-We measure adjusted automotive free cash flow as automotive operating cash flow from operations less capital expenditures adjusted for management actions. For the year ended December 31, 2022, net automotive cash provided by operating activities under U.S. GAAP was $19.1 billion, capital expenditures were $9.0 billion and adjustments for management actions were $0.4 billion. For the year ended December 31, 2021, net automotive cash provided by operating activities under U.S. GAAP was $9.7 billion, capital expenditures were $7.4 billion and adjustments for management actions, were $0.3 billion.
+We measure adjusted automotive free cash flow as automotive operating cash flow from operations less capital expenditures adjusted for management actions. For the year ended December 31, 2022, net automotive cash provided by operating activities under U.S. GAAP was $19.1 billion, capital expenditures were $9.0 billion and adjustments for management actions were $0.4 billion. For the year ended December 31, 2021, net automotive cash provided by operating activities under U.S. GAAP was $9.7 billion, capital expenditures were $7.4 billion and adjustments for management actions, were $0.3 billion.
 39
 Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
 Status of Credit Ratings
-We receive ratings from four independent credit rating agencies: DBRS Limited (DBRS), Fitch Ratings (Fitch), Moody's Investor Service (Moody's) and Standard & Poor's (S&P). All four credit rating agencies currently rate our corporate credit at investment grade. The following table summarizes our credit ratings at January 17, 2023:
+We receive ratings from four independent credit rating agencies: DBRS Limited (DBRS), Fitch Ratings (Fitch), Moody's Investor Service (Moody's) and Standard & Poor's (S&P). All four credit rating agencies currently rate our corporate credit at investment grade. The following table summarizes our credit ratings at January 17, 2023:
 Corporate
 Revolving Credit Facilities
 Senior Unsecured
@@ -1939,7 +1939,7 @@ Product Warranty and Recall Campaigns
 The estimates related to product warranties are established using historical information on the nature, frequency and average cost of claims of each vehicle line or each model year of the vehicle line and assumptions about future activity and events. When little or no claims experience exists for a model year or a vehicle line, the estimate is based on comparable models.
 We accrue the costs related to product warranty at the time of vehicle sale and we accrue the estimated cost of recall campaigns when they are probable and estimable.
 The estimates related to recall campaigns accrued at the time of vehicle sale are established by applying a paid loss approach that considers the number of historical recall campaigns and the estimated cost for each recall campaign. These estimates consider the nature, frequency and magnitude of historical recall campaigns, and use key assumptions including the number of historical periods and the weighting of historical data in the reserve studies. Costs associated with recall campaigns not accrued at the time of vehicle sale are estimated based on the estimated cost of repairs and the estimated vehicles to be repaired. Depending on part availability and time to complete repairs we may, from time to time, offer courtesy transportation at no cost to our customers. These estimates are re-evaluated on an ongoing basis and based on the best available information. Revisions are made when necessary based on changes in these factors.
-The estimated amount accrued for recall campaigns at the time of vehicle sale is most sensitive to the estimated number of recall events, the number of vehicles per recall event, the assumed number of vehicles that will be brought in by customers for repair (take rate) and the cost per vehicle for each recall event. The estimated cost of a recall campaign that is accrued on an individual basis is most sensitive to our estimated assumed take rate that is primarily developed based on our historical take rate experience. A 10% increase in the estimated take rate for all recall campaigns would increase the estimated cost by approximately $0.4 billion.
+The estimated amount accrued for recall campaigns at the time of vehicle sale is most sensitive to the estimated number of recall events, the number of vehicles per recall event, the assumed number of vehicles that will be brought in by customers for repair (take rate) and the cost per vehicle for each recall event. The estimated cost of a recall campaign that is accrued on an individual basis is most sensitive to our estimated assumed take rate that is primarily developed based on our historical take rate experience. A 10% increase in the estimated take rate for all recall campaigns would increase the estimated cost by approximately $0.4 billion.
 Actual experience could differ from the amounts estimated requiring adjustments to these liabilities in future periods. Due to the uncertainty and potential volatility of the factors contributing to developing estimates, changes in our assumptions could materially affect our results of operations.
 Sales Incentives
 The estimated effect of sales incentives offered to dealers and end customers is recorded as a reduction of Automotive net sales and revenue at the time of sale. There may be numerous types of incentives available at any particular time. Incentive programs are generally specific to brand, model or sales region and are for specified time periods, which may be extended. Significant factors used in estimating the cost of incentives include type of program, forecasted sales volume, product mix, and the rate of customer acceptance of incentive programs, all of which are estimated based on historical experience and assumptions concerning future customer behavior and market conditions. A change in any of these factors affecting the estimate could have a significant effect on recorded sales incentives. A 10% increase in the cost of incentives would increase the sales incentive liability by an insignificant amount. Subsequent adjustments to incentive estimates are possible as facts and circumstances change over time, which could affect the revenue previously recognized in Automotive net sales and revenue.
@@ -1978,7 +1978,7 @@ In December 2022, an investment policy study was completed for the U.S. pension 
 Another key assumption in determining net pension and OPEB expense is the assumed discount rate used to discount plan obligations. We estimate the assumed discount rate for U.S. plans using a cash flow matching approach, which uses projected cash flows matched to spot rates along a high quality corporate bond yield curve to determine the weighted-average discount rate for the calculation of the present value of cash flows. We apply the individual annual yield curve rates instead of the assumed discount rate to determine the service cost and interest cost, which more specifically links the cash flows related to service cost and interest cost to bonds maturing in their year of payment.
 The Society of Actuaries (SOA) issued mortality improvement tables in the three months ended December 31, 2022. We reviewed our recent mortality experience and we determined our current mortality assumptions are appropriate to measure our U.S. pension and OPEB plans obligations as of December 31, 2022.
 Significant differences in actual experience or significant changes in assumptions may materially affect the pension obligations. The effects of actual results differing from assumptions and the changing of assumptions are included in unamortized net actuarial gains and losses that are subject to amortization to pension expense over future periods. The unamortized pre-tax actuarial loss on our pension plans was $3.3 billion and $3.7 billion at December 31, 2022 and 2021. The year-over-year change is primarily due to an increase in discount rates partially offset by lower than expected asset returns.
-The funded status of the U.S. pension plans improved in the year ended December 31, 2022 to $0.1 billion overfunded status from $0.3 billion underfunded status primarily due to: (1) the favorable effect of an increase in discount rates of $11.9 billion; and (2) changes in actuarial assumptions, demographic data updates and contributions of $0.3 billion; partially offset by (3) the unfavorable effect of negative actual returns on plan assets of $10.3 billion; and (4) service and interest costs of $1.5 billion.
+The funded status of the U.S. pension plans improved in the year ended December 31, 2022 to $0.1 billion overfunded status from $0.3 billion underfunded status primarily due to: (1) the favorable effect of an increase in discount rates of $11.9 billion; and (2) changes in actuarial assumptions, demographic data updates and contributions of $0.3 billion; partially offset by (3) the unfavorable effect of negative actual returns on plan assets of $10.3 billion; and (4) service and interest costs of $1.5 billion.
 44
 Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
@@ -2022,8 +2022,8 @@ Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
 and laws (including labor, trade, tax and other laws), political uncertainty or instability and economic tensions between governments and changes in international trade policies, new barriers to entry and changes to or withdrawals from free trade agreements, changes in foreign exchange rates and interest rates, economic downturns in the countries in which we operate, differing local product preferences and product requirements, changes to and compliance with U.S. and foreign countries' export controls and economic sanctions, differing labor regulations, requirements and union relationships, differing dealer and franchise regulations and relationships, difficulties in obtaining financing in foreign countries, and public health crises, including the occurrence of a contagious disease or illness, such as the COVID-19 pandemic; (13) any significant disruption, including any work stoppages, at any of our manufacturing facilities; (14) the ability of our suppliers to deliver parts, systems and components without disruption and at such times to allow us to meet production schedules; (15) pandemics, epidemics, disease outbreaks and other public health crises, including the COVID-19 pandemic; (16) the possibility that competitors may independently develop products and services similar to ours, or that our intellectual property rights are not sufficient to prevent competitors from developing or selling those products or services; (17) our ability to manage risks related to security breaches and other disruptions to our information technology systems and networked products, including connected vehicles and in-vehicle systems; (18) our ability to comply with increasingly complex, restrictive and punitive regulations relating to our enterprise data practices, including the collection, use, sharing and security of the Personal Identifiable Information of our customers, employees, or suppliers; (19) our ability to comply with extensive laws, regulations and policies applicable to our operations and products, including those relating to fuel economy, emissions and autonomous vehicles; (20) costs and risks associated with litigation and government investigations; (21) the costs and effect on our reputation of product safety recalls and alleged defects in products and services; (22) any additional tax expense or exposure or failure to fully realize available tax incentives; (23) our continued ability to develop captive financing capability through GM Financial; and (24) any significant increase in our pension funding requirements. For a further discussion of these and other risks and uncertainties, refer to Part I, Item 1A. Risk Factors.
 We caution readers not to place undue reliance on forward-looking statements. Forward-looking statements speak only as of the date they are made, and we undertake no obligation to update publicly or otherwise revise any forward-looking statements, whether as a result of new information, future events or other factors, except where we are expressly required to do so by law.
-*  *  *  *  *  *  *
-Item 7A.
+*  *  *  *  *  *  *
+Item 7A.
 Quantitative and Qualitative Disclosures About Market Risk
 The overall financial risk management program is under the responsibility of the Chief Financial Officer with support from the Financial Risk Council, which reviews and, where appropriate, approves strategies to be pursued to mitigate these risks. The Financial Risk Council comprises members of our management and functions under the oversight of the Audit Committee and Finance Committee of the Board of Directors. The Audit Committee and Finance Committee assist and guide the Board of Directors in its oversight of our financial and risk management strategies. A risk management control framework is utilized to monitor the strategies, risks and related hedge positions in accordance with the policies and procedures approved by the Financial Risk Council. Our financial risk management policy is designed to protect against risk arising from extreme adverse market movements on our key exposures.
 Automotive
@@ -2068,7 +2068,7 @@ One hundred basis points instantaneous decrease in interest rates(a)
 4.3
 5.1
 __________
-(a)    Net interest income sensitivity given a one hundred basis point decrease in interest rates requires an assumption of negative interest rates in markets where existing interest rates are below one percent.
+(a)    Net interest income sensitivity given a one hundred basis point decrease in interest rates requires an assumption of negative interest rates in markets where existing interest rates are below one percent.
 Additional Model Assumptions
 The sensitivity analysis presented is GM Financial's best estimate of the effect of the hypothetical interest rate scenarios; however, actual results could differ. The estimates are also based on assumptions including the amortization and prepayment of the finance receivable portfolio, originations of finance receivables and leases, refinancing of maturing debt, replacement of maturing derivatives and exercise of options embedded in debt and derivatives. The prepayment projections are based on historical experience. If interest rates or other factors change, actual prepayment experience could be different than projected.
 Foreign Currency Exchange Rate Risk
@@ -2085,14 +2085,14 @@ Translation (gains) losses recorded in Accumulated other comprehensive loss
 Transaction and remeasurement (gains) losses recorded in earnings
 (1)
 (3)
-*  *  *  *  *  *  *
+*  *  *  *  *  *  *
 48
 Table of Contents
 REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
 To the Shareholders and the Board of Directors of General Motors Company
 Opinion on the Financial Statements
 We have audited the accompanying consolidated balance sheets of General Motors Company and subsidiaries (the Company) as of December 31, 2022 and 2021, the related consolidated statements of income, comprehensive income, cash flows, and equity for each of the three years in the period ended December 31, 2022, and the related notes (collectively referred to as the “financial statements”). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2022 and 2021, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2022, in conformity with U.S. generally accepted accounting principles.
-We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of December 31, 2022, based on criteria established in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) and our report dated January 31, 2023 expressed an unqualified opinion thereon.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of December 31, 2022, based on criteria established in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) and our report dated January 31, 2023 expressed an unqualified opinion thereon.
 Basis for Opinion
 These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
 We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
@@ -2123,7 +2123,7 @@ Auditing management’s estimate of the residual value of leased vehicles involv
 How we addressed the matter in our audit
 We evaluated the design and tested the operating effectiveness of the Company’s controls over the lease residual estimation process, including controls over management’s review of residual value estimates obtained from the Company’s third-party provider and other significant assumptions.
 Our procedures also included, among others, independently recalculating depreciation related to equipment on operating leases and performing sensitivity analyses related to significant assumptions. We also performed hindsight analyses to assess the propriety of management’s estimate of residual values, as well as tested the completeness and accuracy of data from underlying systems and data warehouses that are used in the estimation models.
-/ ERNST & YOUNG LLP
+/ ERNST & YOUNG LLP
 We have served as the Company's auditor since 2017.
 Detroit, Michigan
 January 31, 2023
@@ -2133,7 +2133,7 @@ REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
 To the Shareholders and the Board of Directors of General Motors Company
 Opinion on Internal Control over Financial Reporting
 We have audited General Motors Company and subsidiaries’ internal control over financial reporting as of December 31, 2022, based on criteria established in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, General Motors Company and subsidiaries (the Company) maintained, in all material respects, effective internal control over financial reporting as of December 31, 2022, based on the COSO criteria.
-We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of December 31, 2022 and 2021, the related consolidated statements of income, comprehensive income, cash flows and equity for each of the three years in the period ended December 31, 2022, and the related notes and our report dated January 31, 2023 expressed an unqualified opinion thereon.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of December 31, 2022 and 2021, the related consolidated statements of income, comprehensive income, cash flows and equity for each of the three years in the period ended December 31, 2022, and the related notes and our report dated January 31, 2023 expressed an unqualified opinion thereon.
 Basis for Opinion
 The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management’s Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
 We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
@@ -2141,13 +2141,13 @@ Our audit included obtaining an understanding of internal control over financial
 Definition and Limitations of Internal Control Over Financial Reporting
 A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
 Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
-/ ERNST & YOUNG LLP
+/ ERNST & YOUNG LLP
 Detroit, Michigan
 January 31, 2023
 52
 Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
-Item 8.
+Item 8.
 Financial Statements and Supplementary Data
 CONSOLIDATED INCOME STATEMENTS
 (In millions, except per share amounts)
@@ -2620,7 +2620,7 @@ Dividends to noncontrolling interests
 Other
 77
 76
-Balance at December 31, 2020
+Balance at December 31, 2020
 14
 26,542
 31,962
@@ -2648,7 +2648,7 @@ Other
 41
 39
 86
-Balance at December 31, 2021
+Balance at December 31, 2021
 15
 27,061
 41,937
@@ -2688,7 +2688,7 @@ Other
 340
 208
 59
-Balance at December 31, 2022
+Balance at December 31, 2022
 14
 26,428
 49,251
@@ -2816,7 +2816,7 @@ million. In the year ended December 31, 2022, we recognized $
 million in Automotive and other cost of sales associated with incentives. Current agreements expire at various dates through 2031 and we consider the risk that any amounts recognized will be returned to be remote.
 Pension and OPEB Plans
 Attribution, Methods and Assumptions
-The cost of benefits provided by defined benefit pension plans is recorded in the period employees provide service. The cost of pension plan amendments that provide for benefits already earned by plan participants is amortized over the expected period of benefit which may be the duration of the applicable collective bargaining agreement specific to the plan, the expected future working lifetime or the life expectancy of the plan participants.
+The cost of benefits provided by defined benefit pension plans is recorded in the period employees provide service. The cost of pension plan amendments that provide for benefits already earned by plan participants is amortized over the expected period of benefit which may be the duration of the applicable collective bargaining agreement specific to the plan, the expected future working lifetime or the life expectancy of the plan participants.
 The cost of medical, dental, legal service and life insurance benefits provided through postretirement benefit plans is recorded in the period employees provide service. The cost of postretirement plan amendments that provide for benefits already earned by plan participants is amortized over the expected period of benefit which may be the average period to full eligibility or the average life expectancy of the plan participants.
 An expected return on plan asset methodology is utilized to calculate future pension expense for certain significant funded benefit plans. A market-related value of plan assets methodology is also utilized that averages gains and losses on the plan assets over a period of years to determine future pension expense. The methodology recognizes
 60
@@ -3146,12 +3146,12 @@ Due between one and five years
 Total available-for-sale debt securities with contractual maturities
 17,139
 __________
-(a)    Includes $
+(a)    Includes $
 1.5
 billion and $
 1.6
 billion in Cruise at December 31, 2022 and 2021.
-(b)    Includes $
+(b)    Includes $
 1.4
 billion and $
 1.5
@@ -3518,7 +3518,7 @@ Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
 NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
 Commercial Finance Receivables
-GM Financial's commercial finance receivables consist of dealer financings, primarily for dealer inventory purchases. Proprietary models are used to assign a risk rating to each dealer. GM Financial performs periodic credit reviews of each dealership and adjusts the dealership's risk rating, if necessary. There were no commercial finance receivables on nonaccrual status at December 31, 2022 and 2021.
+GM Financial's commercial finance receivables consist of dealer financings, primarily for dealer inventory purchases. Proprietary models are used to assign a risk rating to each dealer. GM Financial performs periodic credit reviews of each dealership and adjusts the dealership's risk rating, if necessary. There were no commercial finance receivables on nonaccrual status at December 31, 2022 and 2021.
 GM Financial's commercial risk model and risk rating categories are as follows:
 Rating
 Description
@@ -4069,7 +4069,7 @@ Capitalized software amortization expense(a)
 515
 457
 __________
-(a)    Included in depreciation and amortization expense.
+(a)    Included in depreciation and amortization expense.
 Note 10.
 Goodwill and Intangible Assets
 Goodwill of $
@@ -5003,7 +5003,7 @@ N/A
 4.96
 N/A
 _________
-(a)    The rate of compensation increase and the cash balance interest crediting rates do not have a significant effect on our U.S. pension and OPEB plans.
+(a)    The rate of compensation increase and the cash balance interest crediting rates do not have a significant effect on our U.S. pension and OPEB plans.
 The non-service cost components of the net periodic pension and OPEB income are presented in Interest income and other non-operating income, net. Refer to Note 19 for additional information.
 U.S. pension plan service cost, which includes administrative expenses and Pension Benefit Guarantee Corporation premiums, were insignificant for the years ended December 31, 2022, 2021 and 2020. Weighted-average assumptions used to determine net expense are determined at the beginning of the period and updated for remeasurements. Non-U.S. pension plan administrative expenses included in service cost were insignificant in the years ended December 31, 2022, 2021 and 2020.
 In the three months ended December 31, 2020, we completed a $
@@ -5053,7 +5053,7 @@ Total
 100
 100
 __________
-(a)    Primarily includes private equity, real estate and absolute return strategies, which mainly consist of hedge funds.
+(a)    Primarily includes private equity, real estate and absolute return strategies, which mainly consist of hedge funds.
 82
 Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
@@ -5495,7 +5495,7 @@ Net deferred tax assets
 19,832
 20,311
 _________
-(a)    At December 31, 2022, U.S. operating loss deferred tax assets were $
+(a)    At December 31, 2022, U.S. operating loss deferred tax assets were $
 417
 million, where $
 129
@@ -5508,7 +5508,7 @@ billion, where $
 million can be carried forward indefinitely and $
 5.2
 billion will expire by 2042, if not utilized.
-(b)    At December 31, 2022, Non-U.S. operating loss deferred tax assets were $
+(b)    At December 31, 2022, Non-U.S. operating loss deferred tax assets were $
 6.1
 billion, where $
 5.1
@@ -5743,12 +5743,12 @@ billion, which included a $
 billion decrease in equity attributable to us, mainly due to the redemption of Cruise preferred shares.
 GM Financial Preferred Stock
 In 2020, GM Financial
-issued $
+issued $
 500
-million of Fixed-R
-ate Reset Cumulative Perpetual Preferred Stock, Series C, $
+million of Fixed-R
+ate Reset Cumulative Perpetual Preferred Stock, Series C, $
 0.01
-par value, with a liquidation preference of $
+par value, with a liquidation preference of $
 1,000
 per share. Dividends will be paid semi-annually when declared, which started March 30, 2021 at a fixed rate of
 5.70
@@ -5801,12 +5801,12 @@ Balance at end of period(d)
 6,528
 10,654
 __________
-(a)    The noncontrolling interests wer
+(a)    The noncontrolling interests wer
 e insignificant in the years ended December 31, 2022, 2021 and 2020.
-(b)    The reclassification adjustment was insignificant in the years ended December 31, 2022, 2021 and 2020.
-(c)    The income tax effect was insignificant in the
+(b)    The reclassification adjustment was insignificant in the years ended December 31, 2022, 2021 and 2020.
+(c)    The income tax effect was insignificant in the
 years ended December 31, 2022, 2021 and 2020.
-(d)    Primarily consists of unamortized actuarial loss on our defined benefit plans.
+(d)    Primarily consists of unamortized actuarial loss on our defined benefit plans.
 92
 Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
@@ -5866,7 +5866,7 @@ __________
 Includes a $
 909
 million deemed dividend related to the redemption of Cruise preferred shares from SoftBank and an insignificant amount in participating securities income from a subsidiary for the year ended December 31, 2022.
-(b)    Potentially dilutive securities attributable to outstanding stock options at December 31, 2022, 2021 and 2020 and RSUs at December 31, 2022 and 2020, were excluded from the computation of diluted EPS because the securities would have had an antidilutive effect.
+(b)    Potentially dilutive securities attributable to outstanding stock options at December 31, 2022, 2021 and 2020 and RSUs at December 31, 2022 and 2020, were excluded from the computation of diluted EPS because the securities would have had an antidilutive effect.
 Note 22.
 Stock Incentive Plans
 GM Stock Incentive Awards
@@ -5909,7 +5909,7 @@ Units outstanding at December 31, 2022(a)
 27.62
 0.8
 __________
-(a)     Includes the target amount of PSUs.
+(a)     Includes the target amount of PSUs.
 Our weighted-average assumptions used to value our stock options are a dividend yield of
 1.60
 %,
@@ -6145,7 +6145,7 @@ Equity income (loss)
 173
 837
 __________
-(a)    Consists of charges for strategic activities related to Buick dealerships and the resolution of substantially all royalty matters accrued with respect to past-year vehicle sales in GMNA; charges related to the shutdown of our Russia business in GMI; and charges related to the one-time modification of Cruise stock incentive awards.
+(a)    Consists of charges for strategic activities related to Buick dealerships and the resolution of substantially all royalty matters accrued with respect to past-year vehicle sales in GMNA; charges related to the shutdown of our Russia business in GMI; and charges related to the one-time modification of Cruise stock incentive awards.
 At and For the Year Ended December 31, 2021
 GMNA
 GMI
@@ -6241,7 +6241,7 @@ Equity income (loss)
 201
 1,301
 __________
-(a)    Consists of royalties accrued with respect to past-year vehicle sales and charges for strategic activities related to Cadillac dealerships in GMNA; and a settlement with certain third parties relating to retrospective recoveries of indirect taxes and an adjustment related to the unique events associated with Korea Supreme Court decisions related to our salaried workers in GMI.
+(a)    Consists of royalties accrued with respect to past-year vehicle sales and charges for strategic activities related to Cadillac dealerships in GMNA; and a settlement with certain third parties relating to retrospective recoveries of indirect taxes and an adjustment related to the unique events associated with Korea Supreme Court decisions related to our salaried workers in GMI.
 96
 Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
@@ -6348,7 +6348,7 @@ Equity income (loss)
 147
 674
 __________
-(a)    Consists of charges for strategic activities related to Cadillac dealerships in GMNA; restructuring and other charges primarily in Australia, New Zealand, Thailand and India in GMI; and ignition switch-related legal matters in Corporate.
+(a)    Consists of charges for strategic activities related to Cadillac dealerships in GMNA; restructuring and other charges primarily in Australia, New Zealand, Thailand and India in GMI; and ignition switch-related legal matters in Corporate.
 Automotive revenue is attributed to geographic areas based on the country of sale. GM Financial revenue is attributed to the geographic area where the financing is originated.
 The following table summarizes information concerning principal geographic areas:
 At and For the Years Ended December 31,
@@ -6469,43 +6469,43 @@ Total cash paid for interest (net of amounts capitalized)
 98
 Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
-Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
 None.
-*  *  *  *  *  *  *
-Item 9A. Controls and Procedures
+*  *  *  *  *  *  *
+Item 9A. Controls and Procedures
 Disclosure Controls and Procedures
 We maintain disclosure controls and procedures designed to provide reasonable assurance that information required to be disclosed in reports filed under the Exchange Act is recorded, processed, summarized and reported within the specified time periods and accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosures.
-Our management, with the participation of our CEO and CFO, evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) or 15d-15(e) promulgated under the Exchange Act) as of December 31, 2022 as required by paragraph (b) of Rules 13a-15 or 15d-15. Based on this evaluation, our CEO and CFO concluded that our disclosure controls and procedures were effective as of December 31, 2022.
+Our management, with the participation of our CEO and CFO, evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) or 15d-15(e) promulgated under the Exchange Act) as of December 31, 2022 as required by paragraph (b) of Rules 13a-15 or 15d-15. Based on this evaluation, our CEO and CFO concluded that our disclosure controls and procedures were effective as of December 31, 2022.
 Management's Report on Internal Control over Financial Reporting
 Our management is responsible for establishing and maintaining effective internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act. This system is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of consolidated financial statements for external purposes in accordance with U.S. GAAP. Because of the inherent limitations of internal control over financial reporting, including the possibility of collusion or improper management override of controls, misstatements due to error or fraud may not be prevented or detected on a timely basis.
 Our management performed an assessment of the effectiveness of our internal control over financial reporting at December 31, 2022, utilizing the criteria discussed in the “Internal Control – Integrated Framework (2013)” issued by the Committee of Sponsoring Organizations of the Treadway Commission. The objective of this assessment was to determine whether our internal control over financial reporting was effective as of December 31, 2022. Based on management's assessment, we have concluded that our internal control over financial reporting was effective as of December 31, 2022.
 The effectiveness of our internal control over financial reporting has been audited by
-Ernst & Young LLP
+Ernst & Young LLP
 (PCAOB ID:
 42
 ), an independent registered public accounting firm, as stated in its report included herein.
 Changes in Internal Control over Financial Reporting
 There have not been any changes in our internal control over financial reporting during the three months ended December 31, 2022 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
-*  *  *  *  *  *  *
+*  *  *  *  *  *  *
 99
 Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
-Item 9B.
+Item 9B.
 Other Information
 None.
-*  *  *  *  *  *  *
+*  *  *  *  *  *  *
 Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
 Not applicable.
-*  *  *  *  *  *  *
+*  *  *  *  *  *  *
 PART III
 Items 10, 11, 12, 13 and 14
 Information required by Items 10, 11, 12, 13 and 14 of this Form 10-K is incorporated by reference from our definitive Proxy Statement for our 2023 Annual Meeting of Stockholders, which will be filed with the SEC, pursuant to Regulation 14A, not later than 120 days after the end of the 2022 fiscal year, all of which information is hereby incorporated by reference in, and made part of, this Form 10-K, except disclosure of our executive officers, which is included in Part I, Item 1 of this report.
-*  *  *  *  *  *  *
+*  *  *  *  *  *  *
 100
 Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
 PART IV
-ITEM 15. Exhibit and Financial Statement Schedules
+ITEM 15. Exhibit and Financial Statement Schedules
 (a)
 1. All Financial Statements and Supplemental Information
 2. Financial Statement Schedules
@@ -6517,17 +6517,17 @@ Exhibit Number
 Exhibit Name
 2.1
 Master Agreement, dated as of March 5, 2017, between General Motors Holdings LLC and Peugeot S.A., incorporated by reference to Exhibit 2.1 to the Quarterly Report on Form 10-Q of General Motors Company filed April 28, 2017
-Incorporated by Reference
+Incorporated by Reference
 2.2
 Purchase Agreement dated as of May 31, 2018, by and among General Motors Holdings LLC, GM Cruise Holdings LLC, and Softbank Vision Fund
 (AIV M1), L.P. incorporated by reference to Exhibit 2.1 to the Quarterly Report on Form 10-Q of General Motors Company filed July 25, 2018
-Incorporated by Reference
+Incorporated by Reference
 2.3
 Purchase Agreement by and between GM Cruise Holdings LLC and Honda Motor Co., LTD., dated October 3, 2018, incorporated by reference to Exhibit 2.3 to the Annual Report on Form 10-K of General Motors Company filed February 6, 2019
-Incorporated by Reference
+Incorporated by Reference
 3.1
 Restated Certificate of Incorporation of General Motors Company dated December 7, 2010, incorporated  by reference to Exhibit 3.2 to the Current Report on Form 8-K of General Motors Company filed December 13, 2010
-Incorporated by Reference
+Incorporated by Reference
 3.2
 General Motors Company Amended and Restated Bylaws, as amended
 December 9, 2022
@@ -6620,7 +6620,7 @@ Amended and Restated General Motors LLC U.S. Executive Severance Program, incorp
 Incorporated by Reference
 10.16*
 Form of Time Sharing Agreement, incorporated by reference to Exhibit 10.2 to the Quarterly Report on Form 10-Q of General Motors Company filed October 29, 2019
-Incorporated by Reference
+Incorporated by Reference
 10.17*
 The General Motors Company Deferred Compensation Plan for Non-Employee Directors, incorporated by reference to Exhibit 10.19 to the Annual Report on Form 10-K of General Motors Company filed February 5, 2020
 Incorporated by Reference
@@ -6703,7 +6703,7 @@ Filed Herewith
 Certification Pursuant to 18 U.S.C. Section 1350, As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
 Furnished with this Report
 101
-The following financial information from the Company’s Annual Report on Form 10-K for the year ended December 31, 2022 formatted in Inline Extensible Business Reporting Language (iXBRL) includes: (i) the Consolidated Income Statements, (ii) the Consolidated Statements of Comprehensive Income, (iii) the Consolidated Balance Sheets, (iv) the Consolidated Statements of Cash Flows, (v) the Consolidated Statements of Equity and (vi) Notes to the Consolidated Financial Statements
+The following financial information from the Company’s Annual Report on Form 10-K for the year ended December 31, 2022 formatted in Inline Extensible Business Reporting Language (iXBRL) includes: (i) the Consolidated Income Statements, (ii) the Consolidated Statements of Comprehensive Income, (iii) the Consolidated Balance Sheets, (iv) the Consolidated Statements of Cash Flows, (v) the Consolidated Statements of Equity and (vi) Notes to the Consolidated Financial Statements
 Filed Herewith
 104
 The cover page from the Company's Annual Report on Form 10-K for the year ended December 31, 2022, formatted as Inline XBRL and contained in Exhibit 101
@@ -6711,10 +6711,10 @@ Filed Herewith
 ________
 Certain confidential portions have been omitted pursuant to a granted request for confidential treatment, which has been separately filed with the SEC.
 Management contracts and compensatory plans and arrangements required to be filed as exhibits pursuant to Item 15(b) of this Report.
-*  *  *  *  *  *  *
-Item 16. Form 10-K Summary
+*  *  *  *  *  *  *
+Item 16. Form 10-K Summary
 None.
-*  *  *  *  *  *  *
+*  *  *  *  *  *  *
 103
 Table of Contents
 GENERAL MOTORS COMPANY AND SUBSIDIARIES
