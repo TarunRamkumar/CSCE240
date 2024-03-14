@@ -1,0 +1,28 @@
+Outlook Parts:
+    - Authentication-Results
+    - CC
+    - Thread-Topic
+    - Thread-Index
+    - Message-ID
+    - References
+    - In-Reply-To
+    - Accept-Language
+    - Content-Language
+    - X-MS-Has-Attach
+    - X-MS-Exchange-Organization-SCL
+
+GMail Parts:
+    - Delivered-To
+    - X-Google-Smtp-Source
+    - Reply-To
+    - Message-Index
+    - MIME-Version 
+
+Common Parts:
+    - Received
+    - Content-Type
+    - From
+    - To
+    - Date
+    - Subject
+    - Content-Transfer-Encoding

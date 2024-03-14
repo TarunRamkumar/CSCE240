@@ -1,0 +1,6 @@
+Welcome to the Email Information Extractor 9000! This program allows you to put in any email header and find specific information about it.
+
+In order to use this program successfully, you must follow these instructions:
+
+    - If the header contains the same part multiple times, it will return the first instance of the part.
+    - The input file can be changed while the code is being run, however make sure that the header is valid and the file only contains one header. 

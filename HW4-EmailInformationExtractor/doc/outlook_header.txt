@@ -1,0 +1,114 @@
+Example header used for testing:
+
+Received: from BY1PR19MB8016.namprd19.prod.outlook.com (2603:10b6:a03:535::21)
+ by MN0PR19MB6213.namprd19.prod.outlook.com with HTTPS; Wed, 13 Mar 2024
+ 14:08:58 +0000
+Received: from BL1PR13CA0079.namprd13.prod.outlook.com (2603:10b6:208:2b8::24)
+ by BY1PR19MB8016.namprd19.prod.outlook.com (2603:10b6:a03:535::21) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7339.39; Wed, 13 Mar
+ 2024 14:08:55 +0000
+Received: from BL6PEPF0001AB77.namprd02.prod.outlook.com
+ (2603:10b6:208:2b8:cafe::3) by BL1PR13CA0079.outlook.office365.com
+ (2603:10b6:208:2b8::24) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7386.18 via Frontend
+ Transport; Wed, 13 Mar 2024 14:08:56 +0000
+Authentication-Results: spf=pass (sender IP is 205.139.105.204)
+ smtp.mailfrom=blackbaudemail.netcommunity1.com; dkim=pass (signature was
+ verified) header.d=mailbox.sc.edu;dmarc=pass action=none
+ header.from=mailbox.sc.edu;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of
+ blackbaudemail.netcommunity1.com designates 205.139.105.204 as permitted
+ sender) receiver=protection.outlook.com; client-ip=205.139.105.204;
+ helo=d2pdcsmmtapv4.blackbaud.com; pr=C
+Received: from d2pdcsmmtapv4.blackbaud.com (205.139.105.204) by
+ BL6PEPF0001AB77.mail.protection.outlook.com (10.167.242.170) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7386.12 via Frontend Transport; Wed, 13 Mar 2024 14:08:55 +0000
+Received: from blackbaud.com ([10.4.116.20])
+	by d2pdcsmmtapv4.blackbaud.com (-); Wed, 13 Mar 2024 10:08:38 -0400
+X-VirtualServer: BO3-MTA06-205-204, d2pdcsmmtapv4.blackbaud.com, 10.4.116.219
+X-SMHeaderMap: mid="X-MailingID"
+X-Destination-ID: tarunr@email.sc.edu
+X-SMFBL: dGFydW5yQGVtYWlsLnNjLmVkdQ==
+X-VirtualServerGroup: BO3-MTA06-205-204
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=mailbox.sc.edu; s=sm; i=@mailbox.sc.edu; h=FROM:Subject:TO:
+	X-MailingID:Message-ID:RPCampaign:Date:MIME-Version:
+	Content-Type; bh=SPSiLW85IpzIh7wL9zPC/o32Ia4vm0gqzUlVijLMhnQ=;
+	b=l9W3M18xiCPm6RGU3LjufIyDyPVL2EOMXNSg98r/80OkK2z8m3E73rvyMv/ZCS
+	ABO1S9t9y+f0AfyJZrUSGmWJIOlwNJsnWfKEqdRwMYEUDNUdW+jMd4n2+VOKuPsZ
+	N99uwXxyiiOJdwwURZaKP8GZxgB7DFK1Om1ru54osqDGY=
+FROM: "Shelton, Kobe" <scgiving@mailbox.sc.edu>
+Subject: Moving this to the top of your inbox: Join the Student Scavenger Hunt for a Chance to Win Big!
+TO: "Tarun J. Ramkumar" <tarunr@email.sc.edu>
+X-MailingID: 00000::GP::0fb11718-e7a0-47ef-be1e-bee9ad6682af::4cf183c7-f814-475f-9951-4e7c87fc20c4::f7457f53-4160-478b-9975-dd24be630e2f::0
+Return-Path: bounce@blackbaudemail.netcommunity1.com
+Message-ID: <c02afb81330941379fec966861084f1e@mailbox.sc.edu>
+RPCampaign: Blackbaud_260699962574809507990848356915117917127
+Date: Wed, 13 Mar 2024 10:08:41 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="NextPart_6ad1ab79_5c75_47cc_b3f4_9203162f6df7"
+X-MS-Exchange-Organization-ExpirationStartTime: 13 Mar 2024 14:08:55.4884
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id:
+ 04805c18-6cb9-47e8-7c07-08dc43671ea9
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 4b2a4b19-d135-420e-8bb2-b1cd238998cc:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic:
+ BL6PEPF0001AB77:EE_|BY1PR19MB8016:EE_|MN0PR19MB6213:EE_
+X-MS-Exchange-Organization-AuthSource:
+ BL6PEPF0001AB77.namprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id: 04805c18-6cb9-47e8-7c07-08dc43671ea9
+X-LD-Processed: 4b2a4b19-d135-420e-8bb2-b1cd238998cc,ExtFwd
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report:
+ CIP:205.139.105.204;CTRY:US;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:d2pdcsmmtapv4.blackbaud.com;PTR:d2pdcsmmtapv4.blackbaud.com;CAT:NONE;SFS:(13230031);DIR:INB;
+X-MS-Exchange-ForwardingLoop:
+ ForwardingHandled;4b2a4b19-d135-420e-8bb2-b1cd238998cc
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 13 Mar 2024 14:08:55.4102
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 04805c18-6cb9-47e8-7c07-08dc43671ea9
+X-MS-Exchange-CrossTenant-Id: 4b2a4b19-d135-420e-8bb2-b1cd238998cc
+X-MS-Exchange-CrossTenant-AuthSource:
+ BL6PEPF0001AB77.namprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY1PR19MB8016
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.3267348
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.7362.031
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003)(1420198);
+X-Microsoft-Antispam-Message-Info:
+	=?us-ascii?Q?rz0sFM4RKKSp7/IVLeSwecofhdAmeHtvi+AawH6mX4AFLW2qEHQb5xypOY3S?=
+ =?us-ascii?Q?yZFIGGndSoaQDl9mg4YI6cLljtgQstVCMDspDUneZqqo1v/k4ekrKPwKOtpF?=
+ =?us-ascii?Q?4DoBXmsCRHAIwPSaGZjvQaC15R/71NlS/rvB7kRyA5EWcqv6Swja5F8wuI96?=
+ =?us-ascii?Q?bINQFSwah4yXh4vDpyYJ9kJK87YKKvCfGJs/65CNwbDUCVUOpJplhCtwsk5c?=
+ =?us-ascii?Q?+I7A1syw6MiFVhqRTAGO35MkiTMJHpY2PIA6ps6cYF+ZAbUwviB8bpt4OJDT?=
+ =?us-ascii?Q?X4ClGc+IJEkKTDVftdsIxfZR43wB0PSRT76/iKS2jYBFP/t01QckcaMStxRN?=
+ =?us-ascii?Q?cxo4VNkNfyksBr7X31knDFEydTyWQZ+b260y+vQCnrLn8LrBGgocNJGryScz?=
+ =?us-ascii?Q?4vQm8aVKmK/0ELXXoUsvkI5n1rsSPmnvsaQmsDQfq/u74JyOoIcKp+mcBATs?=
+ =?us-ascii?Q?f1wi69dG8qWUn2bktC1C7fIYKc5VBXZQYgE6N5GyP89LPNAUDCxbUrNn2WHR?=
+ =?us-ascii?Q?doCIw5KFyOtm/MwmX/fVbt7Sdlh01H0BfhJMtGnXu7sUU1ACWCHUO7N52zot?=
+ =?us-ascii?Q?ngU7ZGtz2yj4cwo+S6G8bHJYKKKqBQS5+ZaQS4t60GFmdOTtEJ9G+GdXVu9F?=
+ =?us-ascii?Q?2WeGY7HH2i3lbVWn3Hs3W6mQqqthPE0/71zuTkMiA68n/PeI9x0D5jobjQf6?=
+ =?us-ascii?Q?zgVSwXQITUtTpbWT1u8FdtpqjMbqunvpHITYtq+iRPb/4q+mpgI7LU7i3gO3?=
+ =?us-ascii?Q?eU2eC7GKDD3EBFV+qqH8EizKRWeX3qSkE4JxGOtyI34lc8GzlW5d+4/M4o92?=
+ =?us-ascii?Q?VSLvq9bqmo1X2TX2Pmo/FZ1fxQ/0sA9+fgFJg/y+Ik3Aq7J4hObteM6GBfXz?=
+ =?us-ascii?Q?jgWxGPL1fCGdMA+YyGopR75RtLDPcDeS/hUtEpmM4+Iae8NE9zwogN4weQTc?=
+ =?us-ascii?Q?BjjrpEjBBFh6+82rLk+U59ko8eWbs/kLAnCYW6Z4E7rt5X2/qgd2Cusyub3q?=
+ =?us-ascii?Q?LbhEITXIciG+T0AGnUBmU77N9nP/q+ug1W5hm+B9u1rfPhskNd0jc+reX+5z?=
+ =?us-ascii?Q?iPSCIHzwlbF07X4NKJWiWTKIULOJEKxCv1fGH6Z3ZnC/d4wjvIvjJR6TPRYH?=
+ =?us-ascii?Q?LGOF66nguizUdEXFBKxcGX5SxhzD3bX7m39r8PXCJRs68PmY9ZAql3aDSkRL?=
+ =?us-ascii?Q?oswpiRzsSteIXCndgXaLtZ/f/GIMCVzaaMGzntWdBo8gUox4VuujBIkLbezK?=
+ =?us-ascii?Q?Reyz3X2bDH7yx4T3UbYsmJ+a0GBRXAJ5dF7OflZbE2OZJgML8a7OBNu6nR52?=
+ =?us-ascii?Q?7Pmiz0Nhln9z11w5J9Pz0NrG?=
