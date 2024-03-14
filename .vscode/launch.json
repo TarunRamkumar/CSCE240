@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/thepe/OneDrive - University of South Carolina/CSCE 240/CSCE240/HW4-EmailInformationExtractor/src/implementation",
-      "program": "c:/Users/thepe/OneDrive - University of South Carolina/CSCE 240/CSCE240/HW4-EmailInformationExtractor/src/implementation/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

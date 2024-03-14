@@ -33,7 +33,7 @@ int main()
             break;
         }
         //Reads the input file to see if there is a header.
-        ifstream file("input.txt");
+        ifstream file("..\\input.txt");
         if(!file.is_open())
         {
             cout << "Error 404: Input File Not Found" << endl;
