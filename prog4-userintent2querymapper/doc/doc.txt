@@ -1,0 +1,8 @@
+Instructions:
+    Can input any query, and the machine will try and find a match. If no match is found, it defaults to None, and outputs nothing. 
+
+Process:
+    This code is extremely similar to PA3, except the file is preparsed and searched thru to make a dictionary, with each part title as a key in the dictionary. Prior to this, I was running each search on command, which led to some inconsistencies. 
+    Next, I had to create the matching algorithm. To do this, I cleaned each input and query, by removing stopwords (such as "and", "or", etc.) and special characters. Then, I compared each word from one string to the other. I then used an inbuilt python library algorithm that calculates the percentage match between two words, and if the match is above 75%, it is considered a common word. 
+    Then, each query is compared to the input, and the highest match is returned to the user. The user is then prompted with the returned match and asked to confirm. Overall, this coding process was extremely easy compared to the other PAs, because most of the code was already done. However, the hardest part was testing each case, as there were infinite inputs that the user could put into the system. 
+    

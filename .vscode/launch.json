@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/thepe/OneDrive - University of South Carolina/CSCE 240/CSCE240/Class Activites",
+      "program": "c:/Users/thepe/OneDrive - University of South Carolina/CSCE 240/CSCE240/Class Activites/build/Release/outRelease",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

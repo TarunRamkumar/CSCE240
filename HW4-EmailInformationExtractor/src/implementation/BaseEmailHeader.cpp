@@ -56,13 +56,15 @@ string BaseEmailHeader::getPart(string part, vector<string> parts)
            //Finds the position of the next closest part within the header
            string nextPart = parts[0];
            std::size_t end = header.length();
+           std::size_t end2 = 0;
            std::size_t currentPos = 0;
            for(size_t j = 0; j < parts.size();j++)
            {
                 
                 if(nextPart != targetPart)
                 {
-                    currentPos = toLowerCase(header).find(toLowerCase(parts[j])+": ");
+                    currentPos = toLowerCase(header).find(toLowerCase(parts[j])+": ",end2);
+                    end2 = currentPos;
                     if(currentPos != string::npos && currentPos > start && currentPos < end)
                     {
                         end = currentPos;

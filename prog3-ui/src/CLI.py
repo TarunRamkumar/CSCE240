@@ -11,8 +11,8 @@ class CLI:
         except:
             print("File not found. Please ensure that the correct files have been loaded into the data folder and try again.")
         #To run in VSCode terminal
-        # self.google = Parser.FileParser("prog3-ui\data\Google10k-4Q-2024.txt")
-        # self.generalMotors = Parser.FileParser("prog3-ui\data\GeneralMotors10k-4Q-2024.txt")
+        #self.google = Parser.FileParser("prog3-ui\data\Google10k-4Q-2024.txt")
+        #self.generalMotors = Parser.FileParser("prog3-ui\data\GeneralMotors10k-4Q-2024.txt")
         
     #Method to process the user's response
     def processResponse(self,response):
@@ -57,7 +57,7 @@ class CLI:
                 for item in self.google.listTOC:
                     splitItem = str(item).split('. ')
                     for part in splitItem:
-                        if re.search(part.lower()+'$',response):
+                        if re.search(part.lower(),response):
                             return self.google.searchItems(item)
                 return "Error with input. Cannot find: " + response + " in file. Please make sure it is included within the TOC"
             
