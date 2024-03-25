@@ -1,0 +1,13 @@
+Instructions: 
+    If an invalid input is detected, the code runs with the default values.
+    The code assumes that the numbers are in no particular order, and decides which numbers to use as r or in respectively in the combination formula. 
+    Code was tested with and valid for the following cases: 
+        "5"
+        "5 4"
+        "5 ben"
+        "ben"
+        "5 4 compare"
+        "5 4 ben"
+        "hello how was your day"
+
+
