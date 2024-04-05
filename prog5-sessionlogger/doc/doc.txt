@@ -1,0 +1,18 @@
+CLI Commands/Help:
+    showchat: Shows the specified chat session
+        -c: REQUIRED flag that takes an int, specifying the chat session
+    
+    summary: Shows a summary of the chat statistics csv, defaulting to a hollistic summary
+        -c: OPTIONAL flag that takes an int that specifies the chat session to summarize
+
+For this PA, I chose to create a CLI interface to interact with the csv and session logger files. I chose to do this rather than a conventional infinite loop UI because 
+of the small number of commands, in this case 2. The built in CLI library also includes error handling, which drastically reduced the number of error cases I had to handle manually. 
+Starting off, I modified my PA4 code to track chat statistics and write each session to its own file, which specifies its number and time created. When each session is ended, I write the 
+collected statistics down into the csv file on a new row. This was a relatively easy process, as I simply created two counters for system and user responses, and took the time at the start and end 
+of the session. After these files were created, I copied them over to the PA5 directory, where I was able to parse through them. To do this, I had to create two commands, one for summarizing the statistics
+and the other to show the entire chats. The summarize command takes in a chat number and reads its corresponding csv row, providing the statistics to the user. If a chat session number is not 
+specified, then it provides a summary of all the statistics in the file. The showchat method was also simple, as I simply get the chat session number and read its file, printing out the results 
+to the console. There were only 2 error cases I had to handle manually due to the inbuilt errors of the CLI library, which was if the chat session number was too high in both commands. This was easy to fix,
+however, as I simply had to count the number of session files in the directory to get the number of valid sessions. This code is extremely easy to reuse, as it simply reads and parses through a generic CSV. 
+However, anyone reusing the code would have to modify the csv format to match the codes. This module will need some work to combine with PA4, however, as it uses a different input method (CLI), rather than infinite
+loop UI. However, the logic would remain the same, and all that would need to be added is more query matches to the valid responses array in PA4 to cover PA5 statistic queries. 

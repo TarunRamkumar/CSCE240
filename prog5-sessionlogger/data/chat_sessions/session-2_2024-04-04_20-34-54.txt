@@ -1,0 +1,927 @@
+User input: gm business
+System Response: Risk Factors
+14
+Item 1B.
+Unresolved Staff Comments
+23
+Item 2.
+Properties
+23
+Item 3.
+Legal Proceedings
+23
+Item 4.
+Mine Safety Disclosures
+23
+PART II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+23
+Item 6.
+[Reserved]
+25
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+25
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk
+46
+Item 8.
+Financial Statements and Supplementary Data
+53
+Consolidated Income Statements
+53
+Consolidated Statements of Comprehensive Income
+53
+Consolidated Balance Sheets
+54
+Consolidated Statements of Cash Flows
+55
+Consolidated Statements of Equity
+56
+Notes to Consolidated Financial Statements
+57
+Note 1.
+Nature of Operations and Basis of Presentation
+57
+Note 2.
+Significant Accounting Policies
+57
+Note 3.
+Revenue
+64
+Note 4.
+Marketable and Other Securities
+65
+Note 5.
+GM Financial Receivables and Transactions
+66
+Note 6.
+Inventories
+69
+Note 7.
+Operating Leases
+69
+Note 8.
+Equity in Net Assets of Nonconsolidated Affiliates
+70
+Note 9.
+Property
+72
+Note 10.
+Goodwill and Intangible Assets
+72
+Note 11.
+Variable Interest Entities
+73
+Note 12.
+Accrued and Other Liabilities
+74
+Note 13.
+Debt
+75
+Note 14.
+Derivative Financial Instruments
+77
+Note 15.
+Pensions and Other Postretirement Benefits
+78
+Note 16.
+Commitments and Contingencies
+84
+Note 17.
+Income Taxes
+87
+Note 18.
+Restructuring and Other Initiatives
+90
+Note 19.
+Interest Income and Other Non-Operating Income
+91
+Note 20.
+Stockholders’ Equity and Noncontrolling Interests
+91
+Note 21.
+Earnings Per Share
+93
+Note 22.
+Stock Incentive Plans
+93
+Note 23.
+Segment Reporting
+95
+Note 24.
+Supplemental Information for the Consolidated Statements of Cash Flows
+98
+Item 9.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+99
+Page
+Item 9A.
+Controls and Procedures
+99
+Item 9B.
+Other Information
+100
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+100
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+100
+Item 11.
+Executive Compensation
+100
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+100
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+100
+Item 14.
+Principal Accountant Fees and Services
+100
+PART IV
+Item 15.
+Exhibit and Financial Statement Schedules
+101
+Item 16.
+Form 10-K Summary
+103
+Signatures
+104
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+PART I
+Item 1. Business
+General Motors Company (sometimes referred to as we, our, us, ourselves, the Company, General Motors, or GM) was incorporated as a Delaware corporation in 2009. We design, build and sell trucks, crossovers, cars and automobile parts and provide software-enabled services and subscriptions worldwide. Our automotive operations meet the demands of our customers through our automotive segments: GM North America (GMNA) and GM International (GMI) with vehicles developed, manufactured and/or marketed under the Buick, Cadillac, Chevrolet and GMC brands. We also have equity ownership stakes in entities that meet the demands of customers in other countries, primarily in China, with vehicles developed, manufactured and/or marketed under the Baojun, Buick, Cadillac, Chevrolet and Wuling brands. Cruise is our global segment responsible for the development and commercialization of autonomous vehicle technology. We provide automotive financing services through our General Motors Financial Company, Inc. (GM Financial) segment. Refer to Part II, Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations (MD&A) and Note 23 to our consolidated financial statements for financial information about our segments. Except for per share amounts or as otherwise specified, amounts presented within tables are stated in millions. Certain columns and rows may not add due to rounding. Forward-looking statements in this Business section are not guarantees of future performance and may involve risks and uncertainties that could cause actual results to differ materially from those projected. Refer to Item 1A. Risk Factors and the "Forward-Looking Statements" section of Part II, Item 7. MD&A for a discussion of these risks and uncertainties.
+Our vision for the future is a world with zero crashes, zero emissions and zero congestion, which guides our growth-focused strategy to invest in electric vehicles (EVs) and autonomous vehicles (AVs), software-enabled services and subscriptions and new business opportunities, while strengthening our market position in profitable internal combustion engine (ICE) vehicles, such as trucks and sport utility vehicles (SUVs).
+We have an opportunity to grow our vehicle and financing revenue by continuing to capitalize on the strength of our established vehicle franchises and customer base and scaling our EV production through this decade. We also have the potential of growing our revenue through our software-enabled services and subscriptions, including OnStar, our advanced driver-assistance systems (ADAS), including Super Cruise, and future offerings, such as our next-generation ADAS, Ultra Cruise, and Ultifi, our end-to-end software platform. Additionally, we are incubating several new businesses with a start-up mindset that we believe will enable us to attract new customers and generate revenues in new areas.
+Electric Vehicles
+We plan to rapidly scale our capacity to build one million EVs in North America and more than two million EVs globally by the end of 2025. A key element in our EV strategy is Ultium, our dedicated electric vehicle propulsion architecture. This platform is flexible and will be leveraged across multiple brands and vehicle sizes, styles and drive configurations, allowing for quick response to customer preferences and a shorter design and development lead time compared to our ICE vehicles. Our first Ultium-based products launched in 2021 with the GMC HUMMER EV and BrightDrop Zevo 600, followed by the Cadillac LYRIQ in 2022. We plan to leverage the versatility and flexibility of Ultium to expand our EV portfolio over a wide variety of segments and price points including the Chevrolet Equinox EV, the Chevrolet Blazer EV, the Chevrolet Silverado EV and the GMC Sierra EV, which are expected to be launched over 2023 and 2024.
+In 2021, we began production at GM’s Factory ZERO Detroit-Hamtramck Assembly Center (Factory ZERO), which was re-tooled into a fully dedicated EV facility to produce the GMC HUMMER EV, the upcoming Cruise Origin, the Chevrolet Silverado EV and the GMC Sierra EV. In January 2022, we announced that we will convert our assembly plant in Orion Township, Michigan for fully dedicated EV production, including the Chevrolet Silverado EV and the GMC Sierra EV. Additionally, we have announced plans to mass-produce battery cells for these and other future EVs through Ultium Cells Holdings LLC (an equally owned joint venture with LG Energy Solution) in Warren, Ohio, Spring Hill, Tennessee and Lansing, Michigan. A fourth U.S.-based battery cell plant is also planned.
+To support mass market adoption of EVs, we are working to ensure that our customers will have access to comprehensive charging solutions. For personal vehicles, this means strategically addressing charging needs at home, the workplace and in public locations, for which we have committed to invest nearly $750 million through 2025. For example, in November 2021, we announced a collaboration with EVgo to install 3,250 DC fast charging stalls in more than 50 U.S. metropolitan markets. In July 2022, we announced a collaboration with EVgo and Pilot Company targeting the installation of a coast-to-coast network of 2,000 DC fast charging stalls at 50-mile intervals across the U.S., enabling long-distance corridor charging. This network will be open to all EV brands at up to 500 Pilot and Flying J travel centers. For fleet vehicles, we are developing turnkey charging solutions and fleet and facility energy management services. In addition, we have announced collaborative work with several
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+charge network operators to filter real-time data on their respective networks and charge station health into a holistic charging approach that integrates charging networks, GM vehicle mobile apps and other products and services to simplify the overall charging experience for GM EV owners in North America.
+BrightDrop
+BrightDrop is developing a suite of solutions, including the BrightDrop Zevo all-electric delivery vans, BrightDrop Trace electrically propelled smart containers and the BrightDrop Core software platform, which is focused on helping companies better visualize and optimize their fleet operations. We expect these solutions will help the world's largest delivery and logistics companies do more with less, while helping to improve operating efficiencies, eliminate operating emissions and reduce congestion. BrightDrop's Zevo 600 and Zevo 400 full-scale production facility, CAMI Assembly, launched in late 2022, with start of regular production (SORP) targeted for the first quarter of 2023. BrightDrop delivered the first Zevo 600s to FedEx Express, our launch customer, and generated reservations and expressions of interest for Zevo vans from several major companies, including DHL Express Canada, Walmart and Merchants Fleet.
+OnStar and Vehicle Connectivity
+We offer OnStar and connected services to more than 21 million connected vehicles globally through subscription-based and complimentary services. We are among the leaders in the industry, with global real-world experience in delivering connected services and advanced safety features. OnStar offers safety and security services for retail and fleet customers, including automatic crash response, emergency services, roadside assistance, crisis assist, stolen vehicle assistance and turn-by-turn navigation. Additionally, we offer OnStar Guardian in select markets, a mobile app that allows customers to access key OnStar safety and security services from their compatible mobile device. Fleet customers in some markets can leverage OnStar Vehicle Insights, our telematics solution across their entire fleet, regardless of vehicle make or model. We also offer a variety of connected services in certain markets, including mobile apps for owners to remotely control certain vehicle features and EV owners to locate charging stations, on-demand vehicle diagnostics, GM Smart Driver, Amazon Alexa in-vehicle voice, Google's Voice Assistant, navigation and app ecosystem, connected navigation, SiriusXM with 360L, 4G LTE wireless connectivity and 5G connectivity which will be available in select model year 2024 vehicles.
+Super Cruise and Ultra Cruise
+We offer Super Cruise, the industry's first true hands-free driver assistance technology that enables drivers of eligible vehicles to travel hands-free on more than 400,000 miles of compatible roads in the U.S. and Canada. We will make Super Cruise available on 22 vehicles in North America and China by the end of 2023. Ultra Cruise is a significant next step in advanced driver assistance technology, designed to ultimately enable a hands-free driving experience in 95 percent of all driving scenarios, that will debut on the Cadillac CELESTIQ.
+Ultifi
+Ultifi is our end-to-end software platform that will provide customers with software-defined features, apps and services over-the-air starting in 2023. Ultifi and the apps it enables will empower customers to update their ownership experiences with desirable features such as services and subscriptions, vehicle performance, Super Cruise and, when launched, Ultra Cruise, safety and security features, climate and comfort options, personal themes and EV ownership experience elements.
+Cruise
+General Motors and Cruise are pursuing what we believe is the most comprehensive path to autonomous mobility in the industry. In September 2021, Cruise began operating a driverless ride hail service in San Francisco, California, and in June 2022, began charging the public for driverless rides. Cruise continues to make regulatory progress in California. In December 2022, Cruise received regulatory approval to expand its operational design domain in California. Cruise is also seeking regulatory approval to add the Cruise Origin to its driverless test permit. Additionally, in September 2022, Cruise acquired regulatory permits to operate driverless ride hail services in Phoenix, Arizona and began pursuing ride hail operations in Austin, Texas. Given the potential of all-electric self-driving vehicles to help save lives, reshape our cities and reduce emissions, the goal of Cruise is to deliver its self-driving services as soon as possible, but as Cruise continues to expand and scale its operations, safety will continue to be the gating metric, supported by Cruise's Safety Management System and its other risk identification, assessment and mitigation processes.
+We believe that building all-electric vehicles with autonomous capabilities integrated from the beginning, rather than through retrofits, is the most efficient way to unlock the tremendous potential societal benefits of self-driving cars. The Cruise Origin, a purpose-built, all-electric, self-driving vehicle that is being co-developed by GM, Cruise and Honda Motor Company, Ltd. (Honda) will be built on GM’s all-new modular architecture, powered by the Ultium platform, at Factory ZERO starting in 2023 pending government approvals. GM and Cruise are awaiting a decision on an exemption petition that was filed with the National Highway Traffic Safety Administration (NHTSA) seeking regulatory approval for the Origin’s deployment.
+HYDROTEC
+We are developing hydrogen fuel cell applications across transportation types and industries, including mobile power generation, class 7/8 truck, locomotive and aerospace. The development of HYDROTEC technology is another element of our long-term commitment toward a world with zero emissions. We believe hydrogen fuel cells will play an important role in many automotive and other mobility applications where customers will derive additional benefits from the ability to refuel quickly, an extended range, suitability for heavier payloads and central refueling of large fleets. GM and Honda, through our
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+long-term strategic alliance to collaborate in research and advanced engineering efforts, are developing and commercializing fuel cell systems. In 2021, we announced a number of commercial relationships and, in November 2022, we announced a joint development agreement with Nel Hydrogen US to help enable cost competitive renewable hydrogen production.
+OnStar Insurance Services
+OnStar Insurance is currently available in all 50 states. This innovative startup leverages GM's expertise in data and vehicle technology to learn, scale and move the company forward. As technology evolves, OnStar Insurance expects to transform traditional models to make the insurance process easier, smarter and more personalized for customers.
+GM Defense
+GM Defense is developing products and solutions for global government and military customers by leveraging GM's commercial investments in vehicle, electrification, autonomy and connected vehicle technologies. GM Defense's growth strategy is focused on building a portfolio of products, including the Infantry Squad Vehicle and the armored Heavy Duty SUV.
+Competitive Position and Vehicle Sales
+The principal factors that determine consumer vehicle preferences in the markets in which we operate include overall vehicle design, price, quality, available options, safety, reliability, fuel economy and functionality. Market leadership in individual countries in which we compete varies widely.
+We present both wholesale and total vehicle sales data to assist in the analysis of our revenue and our market share. Wholesale vehicle sales data consists of sales to GM's dealers and distributors, as well as sales to the U.S. Government, and excludes vehicles sold by our joint ventures. Wholesale vehicle sales data correlates to our revenue recognized from the sale of vehicles, which is the largest component of Automotive net sales and revenue. In the year ended December 31, 2022, 30.5% of our wholesale vehicle sales volume was generated outside the U.S. The following table summarizes wholesale vehicle sales by automotive segment (vehicles in thousands):
+Years Ended December 31,
+2022
+2021
+2020
+GMNA
+2,926
+81.8
+2,308
+80.7
+2,707
+80.3
+GMI
+653
+18.2
+551
+19.3
+663
+19.7
+Total
+3,579
+100.0
+2,859
+100.0
+3,370
+100.0
+Total vehicle sales data represents: (1) retail sales (i.e., sales to consumers who purchase new vehicles from dealers or distributors); (2) fleet sales (i.e., sales to large and small businesses, governments and daily rental car companies); and (3) vehicles used by dealers in their businesses. Total vehicle sales data for periods presented prior to 2022 reflect courtesy transportation vehicles used by U.S. dealers in their business. Beginning in 2022, we stopped including such dealership courtesy transportation vehicles in total vehicle sales until such time as those vehicles were sold to the end customer. Total vehicle sales data includes all sales by joint ventures on a total vehicle basis, not based on our percentage ownership interest in the joint venture. Certain joint venture agreements in China allow for the contractual right to report vehicle sales of non-GM trademarked vehicles by those joint ventures, which are included in the total vehicle sales we report for China. While total vehicle sales data does not correlate directly to the revenue we recognize during a particular period, we believe it is indicative of the underlying demand for our vehicles. Total vehicle sales data represents management's good faith estimate based on sales reported by GM's dealers, distributors, and joint ventures, commercially available data sources such as registration and insurance data, and internal estimates and forecasts when other data is not available.
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+The following table summarizes industry and GM total vehicle sales and our related competitive position by geographic region (vehicles in thousands):
+Years Ended December 31,
+2022
+2021
+2020
+Industry
+GM
+Market Share
+Industry
+GM
+Market Share
+Industry
+GM
+Market Share
+North America
+United States
+14,200
+2,274
+16.0
+15,410
+2,218
+14.4
+14,882
+2,547
+17.1
+Other
+3,071
+406
+13.2
+3,081
+355
+11.5
+2,804
+377
+13.4
+Total North America
+17,270
+2,680
+15.5
+18,491
+2,574
+13.9
+17,686
+2,924
+16.5
+Asia/Pacific, Middle East and Africa
+China(a)
+23,464
+2,303
+9.8
+25,843
+2,892
+11.2
+24,926
+2,901
+11.6
+Other
+20,040
+502
+2.5
+19,516
+435
+2.2
+17,996
+530
+2.9
+Total Asia/Pacific, Middle East and Africa
+43,504
+2,805
+6.4
+45,359
+3,326
+7.3
+42,922
+3,431
+8.0
+South America
+Brazil
+2,103
+291
+13.8
+2,119
+242
+11.4
+2,055
+338
+16.4
+Other
+1,563
+161
+10.3
+1,490
+152
+10.2
+1,106
+132
+12.0
+Total South America
+3,666
+452
+12.3
+3,609
+394
+10.9
+3,160
+470
+14.9
+Total in GM markets
+64,440
+5,937
+9.2
+67,459
+6,294
+9.3
+63,769
+6,826
+10.7
+Total Europe
+14,101
+15,108
+15,043
+Total Worldwide(b)(c)
+78,542
+5,939
+7.6
+82,567
+6,296
+7.6
+78,812
+6,826
+8.7
+United States
+Cars
+2,806
+214
+7.6
+3,277
+138
+4.2
+3,331
+239
+7.2
+Trucks
+3,965
+1,246
+31.4
+4,038
+1,223
+30.3
+4,045
+1,257
+31.1
+Crossovers
+7,428
+814
+11.0
+8,095
+857
+10.6
+7,506
+1,051
+14.0
+Total United States
+14,200
+2,274
+16.0
+15,410
+2,218
+14.4
+14,882
+2,547
+17.1
+China(a)
+SGMS
+1,037
+1,277
+1,407
+SGMW
+1,266
+1,615
+1,494
+Total China
+23,464
+2,303
+9.8
+25,843
+2,892
+11.2
+24,926
+2,901
+11.6
+__________
+(a)    Includes sales by the Automotive China Joint Ventures (Automotive China JVs): SAIC General Motors Sales Co., Ltd. (SGMS) and SAIC GM Wuling Automobile Co., Ltd. (SGMW).
+(b)    Cuba, Iran, North Korea, Sudan and Syria are subject to broad economic sanctions
+Accordingly, these countries are excluded from industry sales data and corresponding calculation of market share.
+(c)    As of March 2022, GM is no longer importing vehicles or parts to Russia, Belarus and other sanctioned provinces in Ukraine.
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+As discussed above, total vehicle sales and market share data provided in the table above includes fleet vehicles. We sell vehicles directly or through our dealer network to fleet customers, including daily rental car companies, commercial fleet customers, leasing companies and governments. Certain fleet transactions, particularly sales to daily rental car companies, are generally less profitable than retail sales to end customers. The following table summarizes estimated fleet sales and those sales as a percentage of total vehicle sales (vehicles in thousands):
+Years Ended December 31,
+2022
+2021
+2020
+GMNA
+564
+399
+493
+GMI
+426
+311
+351
+Total fleet sales
+990
+710
+844
+Fleet sales as a percentage of total vehicle sales
+16.7
+11.3
+12.4
+Product Pricing
+Several methods are used to promote our products, including the use of dealer, retail and fleet incentives, such as customer rebates and finance rate support. The level of incentives is dependent upon the level of competition in the markets in which we operate and the level of demand for our products.
+Cyclical and Seasonal Nature of Business
+The market for vehicles is cyclical and depends in part on general economic conditions, credit availability and consumer spending. Vehicle markets are also seasonal. Production varies from month to month. Vehicle model changeovers occur throughout the year as a result of new market entries.
+Relationship with Dealers
+We market vehicles and automotive parts worldwide primarily through a network of independent authorized retail dealers. These outlets include distributors, dealers and authorized sales, service and parts outlets. Our customers can obtain a wide range of after-sale vehicle services and products through our dealer network, such as maintenance, light repairs, collision repairs, vehicle accessories and extended service warranties. The number of authorized dealerships and other agents performing similar functions were 4,639 in GMNA and 7,318 in GMI at December 31, 2022.
+We, and our joint ventures, enter into a contract with each authorized dealer agreeing to sell to the dealer one or more specified product lines at wholesale prices and granting the dealer the right to sell those products to customers from an approved location. Our dealers often offer more than one GM brand at a single dealership in a number of our markets. Authorized dealers offer parts, accessories, service and repairs for GM vehicles in the product lines that they sell using GM parts and accessories. Our dealers are authorized to service GM vehicles under our limited warranty, and those repairs are made almost exclusively with GM parts. Our dealers generally provide their customers with access to credit or lease financing, vehicle insurance and extended service contracts, which may be provided by GM Financial and other financial institutions.
+The quality of GM dealerships and our relationship with our dealers are critical to our success, now, and as we transition to our all-electric future, given that they maintain the primary sales and service interface with the end consumer of our products. In addition to the terms of our contracts with our dealers, we are regulated by various country and state franchise laws and regulations that may supersede those contractual terms and impose specific regulatory requirements and standards for initiating dealer network changes, pursuing terminations for cause and other contractual matters.
+Research, Product Development and Intellectual Property
+Costs for research, manufacturing engineering, product engineering and design and development activities primarily relate to developing new products or services or improving existing products or services, including activities related to vehicle and greenhouse gas (GHG) emissions control, improved fuel economy, EVs, AVs and the safety of drivers and passengers. Research and development expenses were $9.8 billion, $7.9 billion and $6.2 billion in the years ended December 31, 2022, 2021 and 2020.
+Product Development
+The Global Product Development organization is responsible for designing, developing and integrating all global products and their components while aiming to maximize part sharing across multiple vehicle segments. Our global vehicle architecture development is headquartered at our Global Technical Center in Warren, Michigan, where our global teams in Design, Program Management & Execution, Component & Subsystem Engineering, Product Safety, Systems & Integration, Software Defined Vehicle & Embedded Platforms, Electrification & Battery Systems, Technology Acceleration & Commercialization and Purchasing & Supply Chain collaborate to meet customer requirements and maximize global economies of scale.
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+We continue to invest in key ICE segments, which are critical to fund our all-electric future. Cross-segment part sharing is an essential enabler to optimize our vehicle portfolio profitability, with more than 75% of our global internal combustion vehicle sales volume expected to come from five internal combustion vehicle architectures through this decade. We will continue to leverage our ICE portfolio to accommodate our customers around the world while achieving our financial goals.
+In 2021, we announced our investment in the Wallace Battery Cell Innovation Center, an all-new facility that has significantly expanded the Company's battery technology operations and will continue to accelerate the development and commercialization of longer range, more affordable EV batteries. The Wallace Center is located on the campus of the Global Technical Center in Warren, Michigan.
+Intellectual Property
+We are constantly innovating and hold a significant number of patents, copyrights, trade secrets and other intellectual property that protect those innovations in numerous countries. While no single piece of intellectual property is individually material to our business as a whole, our intellectual property is important to our operations and continued technological development. Additionally, we hold a number of trademarks and service marks that are very important to our identity and recognition in the marketplace.
+Raw Materials, Services and Supplies
+We purchase a wide variety of raw materials, systems, components, parts, supplies, energy, freight, transportation and other services from numerous suppliers to manufacture our products. The raw materials primarily include steel, aluminum, resins, copper, lead, precious metals and raw materials used in EVs. We do not normally carry substantial inventories of these raw materials in excess of levels reasonably required to meet our production requirements, and while we have not experienced any significant shortages of raw materials, we have recently experienced supply disruptions resulting in temporary production stoppages. In addition, our transition to EVs will require developing a more resilient, scalable and sustainable North America-focused EV supply chain, which includes advancing our strategic sourcing initiatives to secure supply through investments in raw materials suppliers and the execution of strategic, multi-year supply agreements with suppliers throughout the value chain. This includes securing supply through offtake agreements for EV raw materials, such as lithium, cathode active material, synthetic and natural graphite, nickel, cobalt, rare earth elements and permanent motor magnets. These EV-related agreements may require us to hold higher than normal levels of EV raw materials inventory. Expected demand for these raw materials currently exceeds the capacity of the existing supply chain and our raw material sourcing strategy aims to secure raw material supply to support our EV transition.
+Commodity costs are expected to remain elevated due to the macro-economic environment and the continuing existence of tariffs. In addition, global supply chain disruptions have had, and are continuing to have, wide-ranging effects across multiple industries, particularly the automotive industry. Refer to Item 1A. Risk Factors and to Part II, Item 7. MD&A for further discussion on the effect global supply chain disruptions have had on our results of operations. Furthermore, an increased demand for rare earth minerals is increasing scrutiny of the sustainability and human rights implications of rare earth mineral supply chains.
+In some instances, we purchase systems, components, parts and supplies from a single source, which may increase risk to supply disruptions. The inability or unwillingness of these sources to provide us with parts and supplies could have a material adverse effect on our production. Combined purchases from our two largest suppliers were approximately 11% of our total purchases in the year ended December 31, 2022, approximately 12% of our total purchases in the year ended December 31, 2021, and approximately 11% of our total purchases in the year ended December 31, 2020. Refer to Item 1A. Risk Factors for further discussion of these risks.
+Automotive Financing - GM Financial
+GM Financial is our global captive automotive finance company and our global provider of automobile finance solutions. GM Financial conducts its business in North America, South America and through joint ventures in China.
+GM Financial provides retail loan and lease lending across the credit spectrum to support vehicle sales. Additionally, GM Financial offers commercial lending products to dealers including floorplan financing, which is lending to finance new and used vehicle inventory; and dealer loans, which are loans to finance improvements to dealership facilities, to provide working capital, or to purchase and/or finance dealership real estate. Other commercial lending products include financing for parts and accessories, dealer fleets and storage centers.
+In North America, GM Financial offers a sub-prime lending program. The program is primarily offered to consumers with a FICO score or its equivalent of less than 620 who have limited access to automobile financing through banks and credit unions and is expected to sustain a higher level of credit losses than prime lending.
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+GM Financial generally seeks to fund its operations in each country through local sources of funding to minimize currency and country risk. GM Financial primarily finances its loan, lease and commercial origination volume through the use of secured and unsecured credit facilities, securitization transactions and the issuance of unsecured debt in the capital markets.
+Human Capital
+The foundation of GM’s business is our Purpose: We pioneer the innovations that move and connect people to what matters. It is why we exist. Our Purpose, growth strategy and culture all help us on our path towards achieving our vision of — a world with zero crashes, zero emissions and zero congestion. Our people are our most valuable asset, and we must continue to attract and retain the best talent in the world in order to achieve this vision. As a result, we strive to create a Workplace of Choice to attract, retain and develop top talent by adhering to a responsible employer philosophy, which includes, among other things, commitments to create job opportunities, pay workers fairly, ensure safety and well-being, and promote diversity, equity and inclusion (DEI). Fundamental to these commitments are our company values.
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+Our eight GM behaviors are the foundation of our culture; and how we behave encompasses key measures of our performance, including the ways we conduct ourselves as we work with one another.
+Diversity, Equity and Inclusion
+At GM, we are committed to fostering a culture of diversity, equity and inclusion. In every moment, we must decide what we can do — individually and collectively — to drive meaningful, deliberate and long-lasting change. GM’s unwavering commitment in this regard includes taking steps to ensure that all areas of our business are supportive of a world-class inclusive, equitable and diverse organization. Our ability to meet the needs of a diverse and global customer base is tied closely to the behaviors of the people within our company, which is why we are committed to fostering a culture that celebrates our differences. This commitment is embraced at all levels of the organization, including our diverse Board of Directors, which is currently made up of almost 50% women (6 out of 13 members) and is more than 30% racially or ethnically diverse (4 out of 13 members).
+Based on these longstanding values, our Chair and CEO, Mary Barra, chairs an Inclusion Advisory Board (IAB) of internal and external leaders who guide our work to improve diversity and inclusion in our Company. The purpose of the IAB is to consult with GM’s Senior Leadership Team with the long-term goal of inspiring the Company to be inclusive through our words, deeds and culture. We also have a number of programs and partnerships aimed at enhancing our culture of inclusion throughout the Company. For example, we have 12 voluntary, employee-led resource groups that provide a forum for diverse employees and allies from a variety of different backgrounds to share experiences and contribute to our collective cultural intelligence and growth. Each group also works to attract and retain new talent and offers employees opportunities to support our company’s diversity initiatives within the community.
+GM has added resources skilled in new areas like inclusive leadership coaching, workforce design, accessibility and community partnerships. These investments are designed to help increase DEI overall maturity, increasing pathways for talent entry and development in the company and fostering partnerships that improve equity inside and outside of GM. As an example, in January 2021, GM welcomed the industry’s first chief engineer of accessibility to lead a new Accessibility Center of Excellence, driving GM’s approach toward increasing inclusivity in products and services. The team works across four main areas: researching and innovating with the customer, defining what it means to have accessible solutions in our vehicles, working to create customizable solutions for a variety of customer needs and creating an ecosystem to grow the culture around accessibility.
+Develop and Retain Talented People
+Today, we compete for talent against other automotive companies and against businesses in other sectors, such as technology. To win and keep top talent, we must provide a workplace culture that encourages employee behaviors aligned with our values, fulfills employees' long-term individual aspirations and provides experiences that make individuals feel valued, included and engaged. In furtherance of this goal, we invest significant resources to retain and develop our talent. In addition to mentoring and networking opportunities, we offer a vast array of career development resources to help develop, grow and enable employees to make the most of their careers at GM. Formal resources
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+include, among other things, the Technical Education Program, which offers our employees an opportunity to complete corporate strategically aligned degrees and certificate programs at leading universities, and our Degreed Learning Platform, which brings forth a variety of external and in-house content in learning pathways and other micro learnings. It is also tied to our GM competency and skills model. Employees in some of our technical roles also have the opportunity to participate in the GM Technical Learning University — a training and upskilling program designed to expand and update the technical prowess of our workforce.
+GM recognizes that leadership effectiveness is a critical business need. All new managers in the Company are automatically entered into a six-month immersive learning program and all new executives come together for an upskilling and targeted development program designed around the GM leadership profile.
+Safety and Well-Being
+The safety and well-being of our employees is also a critical component of our ability to transform the future of personal mobility. At GM, we pride ourselves on our commitment to live values that return people home safely — Every Person, Every Site, Every Day. Our unwavering commitment to safety is manifested through empowering employees to “Speak Up for Safety” and the Employee Safety Concern Process. These resources make it easier for salaried, hourly or represented and contract employees to report potential vehicle or workplace safety issues, or to suggest safety related improvements without fear of retaliation. The well-being of our employees is equally as important to entice and stimulate creativity and innovation. In addition to traditional healthcare, paid time off, paid parental leave, wellness programs, flextime scheduling and telecommuting arrangements and retirement benefits, including a 401(k) company contribution and matching program, GM offers a variety of benefits and resources to support employees' physical and mental health, including access to fitness facilities in certain locations, which help us both attract talent and reap the benefits of a healthier workforce. Beginning January 1, 2023, where permissible, United States salaried employees are able to add their domestic partners and their children to various benefits plans and policies under the specific terms of such plans and policies.
+Employees
+At December 31, 2022, we employed approximately 86,000 (52%) hourly employees and approximately 81,000 (48%) salaried employees. At December 31, 2022, approximately 46,000 (44%) of our U.S. employees were represented by unions, a majority of which were represented by the International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW). The following table summarizes worldwide employment (in thousands):
+December 31, 2022
+GMNA(a)
+124
+GMI
+34
+GM Financial
+Total Worldwide
+167
+U.S. - Salaried
+58
+U.S. - Hourly
+46
+__________
+(a)
+Includes Cruise.
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+Information About our Executive Officers
+As of January 31, 2023, the names and ages of our executive officers and their positions with GM are as follows:
+Name (Age)
+Present GM Position (Effective Date)
+Positions Held During the Past Five Years (Effective Date)
+Mary T. Barra (61)
+Chair and Chief Executive Officer (2016)
+Julian Blissett (56)
+Executive Vice President and President, GM China (2020)
+Senior Vice President, International Operations (2019)
+Vice President, Executive Shanghai GM (2014)
+Stephen K. Carlisle (60)
+Executive Vice President and President, North America (2020)
+Senior Vice President and President, Cadillac (2018)
+President and Managing Director, GM Canada (2015)
+Craig B. Glidden (65)
+Executive Vice President, Global Public Policy, General Counsel and Corporate Secretary (2021)
+Executive Vice President and General Counsel (2015)
+Christopher T. Hatto (52)
+Vice President, Global Business Solutions and Chief Accounting Officer (2020)
+Vice President, Controller and Chief Accounting Officer (2018)
+Chief Financial Officer, U.S. Sales Operations (2016)
+Paul A. Jacobson (51)
+Executive Vice President and Chief Financial Officer (2020)
+Delta Air Lines, Executive Vice President — Chief Financial Officer (2013)
+Gerald Johnson (60)
+Executive Vice President, Global Manufacturing and Sustainability (2019)
+Vice President, North America Manufacturing and Labor Relations (2017)
+Douglas L. Parks (61)
+Executive Vice President, Global Product Development, Purchasing and Supply Chain (2019)
+Vice President, Autonomous and Electric Vehicles (2017)
+Mark L. Reuss (59)
+President (2019)
+Executive Vice President and President, Global Product Development Group and Cadillac (2018)
+Executive Vice President, Global Product Development, Purchasing & Supply Chain (2014)
+There are no family relationships between any of the officers named above and there is no arrangement or understanding between any of the officers named above and any other person pursuant to which he or she was selected as an officer. Each of the officers named above was elected by the Board of Directors to hold office until his or her successor is elected and qualified or until his or her earlier resignation or removal.
+Environmental and Regulatory Matters
+Automotive Criteria Emissions Control
+Our products are subject to laws and regulations globally that require us to control certain non-GHG automotive emissions, including vehicle and engine exhaust emission standards, vehicle evaporative emission standards and onboard diagnostic (OBD) system requirements. Emission requirements have become more stringent as a result of stricter standards and new diagnostic requirements that have come into force in many markets around the world, often with very little harmonization. Regulatory authorities may conduct ongoing evaluations of products from all manufacturers. For additional information, refer to Item 1A. Risk Factors.
+The U.S. federal government, through the Environmental Protection Agency (EPA), imposes stringent exhaust and evaporative emission control requirements on vehicles sold in the U.S. The California Air Resources Board (CARB) likewise imposes stringent exhaust and evaporative emission standards. The Clean Air Act permits states that have areas with air quality compliance issues to adopt California emission standards in lieu of federal requirements. Seventeen states have adopted California emission standards, and there is a possibility that additional U.S. jurisdictions could adopt California emission requirements in the future.
+For each model year we must obtain certification that our vehicles and heavy-duty engines will meet emission requirements of the EPA before we can sell vehicles in the U.S. and Canada, and of CARB before we can sell vehicles in California and the states that have adopted California emission requirements.
+The Canadian federal government's current vehicle pollutant emission requirements are generally aligned with U.S. federal requirements.
+10
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+In 2019, certain areas within China began implementation of the China 6 emission standard (China 6) requirements. China 6 combines elements of both European Union (EU) and U.S. standards and increases the time and mileage periods over which manufacturers are responsible for a vehicle's emission performance. Nationwide implementation of China 6a for new registrations occurred in January 2021, and the more stringent China 6b is expected to be implemented in July 2023. Finally in 2022, China began studies regarding the next generation of vehicle emission standards (China 7), which will likely be influenced by the European (Euro 7) standards.
+Brazil has approved a set of national emission standards referred to as L7, implemented in 2022, and L8, to be implemented from 2025 onward. L7 standards cover tailpipe exhaust gases, durability for emissions, evaporative emissions and noise limits, and include additional OBD requirements and a phase-in for onboard refueling vapor recovery systems. L8 standards include targets for vehicle emissions and reduce corporate exhaust limits every two years until 2031. Some of the requirements are aligned with those of the EPA.
+As a result of the sale of the Opel and Vauxhall businesses and certain other assets in Europe (the Opel/Vauxhall Business), GM’s vehicle presence in Europe is smaller, but GM may still be affected by actions taken by regulators related both to Opel/Vauxhall vehicles sold before the sale of the Opel/Vauxhall Business as well as to other vehicles GM continues to sell in Europe. In the EU, increased scrutiny of compliance with emission standards may result in changes to these standards, as well as stricter interpretations or redefinition of these standards and more rigorous enforcement. Beyond this, as a part of the EU’s desire to accelerate the shift to sustainable mobility, the EU is looking to develop stricter emission standards (Euro 7) for all petrol and diesel cars, vans, lorries and buses, as it is moving to end the sale of ICE vehicles past 2035, and place requirements on batteries to be used in EVs. For additional information, refer to Note 16 to our consolidated financial statements.
+Automotive Fuel Economy and GHG Emissions
+In the U.S., NHTSA promulgates and enforces Corporate Average Fuel Economy (CAFE) standards for three separate fleets: domestic cars, import cars and light-duty trucks. Manufacturers may use one or a combination of the following to resolve fleet deficits: credits from the five prior model years, expected credits for the next three model years, credits obtained from other manufacturers, and payment of civil penalties. Manufacturers that do not resolve deficits for a model year may be subject to substantial civil penalties. In addition to federal CAFE standards, the EPA promulgates and enforces GHG emission standards. NHTSA and the EPA have separately finalized standards with differing stringency levels and affected model years, with the CAFE standards addressing the 2024–2026 model years and the GHG standards addressing the 2023–2026 model years. Both the CAFE and GHG standards have been challenged through litigation. NHTSA and the EPA also regulate the fuel efficiency and GHG emissions of medium- and heavy-duty vehicles, imposing more stringent standards over time.
+In addition, CARB has asserted the right to promulgate and enforce its own state GHG standards for motor vehicles, and other states have asserted the right to adopt CARB's standards. CARB regulations previously stated that compliance with the light-duty EPA GHG program is deemed compliance with CARB standards. However, in December 2018 CARB amended this regulation to state that, in the event the EPA were to alter federal GHG stringency, which it now has, compliance with the EPA's GHG emission standards will no longer be deemed compliance with CARB's separate requirements. While NHTSA and the EPA previously took actions to preempt California’s GHG standards, NHTSA repealed its assertion of preemption and the EPA rescinded its withdrawal of California’s preemption waiver, enabling CARB to enforce GHG standards from the Advanced Clean Cars (ACC) program for the 2021–2025 model years. As a result, GM is required to meet state GHG standards in California and 17 states that have adopted California’s GHG standards. The EPA’s rescission of its withdrawal of California’s waiver has been challenged through litigation.
+CARB has also imposed a requirement that increases percentages of Zero Emission Vehicles (ZEVs) that must be sold in California. While NHTSA and the EPA previously took actions to preempt California’s ZEV standards, NHTSA repealed its assertion of preemption and the EPA rescinded its withdrawal of California’s waiver, enabling CARB and 15 adopting states to enforce ZEV standards from the ACC program. The EPA’s rescission of its withdrawal of California’s waiver has been challenged through litigation. Further, in August 2022, CARB finalized its Advanced Clean Cars II (ACC II) program, including ZEV standards requiring increasing percentages of ZEVs for the 2026–2035 model years, ending with a 100% sales target in the 2035 model year. CARB must obtain a waiver from EPA to implement its ACC II program. Additional U.S. jurisdictions could adopt CARB’s ACC and ACC II requirements in the future.
+In Canada, federal light- and heavy-duty GHG regulations are currently patterned after the EPA GHG emission standards given the integrated nature of the auto sector between Canada and the United States. The Canadian light-duty GHG standards continue to largely align with the U.S. GHG standards for the 2023–2025 model years. Additionally, the Canadian federal government issued an Emissions Reduction Plan requiring the implementation of increasingly stringent ZEV sales requirements for the 2026–2035 model years, ending with a 100% sales target in the 2035 model year. The Canadian province of Quebec has ZEV requirements regulating the 2018–2025 model years, largely based on California program requirements, and the province
+11
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+of British Columbia has similar ZEV regulations that were completed in July 2020 and cover the 2020–2039 model years. Both provinces have proposed amendments to their ZEV regulations for the 2026–2035 model years ending with a 100% ZEV sales target in the 2035 model year. A first draft of Canada’s national ZEV sales regulations was issued in December 2022.
+China has two fuel economy requirements for passenger vehicles: an individual vehicle pass-fail type approval requirement and a fleet average fuel consumption requirement. With a focus on the fleet average fuel consumption requirement, the China Phase 5 launched in 2021 and full compliance is required by 2025. In addition, China has established a mandate that requires passenger car manufacturers to produce a certain volume of plug-in hybrid, battery electric and fuel cell vehicles, which are referred to as New Energy Vehicles (NEVs), to generate credits in 2019 and beyond. The number of credits per car is based on the level of electric range and energy efficiency, with the goal of increasing NEV volume penetrations and improving technological sophistication over time. Uncommitted NEV credits may be used to assist compliance with the fleet average fuel consumption requirement. China has issued NEV credit targets between 2019 and 2023 and is setting new NEV credit targets aimed at further increasing volumes of NEVs in 2024 and 2025. China has provided various levels of subsidies for NEVs, and certain subsidies were extended to the end of 2022. Also in 2022, China began to study the fleet average fuel consumption requirement and NEV credit mandate for 2026–2030 (Phase 6). These standards can potentially be more stringent, aligned with the trend we are seeing in other key global markets.
+In Brazil, the Secretary of Industry and Development promulgates and enforces CAFE standards and has enforced a new CAFE program for the period October 2020–September 2026 for light-duty and mid-size trucks and SUVs, including diesel vehicles. The second and third phases of the program are yet to be finalized and are expected to gradually become more stringent for each period.
+We have several options to comply with existing and potential new regulations that we have utilized and may continue to utilize, including increasing production and sale of certain vehicles, such as EVs, and curtailing production of others, which could include profitable ICE vehicles; technology changes, including fuel consumption efficiency and engine upgrades; payment of penalties; and/or the purchase of credits from third parties. We regularly evaluate our current and future product plans and strategies for compliance with fuel economy and GHG regulations.
+We plan to be carbon neutral by 2040 in our global products and operations, supported by a commitment to science-based targets. In addition, the Company envisions an all-electric future and plans to eliminate tailpipe emissions from new U.S. light-duty vehicles by 2035. These targets align with our growth and transformation plan including our commitment to an all-electric future, which will be enabled by our Ultium platform and HYDROTEC technology as previously detailed. We also announced that we anticipate our total annual capital spending and our investments in our battery cell manufacturing joint ventures to be in the range of $11.0 to $13.0 billion through 2025 primarily to accelerate this transformation plan.
+Industrial Environmental Control
+Our operations are subject to a wide range of environmental protection laws including those regulating air emissions, water discharge, waste management and environmental cleanup. Certain environmental statutes require that responsible parties fund remediation actions regardless of fault, legality of original disposal or ownership of a disposal site. Under certain circumstances these laws impose joint and several liability as well as liability for related damages to natural resources.
+To further mitigate the impacts of our worldwide operations on the environment, including climate change, we are supplementing our compliance programs with sustainability efforts focused on reducing operational GHG emissions, water consumption and discharge and operational waste.
+We aim to continue our progress toward becoming a Zero Waste company by diverting greater than 90% of our total operational waste from landfills, incinerators, and energy recovery facilities by 2025. We also continue our efforts to increase our use of renewable energy, improve our energy efficiency and work to drive growth and scale of renewables. We recently announced the finalization of energy sourcing agreements required to secure 100% of the energy needed to power all our U.S. facilities with renewable energy by 2025. This is in line with the accelerated target announced in September 2021 and 25 years ahead of the initial target of 2050, set in 2016. We are on target to meet the remaining needs of our global operations with 100% renewable energy by 2035.
+Chemical Regulations
+We continually monitor the implementation of chemical regulations to maintain compliance and evaluate their effect on our business, suppliers and the automotive industry.
+Globally, governments continue to introduce new legislation and regulations related to the selection and use of chemicals by mandating broad prohibitions or restrictions and implementing vehicle interior air quality, green chemistry, life cycle analysis
+12
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+and product stewardship initiatives. These initiatives give broad regulatory authority to ban or restrict the use of certain chemical substances and potentially affect automobile manufacturers' responsibilities for vehicle components at the end of a vehicle's life, as well as chemical selection for product development and manufacturing. Global treaties and initiatives such as the Stockholm, Basel and Rotterdam Conventions on Chemicals and Waste, the Minamata Convention on Mercury and EU Registration, Evaluation, Authorization and Restriction of Chemicals (REACH), are driving chemical regulations across signatory countries. Increases in the use of circuit boards and other electronics may require additional assessment under the Restriction on Hazardous Substances and Waste from Electrical and Electronic Equipment directives. New European requirements require suppliers of parts and vehicles to the European market to disclose substances of concern in parts.
+Chemical regulations are increasing in North America. In the U.S., the EPA is moving forward with risk analysis and management of high priority chemicals under the authority of the 2016 Lautenberg Chemical Safety for the 21st Century Act. In addition, several U.S. states have chemical management regulations that can affect vehicle design and manufacturing such as chemical restriction and use requirements. For example, Maine will likely require the reporting of per- and polyfluoroalkyl substances (PFAS) in 2023, and the elimination of PFAS in 2030, except for unavoidable uses. Chemical restrictions and export controls in Canada continue to steadily progress under the Environment and Climate Change Canada's Chemical Management Plan to assess existing substances and implement risk management controls on any chemical deemed toxic.
+These emerging laws and regulations will potentially lead to increases in costs and supply chain complexity. Manufacturers, including joint venture partners and suppliers, that do not comply with global and specific country regulations could be subject to civil penalties, production disruptions, or limitations on the sale of affected products. We believe we are materially in compliance with substantially all these requirements or expect to be materially in compliance by the required dates.
+Vehicle Safety
+U.S. Requirements
+The National Traffic and Motor Vehicle Safety Act of 1966 (the Safety Act) regulates the vehicles and items of motor vehicle equipment that we manufacture and sell. The Safety Act prohibits the sale in the United States of any new vehicle or equipment that does not conform to applicable federal motor vehicle safety standards established by NHTSA. Meeting or exceeding the many safety standards is costly as global compliance and non-governmental assessment requirements continue to evolve and grow more complex, and lack harmonization globally. The Safety Act further requires that if we or NHTSA determine a vehicle or an item of vehicle equipment does not comply with a safety standard, or that vehicle or equipment contains a defect that poses an unreasonable safety risk, we must conduct a safety recall to remedy that condition in the affected vehicles. Should we or NHTSA determine a safety defect or noncompliance issue exists with respect to any of our vehicles, the cost of such recall campaigns could be substantial.
+Other National Requirements
+Outside of the U.S., many countries have established vehicle safety standards and regulations and are likely to adopt additional, more stringent requirements in the future. The European General Safety Regulation has introduced United Nations Economic Commission for Europe (UN-ECE) regulations, which are required for the European Type Approval process. Globally, governments generally have been adopting UN-ECE based regulations with some variations to address local concerns. Any difference between North American and UN-ECE based regulations can add complexity and costs to vehicle development, and we continue to support efforts to harmonize regulations to reduce complexity. New safety and recall requirements in various countries around the world, including in China, Brazil, and Gulf Cooperation Council countries, also may add substantial costs and complexity to our safety and field action activities globally. In Canada, vehicle regulatory requirements are currently aligned with U.S. regulations; however, under the Canadian Motor Vehicle Safety Act, recall thresholds are different and the Minister of Transport has broad powers to order manufacturers to submit a notice of defect or non-compliance when the Minister considers it to be in the interest of safety. Further, various governments are beginning to mandate e-Call and other features that can be market-specific and add complexity and increase our cost of compliance globally.
+Crash Test Ratings and New Car Assessment Programs
+Organizations in various regions around the world, including in the U.S., rate and compare motor vehicles through various New Car Assessment Programs (NCAPs) to provide consumers and businesses with additional information about the safety of new vehicles. NCAPs use crash tests and other evaluations that are different than what is required by applicable regulations, and use stars or other grading systems, depending on the region, to rate vehicle safety. Achieving high NCAP ratings, which can vary by country and region, can add complexity and cost to vehicles.
+Website Access to Our Reports
+Our internet website address is https://www.gm.com. In addition to the information about us and our subsidiaries contained in this 2022 Form 10-K, information about us can be found on our website including information on our corporate governance principles and practices. Our Investor Relations website at https://investor.gm.com contains a
+13
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+significant amount of information about us, including financial and other information for investors. We encourage investors to visit our website, as we frequently update and post new information about our company on our website and it is possible that this information could be deemed to be material information. Our website and information included in or linked to our website are not part of this 2022 Form 10-K.
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (Exchange Act), are available free of charge through our website as soon as reasonably practicable after they are electronically filed with or furnished to the Securities and Exchange Commission (SEC). The SEC maintains a website that contains reports, proxy and information statements, and other information regarding our filings at https://www.sec.gov.
+*  *  *  *  *  *  *
+
+User input: gm note 4
+System Response: Marketable and Other Securities
+The following table summarizes the fair value of cash equivalents and marketable debt securities, which approximates cost:
+Fair Value Level
+December 31, 2022
+December 31, 2021
+Cash and cash equivalents
+Cash and time deposits
+8,921
+7,881
+Available-for-sale debt securities
+U.S. government and agencies
+1,012
+722
+Corporate debt
+2,778
+5,321
+Sovereign debt
+1,828
+2,105
+Total available-for-sale debt securities – cash equivalents
+5,618
+8,148
+Money market funds
+4,613
+4,038
+Total cash and cash equivalents(a)
+19,153
+20,067
+Marketable debt securities
+U.S. government and agencies
+4,357
+2,071
+Corporate debt
+5,147
+3,396
+Mortgage and asset-backed
+538
+575
+Sovereign debt
+2,108
+2,567
+Total available-for-sale debt securities – marketable securities(b)
+12,150
+8,609
+Restricted cash
+Cash and cash equivalents
+341
+466
+Money market funds
+2,455
+3,009
+Total restricted cash
+2,796
+3,475
+Available-for-sale debt securities included above with contractual maturities(c)
+Due in one year or less
+10,909
+Due between one and five years
+6,231
+Total available-for-sale debt securities with contractual maturities
+17,139
+__________
+(a)    Includes $
+1.5
+billion and $
+1.6
+billion in Cruise at December 31, 2022 and 2021.
+(b)    Includes $
+1.4
+billion and $
+1.5
+billion in Cruise at December 31, 2022 and 2021.
+(c)
+Excludes mortgage and asset-backed securities of $
+538
+million at December 31, 2022 as these securities are not due at a single maturity date.
+Proceeds from the sale of available-for-sale debt securities sold prior to maturity were $
+1.8
+billion in the year ended December 31, 2022, and $
+1.9
+billion in the years ended December 31, 2021 and 2020. Net unrealized losses on available-for-sale debt securities were $
+319
+million in the year ended December 31, 2022 and insignificant in the years ended December 31, 2021 and 2020. Cumulative unrealized losses on available-for-sale debt securities were $
+344
+million and insignificant at December 31, 2022 and 2021.
+65
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+The following table provides a reconciliation of cash, cash equivalents and restricted cash reported within the consolidated balance sheets that sum to the total of the same amounts shown in the consolidated statements of cash flows:
+December 31, 2022
+December 31, 2021
+Cash and cash equivalents
+19,153
+20,067
+Restricted cash included in Other current assets
+2,356
+2,935
+Restricted cash included in Other assets
+440
+540
+Total
+21,948
+23,542
+
+User input: gm note 3
+System Response: User exited, please enter a new search to try again.
+User input: gm note 8
+System Response: Equity in Net Assets of Nonconsolidated Affiliates
+Nonconsolidated affiliates are entities in which we maintain an equity ownership interest and for which we use the equity method of accounting due to our ability to exert significant influence over decisions relating to their operating and financial affairs.
+Revenue and expenses of our joint ventures are not consolidated into our financial statements; rather, our proportionate share of the earnings of each joint venture is reflected as Equity income.
+Years Ended December 31,
+2022
+2021
+2020
+Automotive China equity income (loss)
+677
+1,098
+512
+Other joint ventures equity income (loss)
+159
+203
+162
+Total Equity income (loss)
+837
+1,301
+674
+Investments in Nonconsolidated Affiliates
+December 31, 2022
+December 31, 2021
+Automotive China carrying amount
+6,714
+7,156
+Ultium Cells Holdings LLC carrying amount
+1,463
+650
+Other investments carrying amount
+1,998
+1,871
+Total equity in net assets of nonconsolidated affiliates
+10,176
+9,677
+The carrying amount of our investments in certain joint ventures exceeded our share of the underlying net assets by $
+4.3
+billion at December 31, 2022 and 2021 primarily due to goodwill from the application of fresh-start reporting and the purchase of additional interests in nonconsolidated affiliates.
+70
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+The following table summarizes our direct ownership interests in our China JVs:
+December 31, 2022
+December 31, 2021
+Automotive China JVs
+SAIC General Motors Corp., Ltd. (SGM)
+50
+50
+Pan Asia Technical Automotive Center Co., Ltd.
+50
+50
+SAIC General Motors Sales Co., Ltd. (SGMS)
+49
+49
+SAIC GM Wuling Automobile Co., Ltd. (SGMW)
+44
+44
+Shanghai OnStar Telematics Co., Ltd. (Shanghai OnStar)
+40
+40
+SAIC GM (Shenyang) Norsom Motors Co., Ltd. (SGM Norsom)
+25
+25
+SAIC GM Dong Yue Motors Co., Ltd. (SGM DY)
+25
+25
+SAIC GM Dong Yue Powertrain Co., Ltd. (SGM DYPT)
+25
+25
+Other joint ventures
+SAIC-GMAC Automotive Finance Company Limited (SAIC-GMAC)
+35
+35
+SAIC-GMF Leasing Co., Ltd.
+35
+35
+SGM is a joint venture we established with Shanghai Automotive Industry Corporation (SAIC) (
+50
+%). SGM has interests in
+three
+other joint ventures in China: SGM Norsom, SGM DY and SGM DYPT. These
+three
+joint ventures are jointly held by SGM (
+50
+%), SAIC (
+25
+%) and ourselves. These
+four
+joint ventures are engaged in the production, import and sale of a range of products under the Buick, Chevrolet and Cadillac brands. SGM also has interests in Shanghai OnStar (
+20
+%), SAIC-GMAC (
+20
+%) and SAIC-GMF Leasing Co., Ltd. (
+20
+%). Shanghai Automotive Group Finance Company Ltd., a subsidiary of SAIC, owns
+45
+% of SAIC-GMAC. SAIC Financial Holdings Company, a subsidiary of SAIC, owns
+45
+% of SAIC-GMF Leasing Co., Ltd.
+Summarized Financial Data of Nonconsolidated Affiliates
+December 31, 2022
+December 31, 2021
+Automotive China JVs
+Others
+Total
+Automotive China JVs
+Others
+Total
+Summarized Balance Sheet Data
+Current assets
+17,735
+17,405
+35,140
+18,176
+18,166
+36,342
+Non-current assets
+12,428
+10,826
+23,254
+13,948
+10,042
+23,990
+Total assets
+30,163
+28,231
+58,394
+32,124
+28,208
+60,332
+Current liabilities
+23,267
+17,498
+40,765
+24,320
+17,141
+41,461
+Non-current liabilities
+1,167
+3,184
+4,351
+1,223
+5,607
+6,830
+Total liabilities
+24,434
+20,682
+45,116
+25,543
+22,748
+48,291
+Noncontrolling interests
+904
+904
+867
+867
+Years Ended December 31,
+2022
+2021
+2020
+Summarized Operating Data
+Automotive China JVs' net sales
+35,857
+42,776
+38,736
+Others' net sales
+2,029
+2,017
+1,850
+Total net sales
+37,886
+44,793
+40,586
+Automotive China JVs' net income
+1,407
+2,109
+1,239
+Others' net income
+426
+587
+436
+Total net income
+1,833
+2,696
+1,675
+71
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+Transactions with Nonconsolidated Affiliates
+Our nonconsolidated affiliates are involved in various aspects of the development, production and marketing of trucks, crossovers, cars and automobile parts. We enter into transactions with certain nonconsolidated affiliates to purchase and sell component parts and vehicles.
+The following tables summarize transactions with and balances related to our nonconsolidated affiliates:
+Years Ended December 31,
+2022
+2021
+2020
+Automotive sales and revenue
+218
+227
+235
+Automotive purchases, net
+2,637
+1,551
+165
+Dividends received
+1,030
+783
+1,198
+Operating cash flows
+1,133
+616
+1,473
+December 31, 2022
+December 31, 2021
+Accounts and notes receivable, net
+1,089
+1,004
+Accounts payable
+942
+555
+Undistributed earnings
+1,918
+2,111
+
+User input: q
+System Response: Have a nice day!

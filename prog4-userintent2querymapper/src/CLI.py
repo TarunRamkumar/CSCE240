@@ -2,6 +2,9 @@ import FileParser as Parser
 import string
 import re
 from difflib import SequenceMatcher as matcher
+from datetime import datetime
+import csv
+import os
 
 #Creates a class to handle the UI
 class CLI:
@@ -133,13 +136,31 @@ class CLI:
         
 ui = CLI()
 run = True
-while run:
-    #Runs until the user quits
-    response = input("What would you like to ask about? Type q or quit to exit")
-    if response == "q" or response == "quit":
-        print("Have a nice day!")
-        run = False
-    else:
-        print(ui.processResponse(response))
+chatSessions = os.listdir("..\\data\\chat_sessions")
+chatSessionCount = len(chatSessions)
+filename = os.path.join('..','data', 'chat_sessions','session-'+str(chatSessionCount+1)+'_'+str(datetime.now().strftime("%Y-%m-%d_%H-%M-%S"))+'.txt')  
+starttime = datetime.now()
+userUtterances = 0
+systemUtterances = 0
+with open(filename,"w",encoding="utf-8") as file:   
+    while run:
+        #Runs until the user quits
+            response = input("What would you like to ask about? Type q or quit to exit")
+            userUtterances+=1
+            file.write("User input: "+response+'\n')
+            if response == "q" or response == "quit":
+                systemUtterances+=1
+                print("Have a nice day!")
+                file.write("System Response: Have a nice day!\n")
+                with open("..//data//chat_statistics.csv","a",encoding="utf-8") as logFile:
+                    totaltime = datetime.now()-starttime
+                    log = csv.writer(logFile)
+                    log.writerow([datetime.now().strftime("%Y-%m-%d"),starttime.strftime("%H:%M:%S"),str(totaltime.total_seconds()),userUtterances,systemUtterances])
+                run = False
+            else:
+                systemResponse = ui.processResponse(response)
+                systemUtterances+=1
+                print(systemResponse)
+                file.write("System Response: " + systemResponse+'\n')
    
     

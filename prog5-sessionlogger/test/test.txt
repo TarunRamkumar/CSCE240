@@ -1,0 +1,30 @@
+
+Testing to get total chat summaries:
+    PS C:\Users\thepe\OneDrive - University of South Carolina\CSCE 240\CSCE240\prog5-sessionlogger\src> python CLI5.py summary
+    ['2024-04-04', '20:32:32', '8.535064', '2', '2']
+    ['2024-04-04', '20:34:54', '23.75338', '5', '5']
+    ['2024-04-04', '20:35:24', '20.028457', '3', '3']
+    There are 3 total chats to date, with 10 total user inputs and 10 system responses. The total duration of all chats is 52.316901 seconds
+
+Testing chat summary with valid value:
+    PS C:\Users\thepe\OneDrive - University of South Carolina\CSCE 240\CSCE240\prog5-sessionlogger\src> python CLI5.py summary -c3
+    Chat 3 has 3 user inputs and 3 system responses, with a total session time of 20.028457 seconds
+
+Testing chat summary with invalid value:
+    PS C:\Users\thepe\OneDrive - University of South Carolina\CSCE 240\CSCE240\prog5-sessionlogger\src> python CLI5.py summary -c200
+    ERROR: There are only 3 chat sessions. Please enter a valid number.
+
+Testing showchat with valid value:
+    Tested with all valid values(1-3), and returned the accurate chat sessions.
+
+Testing showchat with invalid value:
+    PS C:\Users\thepe\OneDrive - University of South Carolina\CSCE 240\CSCE240\prog5-sessionlogger\src> python CLI5.py showchat -c 10
+    ERROR: There are only 3 chat sessions. Please enter a valid number.
+
+Testing showchat with no values:
+    PS C:\Users\thepe\OneDrive - University of South Carolina\CSCE 240\CSCE240\prog5-sessionlogger\src> python CLI5.py showchat -c   
+    usage: CLI5.py showchat [-h] -c CHAT
+    CLI5.py showchat: error: argument -c/--chat: expected one argument
+    PS C:\Users\thepe\OneDrive - University of South Carolina\CSCE 240\CSCE240\prog5-sessionlogger\src> python CLI5.py showchat    
+    usage: CLI5.py showchat [-h] -c CHAT
+    CLI5.py showchat: error: the following arguments are required: -c/--chat
