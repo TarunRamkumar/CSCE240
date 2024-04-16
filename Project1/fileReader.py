@@ -6,11 +6,11 @@ import re
 def scrapeFile(company):
     if(company == "google"):
         url = "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000022/goog-20231231.htm"
-        file = open("Project1/data/Google10k-4Q-2024.txt","w", encoding =  "utf-8")
+        file = open("../data/Google10k-4Q-2024.txt","w", encoding =  "utf-8")
 
     else:
         url = "https://www.sec.gov/Archives/edgar/data/1467858/000146785823000029/gm-20221231.htm"
-        file = open("Project1/data/GM10k-4Q-2024.txt","w", encoding =  "utf-8")
+        file = open("../data/GM10k-4Q-2024.txt","w", encoding =  "utf-8")
 
     headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36',
