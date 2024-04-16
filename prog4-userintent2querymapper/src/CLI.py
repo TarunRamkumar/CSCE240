@@ -10,14 +10,14 @@ import os
 class CLI:
     def __init__(self):
         #To run in global terminal 
-        try:
-            self.google = Parser.FileParser("..\\data\\Google10k-4Q-2024.txt")
-            self.generalMotors = Parser.FileParser("..\\data\\GeneralMotors10k-4Q-2024.txt")
-        except:
-            print("File not found. Please ensure that the correct files have been loaded into the data folder and try again.")
+        # try:
+        #     self.google = Parser.FileParser("..\\data\\Google10k-4Q-2024.txt")
+        #     self.generalMotors = Parser.FileParser("..\\data\\GeneralMotors10k-4Q-2024.txt")
+        # except:
+        #     print("File not found. Please ensure that the correct files have been loaded into the data folder and try again.")
         #To run in VSCode terminal
-        # self.google = Parser.FileParser("prog3-ui\data\Google10k-4Q-2024.txt")
-        # self.generalMotors = Parser.FileParser("prog3-ui\data\GeneralMotors10k-4Q-2024.txt")
+        self.google = Parser.FileParser("prog3-ui\data\Google10k-4Q-2024.txt")
+        self.generalMotors = Parser.FileParser("prog3-ui\data\GeneralMotors10k-4Q-2024.txt")
     
     #Cleans the response to better match the queries
     def cleanResponse(self,response):
