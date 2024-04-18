@@ -36,5 +36,5 @@ def scrapeFile(company):
 
     #print(headers)
     file.close
-    return file
+    return file.name
 #a.documentlink
