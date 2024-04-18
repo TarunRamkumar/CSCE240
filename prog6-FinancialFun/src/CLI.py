@@ -19,15 +19,113 @@ class CLI:
         # self.generalMotors = Parser.FileParser("prog3-ui\data\GeneralMotors10k-4Q-2024.txt")
     
     #Cleans the response to better match the queries
+    #Combined parts of Anish's stopwords method with mine for better performance
     def cleanResponse(self,response):
         response = re.sub( "((^|\s)gm)|(general motors)","",response)
         utterance = list(response.strip().lower().split(" "))
-        stopwords = []
-        #common stopwords in the english language
-        with open("..\\data\\stopwords.txt") as file:
-            for line in file:
-                stopwords.append(line.strip())
-        
+        stopwords = ["i","me","my","myself","we"
+,"our","ours","ourselves","you","your","yours","yourself","yourselves","he","him","his","himself","she","her","hers","herself","it"
+,"its"
+,"itself"
+,"they"
+,"them"
+,"their"
+,"theirs"
+,"themselves"
+,"what"
+,"which"
+,"who"
+,"whom"
+,"this"
+,"that"
+,"these"
+,"those"
+,"am"
+,"is"
+,"are"
+,"was"
+,"were"
+,"be"
+,"been"
+,"being"
+,"have"
+,"has"
+,"had"
+,"having"
+,"do"
+,"does"
+,"did"
+,"doing"
+,"a"
+,"an"
+,"the"
+,"and"
+,"but"
+,"if"
+,"or"
+,"because"
+,"as"
+,"until"
+,"while"
+,"of"
+,"at"
+,"by"
+,"for"
+,"with"
+,"about"
+,"against"
+,"between"
+,"into"
+,"through"
+,"during"
+,"before"
+,"after"
+,"above"
+,"below"
+,"to"
+,"from"
+,"up"
+,"down"
+,"in"
+,"out"
+,"on"
+,"off"
+,"over"
+,"under"
+,"again"
+,"further"
+,"then"
+,"once"
+,"here"
+,"there"
+,"when"
+,"where"
+,"why"
+,"how"
+,"all"
+,"any"
+,"both"
+,"each"
+,"few"
+,"more"
+,"most"
+,"other"
+,"some"
+,"such"
+,"no"
+,"nor"
+,"not"
+,"only"
+,"own"
+,"same"
+,"so"
+,"than"
+,"too"
+,"very"
+,"s"
+,"t"
+,"can"
+,"will","just","don","should","now"]
         i = 0
         #Removes stopwords from the user's input
         while i < len(utterance):
@@ -35,7 +133,6 @@ class CLI:
                 utterance.remove(utterance[i])
             else:
                 i+=1
-        
         # i = 0
         # if "part" in utterance:
         #     for word in utterance:
@@ -83,7 +180,7 @@ class CLI:
     def matchResponses(self,response,company):
         matchPercent = 0
         match = None
-        supportedQueries = company.listTOC + ["SUMMARY","SHOW CHAT SUMMARY","SHOW CHAT"]
+        supportedQueries = company.listTOC + ["SUMMARY","CHAT SUMMARY","SHOW CHAT"]
         response = self.cleanResponse(response)
         for query in supportedQueries:
             cleanedQuery = self.cleanQuery(query)
@@ -122,7 +219,7 @@ class CLI:
                 match = self.matchResponses(response,self.google)
                 confirmation = input("I am "+match[1]+" confident you are searching for " + match[0]+" in Google. Is this correct? Type 'y' or 'yes' to continue, anything else to exit and try again.")
                 if confirmation.lower() == "y" or confirmation.lower() == "yes":
-                    if match[0] in ["SHOW CHAT SUMMARY","SHOW CHAT"]:
+                    if match[0] in ["CHAT SUMMARY","SHOW CHAT"]:
                         return Logger.sessionUI(match[0],str(re.search('[0-9]+',response).group(0)))
                     elif match[0] in ["SUMMARY"]:
                         return Logger.sessionUI(match[0],0)

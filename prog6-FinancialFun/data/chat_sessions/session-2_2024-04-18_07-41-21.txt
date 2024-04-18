@@ -1,0 +1,212 @@
+<User>:show me google's toc
+<System>:{'Part 0': ['Note About Forward-Looking Statements'], 'PART I': ['Item 1. Business', 'Item 1A. Risk Factors', 'Item 1B. Unresolved Staff Comments', 'Item 1C. Cybersecurity', 'Item 2. Properties', 'Item 3. Legal Proceedings', 'Item 4. Mine Safety Disclosures'], 'PART II': ['Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities', 'Item 6. [Reserved]', 'Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations', 'Item 7A. Quantitative and Qualitative Disclosures About Market Risk', 'Item 8. Financial Statements and Supplementary Data', 'Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure', 'Item 9A. Controls and Procedures', 'Item 9B. Other Information', 'Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections'], 'PART III': ['Item 10. Directors, Executive Officers, and Corporate Governance', 'Item 11. Executive Compensation', 'Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters', 'Item 13. Certain Relationships and Related Transactions, and Director Independence', 'Item 14. Principal Accountant Fees and Services'], 'PART IV': ['Item 15. Exhibits, Financial Statement Schedules', 'Item 16. Form 10-K Summary', 'Signatures', '2.']}
+<User>:show me gm's table of contents
+<System>:{'Part 0': [], 'PART I': ['Item 1. Business', 'Item 1A. Risk Factors', 'Item 1B. Unresolved Staff Comments', 'Item 2. Properties', 'Item 3. Legal Proceedings', 'Item 4. Mine Safety Disclosures'], 'PART II': ['Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities', 'Item 6. [Reserved]', 'Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations', 'Item 7A. Quantitative and Qualitative Disclosures About Market Risk', 'Item 8. Financial Statements and Supplementary Data', 'Consolidated Income Statements', 'Consolidated Statements of Comprehensive Income', 'Consolidated Balance Sheets', 'Consolidated Statements of Cash Flows', 'Consolidated Statements of Equity', 'Notes to Consolidated Financial Statements', 'Note 1. Nature of Operations and Basis of Presentation', 'Note 2. Significant Accounting Policies', 'Note 3. Revenue', 'Note 4. Marketable and Other Securities', 'Note 5. GM Financial Receivables and Transactions', 'Note 6. Inventories', 'Note 7. Operating Leases', 'Note 8. Equity in Net Assets of Nonconsolidated Affiliates', 'Note 9. Property', 'Note 10. Goodwill and Intangible Assets', 'Note 11. Variable Interest Entities', 'Note 12. Accrued and Other Liabilities', 'Note 13. Debt', 'Note 14. Derivative Financial Instruments', 'Note 15. Pensions and Other Postretirement Benefits', 'Note 16. Commitments and Contingencies', 'Note 17. Income Taxes', 'Note 18. Restructuring and Other Initiatives', 'Note 19. Interest Income and Other Non-Operating Income', 'Note 20. Stockholders’ Equity and Noncontrolling Interests', 'Note 21. Earnings Per Share', 'Note 22. Stock Incentive Plans', 'Note 23. Segment Reporting', 'Note 24. Supplemental Information for the Consolidated Statements of Cash Flows', 'Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure', 'Item 9A. Controls and Procedures', 'Item 9B. Other Information', 'Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections'], 'PART III': ['Item 10. Directors, Executive Officers and Corporate Governance', 'Item 11. Executive Compensation', 'Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters', 'Item 13. Certain Relationships and Related Transactions, and Director Independence', 'Item 14. Principal Accountant Fees and Services'], 'PART IV': ['Item 15. Exhibit and Financial Statement Schedules', 'Item 16. Form 10-K Summary', 'Signatures']}
+<User>:tell me bout google
+<System>:User exited, please enter a new search to try again.
+<User>:tell me about google
+<System>:User exited, please enter a new search to try again.
+<User>:tell me about google's executive compensations
+<System>:EXECUTIVE COMPENSATION
+The information required by this item will be included under the captions “Director Compensation,” “Executive Compensation” and “Directors, Executive Officers, and Corporate Governance—Corporate Governance and Board Matters—Compensation Committee Interlocks and Insider Participation” in the 2024 Proxy Statement and is incorporated herein by reference, except as to information disclosed therein pursuant to Item 402(v) of Regulation S-K relating to pay versus performance.
+
+<User>:show me gm's note 3
+<System>:Revenue
+The following table disaggregates our revenue by major source for revenue generating segments
+Year Ended December 31, 2022
+GMNA
+GMI
+Corporate
+Total Automotive
+Cruise
+GM Financial
+Eliminations/ Reclassifications
+Total
+Vehicle, parts and accessories
+124,657
+13,993
+42
+138,692
+138,692
+Used vehicles
+483
+33
+516
+516
+Services and other
+3,238
+1,393
+134
+4,765
+102
+101
+4,766
+Automotive net sales and revenue
+128,378
+15,420
+177
+143,974
+102
+101
+143,975
+Leased vehicle income
+7,811
+7,811
+Finance charge income
+4,521
+4,519
+Other income
+435
+431
+GM Financial net sales and revenue
+12,766
+12,760
+Net sales and revenue
+128,378
+15,420
+177
+143,974
+102
+12,766
+107
+156,735
+Year Ended December 31, 2021
+GMNA
+GMI
+Corporate
+Total Automotive
+Cruise
+GM Financial
+Eliminations/ Reclassifications
+Total
+Vehicle, parts and accessories
+97,515
+10,956
+14
+108,485
+108,485
+Used vehicles
+545
+49
+594
+594
+Services and other
+3,248
+1,167
+90
+4,505
+106
+100
+4,511
+Automotive net sales and revenue
+101,308
+12,172
+104
+113,584
+106
+100
+113,590
+Leased vehicle income
+9,026
+9,026
+Finance charge income
+4,103
+4,103
+Other income
+290
+285
+GM Financial net sales and revenue
+13,419
+13,414
+Net sales and revenue
+101,308
+12,172
+104
+113,584
+106
+13,419
+105
+127,004
+Year Ended December 31, 2020
+GMNA
+GMI
+Corporate
+Total Automotive
+Cruise
+GM Financial
+Eliminations/ Reclassifications
+Total
+Vehicle, parts and accessories
+92,749
+10,593
+103,343
+103,343
+Used vehicles
+875
+115
+20
+1,010
+1,010
+Services and other
+3,109
+878
+329
+4,316
+103
+99
+4,320
+Automotive net sales and revenue
+96,733
+11,586
+350
+108,669
+103
+99
+108,673
+Leased vehicle income
+9,530
+9,530
+Finance charge income
+3,996
+3,995
+Other income
+305
+18
+287
+GM Financial net sales and revenue
+13,831
+19
+13,812
+Net sales and revenue
+96,733
+11,586
+350
+108,669
+103
+13,831
+118
+122,485
+Revenue is measured as the amount of consideration we expect to receive in exchange for transferring goods or providing services. Adjustments to sales incentives for previously recognized sales were insignificant during the years ended December 31, 2022, 2021 and 2020.
+64
+Table of Contents
+GENERAL MOTORS COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+Contract liabilities in our Automotive segments primarily consist of maintenance, extended warranty and other service contracts of $
+3.3
+billion and $
+2.5
+billion at December 31, 2022 and 2021, which are included in Accrued liabilities and Other liabilities. We recognized revenue of $
+1.3
+billion and $
+1.2
+billion related to contract liabilities during the years ended December 31, 2022 and 2021. We expect to recognize revenue of $
+1.3
+billion, $
+680
+million and $
+1.4
+billion in the years ending December 31, 2023, 2024 and thereafter related to contract liabilities at December 31, 2022.
+
+<User>:q
+<System>: Have a nice day!
+This chat session took 69.659025 seconds.

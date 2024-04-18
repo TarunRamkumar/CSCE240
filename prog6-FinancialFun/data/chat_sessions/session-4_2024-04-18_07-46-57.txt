@@ -1,0 +1,5 @@
+<User>:show me chat 3 summary
+<System>:Chat 3 has 7 user inputs and 14 system responses, with a total session time of 69.659025 seconds
+<User>:q
+<System>: Have a nice day!
+This chat session took 8.883877 seconds.

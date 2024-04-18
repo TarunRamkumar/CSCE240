@@ -1,0 +1,7 @@
+<User>:chat 3 summary
+<System>:Please only enter one of the 4 options.
+<User>:	
+<System>:User exited, please enter a new search to try again.
+<User>:q
+<System>: Have a nice day!
+This chat session took 36.371535 seconds.

@@ -1,0 +1,7 @@
+<User>:show me the summary of all statistics
+<System>:There are 5 total chats to date, with 19 total user inputs and 38 system responses. The total duration of all chats is 226.47401100000002 seconds
+<User>:show me chat 3's summary
+<System>:None
+<User>:q
+<System>: Have a nice day!
+This chat session took 36.648168 seconds.

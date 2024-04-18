@@ -59,7 +59,7 @@ def getAllChatSummary():
 def sessionUI(choice,n):
     #fullStat = initCSV() #calls the initCSV() function and sets the return value to fullStat
     checkFS = re.compile("^SUMMARY") #creates a checkFS regex
-    checkOS = re.compile("^SHOW CHAT SUMMARY") #creates a checkOS regex
+    checkOS = re.compile("^CHAT SUMMARY") #creates a checkOS regex
     checkOC = re.compile("^SHOW CHAT") #creates a checkOC regex
     print(choice,n)
     choice = choice.upper() #makes the input all uppercase
