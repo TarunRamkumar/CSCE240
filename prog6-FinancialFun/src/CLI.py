@@ -98,7 +98,6 @@ class CLI:
         #Lowers the response to prevent case sensitivity
         response = response.lower()
         #Searches for GM, if not found then defaults to Google
-        
         if re.search('(^|\s)gm',response) != None or  re.search(" general motors",response) != None:
             if ("all" in response and "summary" not in response) or ("everything" in response and "summary" not in response):
                     return str(self.generalMotors.getFile())
@@ -151,7 +150,7 @@ starttime = datetime.now()
 with open(filename,"w",encoding="utf-8") as file:   
     while run:
         #Runs until the user quits
-            response = input("What would you like to ask about? Type q or quit to exit")
+            response = input("What would you like to ask about? I currently support GM and Google's 10ks. Type q or quit to exit")
             systemUtterances+=1
             file.write("<User>:"+response+'\n')
             userUtterances+=1

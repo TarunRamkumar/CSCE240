@@ -1,0 +1,7 @@
+<User>:tell me about google's executives
+<System>:EXECUTIVE COMPENSATION
+The information required by this item will be included under the captions “Director Compensation,” “Executive Compensation” and “Directors, Executive Officers, and Corporate Governance—Corporate Governance and Board Matters—Compensation Committee Interlocks and Insider Participation” in the 2024 Proxy Statement and is incorporated herein by reference, except as to information disclosed therein pursuant to Item 402(v) of Regulation S-K relating to pay versus performance.
+
+<User>:q
+<System>: Have a nice day!
+This chat session took 19.463666 seconds.

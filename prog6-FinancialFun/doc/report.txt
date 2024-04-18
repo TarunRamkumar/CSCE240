@@ -1,0 +1,3 @@
+Overall, combining PA1 and PA4 was relatively simple, as I just needed to scrape the files rather than preloading them into the directory. However, PA5 was difficult to implement, as I had originally coded it as a 
+CLI, which could not be combined with the matching algorithm. I ended up using parts of Dev's PA5, which made it easier to combine with my UI. The trickiest part was calling the logging function after my part was matched, 
+because originally I would just retrieve the relative part of the file once a match was found. 

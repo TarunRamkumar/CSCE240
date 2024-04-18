@@ -2,6 +2,8 @@ import csv #importing csv library
 import os #importing os library
 import re #importing re library
 
+#Dev's PA5 code
+
 def summary(n): #prints the summary of a single chat session
     count = 0 #creates a variable named count and sets it to 0
     with open("../data/chat_statistics.csv") as f: #opens the csv file
@@ -17,6 +19,7 @@ def summary(n): #prints the summary of a single chat session
         return "Error. There are only "+str(i)+" sessions. Please choose a valid number. The session numbers go from 0 to "+str(i-1)+"."
     f.close() #closes the file
 
+#Combination of my PA5 and Dev's chat retrieval code
 def showchat(n): #prints the entire chat to the terminal
     fileString = "" #creates a fileName variable
     count = 0 #creates a variable named count and sets it to 0
@@ -34,7 +37,7 @@ def showchat(n): #prints the entire chat to the terminal
         return "Error. There are only "+str(count)+" sessions. Please choose a valid number. The session numbers go from 0 to "+str(count-1)+"."
     return "Chat "+n+" chat is:\n" + fileString
 
-
+#My chat summary code from PA5
 def getAllChatSummary():
     with open("..\\data\\chat_statistics.csv","r") as logFile:
         log = csv.reader(logFile)
@@ -52,6 +55,7 @@ def getAllChatSummary():
                 totalUser += int(row[3])
         return f"There are {totalChats} total chats to date, with {totalUser} total user inputs and {totalSystem} system responses. The total duration of all chats is {totalTime} seconds"
 
+#Dev's chat session UI code
 def sessionUI(choice,n):
     #fullStat = initCSV() #calls the initCSV() function and sets the return value to fullStat
     checkFS = re.compile("^SUMMARY") #creates a checkFS regex
